@@ -5,7 +5,15 @@ reading for an MSc and PhD in Data Analytics at the [University of Liverpool](ht
 
 ## Research Interests
 
-- 
--
--
--
+- Understanding and defining global retails centres, specifically what they are composed of.
+- Developing and integrating new sources of ancillary data for reserach - e.g. aerial imagery, remote sensing.
+- Learning new programming languages like python, R and javascript.
+
+## Contact Details
+
+Patrick Ballantyne
+Department of Environmental Sciences
+Roxby Building, University of Liverpool
+Chatham Street
+L7 7BD
+Email: sgpballa@liverpool.ac.uk
