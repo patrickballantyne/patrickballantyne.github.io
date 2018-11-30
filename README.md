@@ -33,7 +33,9 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     
   The **code** for this practical session can be found at: *include hyperlink*
   
-  As detailed in the code, there were a number of problems with the code at this point:
+  As detailed in the code, there were a number of problems with the code at this point: 
+        patrickballantyne.github.io/PRACTICAL TWO OUTPUT.png
+      
   
     * Lots of repetition, when generating and moving agents
     * No behaviour other than movement, so doesn't really feel very agent-based
