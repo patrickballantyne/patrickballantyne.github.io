@@ -71,7 +71,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     3) Agents were plotted using a for-loop
     4) Introduced to the concept of solving boundary effects
     
-   The **code** for this section can be found at: *include hyperlink* 
+   The **code** for this section can be found at: [Script3](Practical3_ShrinkingCode2.py)
    
    It was thus possibile to use what was learned about matplotlib.pyplot to plot the ten agents, replotting each time the *move* method
    was called. 
