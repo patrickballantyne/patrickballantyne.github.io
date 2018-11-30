@@ -99,7 +99,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     1) A new 'Agent' class was created within a separate agentframework.py file, containing an initialiser and move method
     2) The original code to move agents based on random.random() was modified to fit within the new 'Agent' class
     
-   The **code** for this section can be found at: *include hyperlink* 
+   The **code** for this section can be found at: [Script5](Practical5_Agents.py)
    
    Following creation of the 'Agent' class, the agents could be plotted: [Figure3](Figure3.png)
    
