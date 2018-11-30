@@ -15,6 +15,7 @@ I was born in 1997 in Luton, Bedfordshire, UK.
 * 2015-2018: Studied and graduated from the [University of Liverpool](https://www.liverpool.ac.uk/) with a First Class BSc in Physical Geography
 * 2018-Present: Reading for an Integrated MSc and PhD in Data Analytics and Society at the Centre for Doctoral Training (CDT) at the [University of Leeds](https://lida.leeds.ac.uk/study-training/datacdt/), with research based at the University of Liverpool. Sponsorship for research has been provided by both the ESRC and GEOLYTIX.
 
+Please see my [Assignment Portfolio](AssignmentPortfolio.md) for information regarding 'Programming for Social Scientists'
 
 ## Contact Details
 
