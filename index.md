@@ -27,6 +27,8 @@ The focus of my PhD will be on the
 - Developing and integrating new sources of ancillary data for reserach - e.g. aerial imagery, remote sensing.
 - Learning new programming languages like python, R and javascript.
 
+
+[README](README.md)
 ---
 
 ## Contact Details
