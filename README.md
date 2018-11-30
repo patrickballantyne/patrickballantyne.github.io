@@ -114,7 +114,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     2) Modified the for-loop appending the agents and agentframework to the 'agents' list, to also append the 'environment'
     3) Created a new method ('eat') within the 'Agent' class to allow the agents interact with the environment
     
-   The **code** for this section can be found at: *include hyperlink* 
+   The **code** for this section can be found at: [Script6](Practical6_InputsOutputs.py)
    
    An example of the agents 'eating' the environment can be seen at: [Figure4](Figure4.png)
    
