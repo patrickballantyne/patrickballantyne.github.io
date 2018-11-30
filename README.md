@@ -89,7 +89,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     1) A function was constructed that calculated the distance between the agents 
     2) Learned how to use time.clock() to find out how long it takes to run a length of code
     
-   The **code** for this section can be found at: *include hyperlink* 
+   The **code** for this section can be found at: [Script4](Practical4_BuildingFunctions.py)
    
    ---
    ### Practical Five - Agents
