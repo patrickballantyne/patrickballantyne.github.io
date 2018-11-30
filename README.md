@@ -19,6 +19,9 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   This *repository* contains all of the practical scripts and a selection of relevant outputs from each of practical sessions in Leeds.
   In this next section i will outline all the learning outcomes from each practical, before introducing the final model.
   
+    **NOTE**: The code included for each practical section contains a significant amount of commented out ''' sections of writing. The
+                purpose of these was to assist learning of python, so that when revisiting sections of code, i could understand what was
+                was going on straight away.
   ---
   ### Practical One - Introducing Agent-Based Modelling
   
@@ -82,4 +85,49 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    
    ---
    ### Practical Five - Agents
+   
+   In this practical, a number of learning outcomes were achieved:
+   
+    1) A new 'Agent' class was created within a separate agentframework.py file, containing an initialiser and move method
+    2) The original code to move agents based on random.random() was modified to fit within the new 'Agent' class
+    
+   The **code** for this section can be found at: *include hyperlink* 
+   
+   Following creation of the 'Agent' class, the agents could be plotted: *include hyperlink*
+   
+   The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
+   
+   ---
+   ### Practical Six - Inputs and Outputs
+   
+   In this practical, a number of learning outcomes were achieved:
+   
+    1) Learned how to import the csv module, and use this to read in a in.txt file containing the 'environment'
+    2) Modified the for-loop appending the agents and agentframework to the 'agents' list, to also append the 'environment'
+    3) Created a new method ('eat') within the 'Agent' class to allow the agents interact with the environment
+    
+   The **code** for this section can be found at: *include hyperlink* 
+   
+   An example of the agents 'eating' the environment can be seen at: *include hyperlink*
+   
+   At this stage the model is really starting to take shape, however, other methods can be included, and an animation of the agents'
+   methods would really help visualise the model better
+   
+   ---
+   ### Practical Seven - Communicating
+   
+   In this practical, a number of learning outcomes were achieved:
+   
+    1) Created a 'neighbourhood' variable, which will define whether or not the agents can interact with eachother
+    2) Created a new method with the 'Agent' class called 'share_with_neighbours' that allows agents to share 'food' stores with 
+        eachother if the distance between eachother is less than 'neighbourhood'
+    3) Learned how to use random.shuffle() to shuffle the agents list each simulation
+    
+   The **code** for this section can be found at: *include hyperlink* 
+   
+   There is no point displaying the output of this practical, since without animation the new methods do not appear clear.
+   
+   ---
+   ### Practical Eight - Animation
+   
    
