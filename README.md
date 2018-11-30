@@ -4,7 +4,7 @@ This portfolio contains all work completed during the week long course in Leeds 
 The portfolio is to be assessed for 30% of the module mark, and the brief was:
   - The portfolio should comprise a **website** of one or more pages
   - The website should including **biographical material** explaining who you are
-  - There should be some details of the **model**, 
+  - There should be some details of the **model**
   - The **code** for the model(s) should be included
   
   ---
