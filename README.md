@@ -22,6 +22,11 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     NOTE: The code included for each practical section contains a significant amount of commented out ''' sections 
                 of writing. The purpose of these was to assist learning of python, so that when revisiting sections of 
                 code, i could understand what was going on straight away.
+   
+  The **SCRIPTS** are in the repository under filenames *PracticalX_TopicX.py*
+  
+  The **FIGURES** are in the repository under filenames *FigureX.png*
+  
   ---
   ### Practical One - Introducing Agent-Based Modelling
   
