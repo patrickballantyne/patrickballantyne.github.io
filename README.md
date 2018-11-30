@@ -41,6 +41,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    ### Practical Two - Shrinking Code
    
    In this practical a number of learning outcomes were achieved:
+   
     1) Learned how to append the agents to a list, generating their x and y coordinates randomly this time
     2) Learned how to use the max() operation to calculate the agent with the largest x coordinate
     3) Learned how to plot our two agents using matplotlib.pyplot
@@ -52,4 +53,33 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    The agent with the largest 'x' coordinate can be seen plotted in red in: *include hyperlink*
    
    ---
+   ### Practical Three - Shrinking Code (Part 2)
+   
+   In this practical, a number of learning outcomes were achieved:
+   
+    1) Introduced to for-loops, used to append and create the (random) starting positions of 10 agents
+    2) For-loop was used to move all agents in the list
+    3) Agents were plotted using a for-loop
+    4) Introduced to the concept of solving boundary effects
+    
+   The **code** for this section can be found at: *include hyperlink* 
+   
+   It was thus possibile to use what was learned about matplotlib.pyplot to plot the ten agents, replotting each time the *move* method
+   was called. An example of this can be seen at: *include hyperlink*
+   
+   At this point, the code needed to run a basic method has been significantly reduced, but there are other methods that can be 
+   implemented to make our agent-based model more interesting.
+   
+   ---
+   ### Practical Four - Building tools and functions
+   
+   In this practical, a number of learning outcomes were achieved: 
+   
+    1) A function was constructed that calculated the distance between the agents 
+    2) Learned how to use time.clock() to find out how long it takes to run a length of code
+    
+   The **code** for this section can be found at: *include hyperlink* 
+   
+   ---
+   ### Practical Five - Agents
    
