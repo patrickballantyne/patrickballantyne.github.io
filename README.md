@@ -131,7 +131,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
         eachother if the distance between eachother is less than 'neighbourhood'
     3) Learned how to use random.shuffle() to shuffle the agents list each simulation
     
-   The **code** for this section can be found at: *include hyperlink* 
+   The **code** for this section can be found at: [Script7](Practical7_Communicating.py)
    
    There is no point displaying the output of this practical, since without animation the new methods do not appear clear.
    
