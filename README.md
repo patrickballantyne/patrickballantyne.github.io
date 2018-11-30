@@ -53,7 +53,8 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    
    The main outcome of this practical session was that not only was it possible to calculate the agent with the largest 'x' coordinate,
    but it was also possible to plot this calculation.
-   The agent with the largest 'x' coordinate can be seen plotted in red in: [PracticalTwo](PracticalTwo.png)
+   
+   The agent with the largest 'x' coordinate can be seen plotted in red in: [Figure 1](Figure1.png)
    
    ---
    ### Practical Three - Shrinking Code (Part 2)
