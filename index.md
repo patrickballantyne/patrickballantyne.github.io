@@ -1,11 +1,10 @@
-# Patrick Ballantyne - PhD Student, University of Liverpool
+# Patrick Ballantyne - PhD Student
 
 ## About Me
 
-I was born in 1997 in Luton, Bedfordshire, UK. I am currently reading for an Integrated MSc and PhD in Data Analytics at the [University of Liverpool](https://www.liverpool.ac.uk/).
+I was born in 1997 in Luton, Bedfordshire, UK.
 
-![headshot](Headshot.jpeg)
-
+*Current Position*: Reading for an Integrated MSc and PhD in Data Analytics at the [University of Liverpool](https://www.liverpool.ac.uk/).
 
 ---
 
@@ -16,28 +15,15 @@ I was born in 1997 in Luton, Bedfordshire, UK. I am currently reading for an Int
 * 2015-2018: Studied and graduated from the [University of Liverpool](https://www.liverpool.ac.uk/) with a First Class BSc in Physical Geography
 * 2018-Present: Reading for an Integrated MSc and PhD in Data Analytics and Society at the Centre for Doctoral Training (CDT) at the [University of Leeds](https://lida.leeds.ac.uk/study-training/datacdt/), with research based at the University of Liverpool. Sponsorship for research has been provided by both the ESRC and GEOLYTIX.
 
----
-
-
-## Research Interests
-
-*Asking the question...* **"What is a global retail centre?"** 
-
-The focus of my PhD will be on the 
-- Developing and integrating new sources of ancillary data for reserach - e.g. aerial imagery, remote sensing.
-- Learning new programming languages like python, R and javascript.
-
-
-[README](README.md)
----
 
 ## Contact Details
 
 Patrick Ballantyne
-Office 506
-Roxby Building, Dep't of Environmental Sciences
-University of Liverpool
-Chatham Street
-L7 7BD
+
+  - Office 506
+  - Roxby Building, Dep't of Environmental Sciences
+  - University of Liverpool
+  - Chatham Street
+  - L7 7BD
 
 **Email: P.J.Ballantyne@liverpool.ac.uk**
