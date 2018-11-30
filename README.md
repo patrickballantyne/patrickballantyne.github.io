@@ -23,6 +23,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   ### Practical One - Introducing Agent-Based Modelling
   
   In this practical session, the following learning outcomes were achieved:
+  
     1) Created two agents, each with their own unique x and y coordinates
     2) Moved each agent according to a randomly generated number
     3) Calculated the distance between the two agents (x and y), using pythagoras' theorem
@@ -30,6 +31,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   The **code** for this practical session can be found at: *include hyperlink*
   
   As detailed in the code, there were a number of problems with the code at this point:
+  
     * Lots of repetition, when generating and moving agents
     * No behaviour other than movement, so doesn't really feel very agent-based
     * Area for agents to move about is currently infinite, which is neither practical or realistic
