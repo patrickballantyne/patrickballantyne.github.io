@@ -21,7 +21,3 @@ Please use the links below to navigate to sections of my page.
 
 **[Contact Details](ContactDetails.md)**
 
-
-
-
-**Email: P.J.Ballantyne@liverpool.ac.uk**
