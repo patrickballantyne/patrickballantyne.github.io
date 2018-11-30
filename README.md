@@ -54,7 +54,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     2) Learned how to use the max() operation to calculate the agent with the largest x coordinate
     3) Learned how to plot our two agents using matplotlib.pyplot
     
-   The **code** for this practical session can be found at: *include hyperlink*
+   The **code** for this practical session can be found at: [Script2](Practical2_ShrinkingCode.py)
    
    The main outcome of this practical session was that not only was it possible to calculate the agent with the largest 'x' coordinate,
    but it was also possible to plot this calculation.
