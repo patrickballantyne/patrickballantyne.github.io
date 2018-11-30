@@ -19,9 +19,9 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   This *repository* contains all of the practical scripts and a selection of relevant outputs from each of practical sessions in Leeds.
   In this next section i will outline all the learning outcomes from each practical, before introducing the final model.
   
-    **NOTE**: The code included for each practical section contains a significant amount of commented out ''' sections of writing. The
-                purpose of these was to assist learning of python, so that when revisiting sections of code, i could understand what was
-                was going on straight away.
+    **NOTE**: The code included for each practical section contains a significant amount of commented out ''' sections 
+                of writing. The purpose of these was to assist learning of python, so that when revisiting sections of 
+                code, i could understand what was going on straight away.
   ---
   ### Practical One - Introducing Agent-Based Modelling
   
