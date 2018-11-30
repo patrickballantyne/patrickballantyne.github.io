@@ -33,9 +33,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     
   The **code** for this practical session can be found at: *include hyperlink*
   
-  As detailed in the code, there were a number of problems with the code at this point: 
-        patrickballantyne.github.io/PRACTICAL TWO OUTPUT.png
-      
+  As detailed in the code, there were a number of problems with the code at this point:    
   
     * Lots of repetition, when generating and moving agents
     * No behaviour other than movement, so doesn't really feel very agent-based
@@ -55,7 +53,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    
    The main outcome of this practical session was that not only was it possible to calculate the agent with the largest 'x' coordinate,
    but it was also possible to plot this calculation.
-   The agent with the largest 'x' coordinate can be seen plotted in red in: [PRACTICAL TWO OUTPUT] (PRACTICAL TWO OUTPUT.png) 
+   The agent with the largest 'x' coordinate can be seen plotted in red in: 
    
    ---
    ### Practical Three - Shrinking Code (Part 2)
