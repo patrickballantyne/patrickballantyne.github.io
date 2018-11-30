@@ -69,7 +69,9 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    The **code** for this section can be found at: *include hyperlink* 
    
    It was thus possibile to use what was learned about matplotlib.pyplot to plot the ten agents, replotting each time the *move* method
-   was called. An example of this can be seen at: *include hyperlink*
+   was called. 
+   
+   An example of this can be seen at: [Figure2](Figure2.png)
    
    At this point, the code needed to run a basic method has been significantly reduced, but there are other methods that can be 
    implemented to make our agent-based model more interesting.
@@ -94,7 +96,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     
    The **code** for this section can be found at: *include hyperlink* 
    
-   Following creation of the 'Agent' class, the agents could be plotted: *include hyperlink*
+   Following creation of the 'Agent' class, the agents could be plotted: [Figure3](Figure3.png)
    
    The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
    
@@ -109,7 +111,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
     
    The **code** for this section can be found at: *include hyperlink* 
    
-   An example of the agents 'eating' the environment can be seen at: *include hyperlink*
+   An example of the agents 'eating' the environment can be seen at: [Figure4](Figure4.png)
    
    At this stage the model is really starting to take shape, however, other methods can be included, and an animation of the agents'
    methods would really help visualise the model better
