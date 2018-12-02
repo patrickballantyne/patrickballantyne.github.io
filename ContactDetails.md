@@ -13,7 +13,7 @@ Chatham Street, L7 7BD
 
 **Email**: P.J.Ballantyne@liverpool.ac.uk
 
-**Twitter**: @PBallantyne_24
+**Twitter**: [@PBallantyne_24](https://twitter.com/PBallantyne_24)
 
 **LinkedIn**: Patrick Ballantyne
 
