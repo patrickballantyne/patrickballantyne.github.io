@@ -139,3 +139,17 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
    ### Practical Eight - Animation
    
    
+
+
+
+---
+
+Return to:
+
+## [*Homepage*](index.md)
+
+---
+
+Go to:
+
+### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](Contact.md)
