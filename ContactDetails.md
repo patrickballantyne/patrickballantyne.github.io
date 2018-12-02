@@ -34,3 +34,8 @@ Return to:
 Go to:
 
 ### [*Education*](Education.md)   |||   [*Research*](Research.md)   |||   [*Portfolio*](AssignmentPortfolio.md)
+
+---
+## REPOSITORY
+
+All data, scripts and information used to create this website can be found in my [repo](https://github.com/patrickballantyne/patrickballantyne.github.io)
