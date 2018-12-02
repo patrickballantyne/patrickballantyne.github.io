@@ -79,4 +79,4 @@ Return to:
 
 Go to:
 
-### [*Research*](Research.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](Contact.md)
+### [*Research*](Research.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
