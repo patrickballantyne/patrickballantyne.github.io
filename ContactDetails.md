@@ -17,6 +17,7 @@ Chatham Street, L7 7BD
 
 **LinkedIn**: Patrick Ballantyne
 
-**Website**: You can find information about my role withib the Geographic Data Science Lab at 
+**Website**: You can find information about my role within the Geographic Data Science Lab at 
 https://www.liverpool.ac.uk/geographic-data-science/our-people/
 
+![LOGO](uol.jpg)      ![LOGO2](gds.jpg)
