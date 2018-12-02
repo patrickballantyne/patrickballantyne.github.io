@@ -25,8 +25,8 @@ Please use the links below to navigate to sections of my page.
 **[Contact Details](ContactDetails.md)**
 
 ---
-### REPO
+### REPOSITORY
 
-All data, scripts and information used to create this website can be found in my [repo](https://github.com/patrickballantyne/patrickballantyne.github.io)
+All data, scripts and information used to create this website can be found in my [Repository](https://github.com/patrickballantyne/patrickballantyne.github.io)
 
 ---
