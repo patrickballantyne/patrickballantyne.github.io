@@ -83,6 +83,6 @@ Go to:
 
 ---
 
-## REPO
+## REPOSITORY
 
-All data, scripts and information used to create this website can be found in my [repo](https://github.com/patrickballantyne/patrickballantyne.github.io)
+All data, scripts and information used to create this website can be found in my [**Repository**](https://github.com/patrickballantyne/patrickballantyne.github.io)
