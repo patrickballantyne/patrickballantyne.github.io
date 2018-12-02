@@ -152,4 +152,4 @@ Return to:
 
 Go to:
 
-### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](Contact.md)
+### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
