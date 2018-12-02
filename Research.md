@@ -56,3 +56,15 @@ for Scotland.
 
 The process is ongoing, but is proving to be insightful and is teaching me the basics of R in a useful manner.
 
+
+---
+
+Return to:
+
+## [*Homepage*](index.md)
+
+---
+
+Go to:
+
+### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
