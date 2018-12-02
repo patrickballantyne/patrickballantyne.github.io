@@ -73,10 +73,10 @@ Whilst at the University of Liverpool, I undertook a wide variety of modules fro
 
 Return to:
 
-[Homepage](index.md)
+## [*Homepage*](index.md)
 
 ---
 
 Go to:
 
-[Research](Research.md)  |||    [Portfolio](AssignmentPortfolio.md)  |||   [Contact Details](Contact.md)
+### [*Research*](Research.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](Contact.md)
