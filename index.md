@@ -18,7 +18,7 @@ Please use the links below to navigate to sections of my page.
 
 **[Education](Education.md)**
 
-**Research**
+**[Research](Research.md)**
 
 **[Sample of my Work: Agent-Based Modelling (ENVS802 Assignment 1)](AssignmentPortfolio.md)**
 
