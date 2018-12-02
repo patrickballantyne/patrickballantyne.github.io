@@ -33,4 +33,4 @@ Return to:
 
 Go to:
 
-[#### *Education*](Education.md)   |||   [#### *Research*](Research.md)   |||   [#### *Portfolio*](AssignmentPortfolio.md)
+### [*Education*](Education.md)   |||   [*Research*](Research.md)   |||   [*Portfolio*](AssignmentPortfolio.md)
