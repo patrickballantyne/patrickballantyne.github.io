@@ -15,7 +15,7 @@ Chatham Street, L7 7BD
 
 **Twitter**: [@PBallantyne_24](https://twitter.com/PBallantyne_24)
 
-**LinkedIn**: Patrick Ballantyne
+**LinkedIn**: [Patrick Ballantyne](https://www.linkedin.com/in/patrick-ballantyne-660783172/)
 
 **Website**: You can find information about my role within the Geographic Data Science Lab at 
 https://www.liverpool.ac.uk/geographic-data-science/our-people/
