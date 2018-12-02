@@ -21,3 +21,16 @@ Chatham Street, L7 7BD
 https://www.liverpool.ac.uk/geographic-data-science/our-people/
 
 ![LOGO](uol.jpg)                                       ![LOGO2](GDS.JPG)
+
+
+---
+
+Return to:
+
+[Homepage](index.md)
+
+---
+
+Go to:
+
+[Education](Education.md)   |||   [Research](Research.md)   |||   [Portfolio](AssignmentPortfolio.md)
