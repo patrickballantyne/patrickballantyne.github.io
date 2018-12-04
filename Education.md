@@ -55,20 +55,34 @@ This page wil give a brief outline of my education up to undergraduate studies
 
 Whilst at the University of Liverpool, I undertook a wide variety of modules from across all the sub-disciplines of Geography.
 
-- Human Geography: Maritime Geographies - achieving 90% in subject essay *include essay*, Issues in geography - investigating 
+- Human Geography: Maritime Geographies - achieving 90% in subject essay, Issues in geography - investigating 
                     Chinese geopolitical issues following climate change
 
-- Quantitative Geography: Geographic Data Science - achieving a First in the module, despite having no prior knowledge of python 
-                            *include assignment 2 script*, GIS for Human Geography - achieved 78% in the module, completing two 
-                            assignments related to Retail Geographies (include assingments) and Commuter flows (include assignment)
+- Quantitative Geography: Geographic Data Science - achieving a First in the module, despite having no prior knowledge of python - an e                             **example output** from an assignment can be seen below, GIS for Human Geography - achieved 78% in the                                   module, completing various assignments to explore various functions of GIS. **An output** from assignment                               that required me to locate an new convenience store can be see below.
+
+
+<p align="center">
+  <img width="460" height="300" src="KDE.png">
+</p>
+
+<p align="center">
+  <img width="460" height="550" src="Store.png">
+</p>
+
+
+
                             
 - Physical Geography: Field class to the Algarve, acheiving 80% in final report (attach report), aswell as a range of other modules
                         including catchment hydrology, geomorphology, soils and natural hazards.
                         
                         
 - Dissertation - completed an independent disseration in the Lake District, investigating the influence of septic tanks on nutrient 
-                  within a lake catchment *attach copy*
-                  
+                  within a lake catchment. **An example output** from the catchment and stream mapping process can be seen below
+
+<p align="center">
+  <img width="750" height="500" src="Lake.png">
+</p>
+
 ---
 
 Return to:
