@@ -170,13 +170,18 @@ The following sections will outline the process by which an agent-based model of
    The final model output can be seen below:
    
    <p align="center">
-  <img width="460" height="550" src="final_model_output.gif">
+  <img width="750" height="600" src="final_model_output.gif">
 </p>
 
-  The model created in this exercise simulates the behaviour of sheep grazing in a field. It runs continuously until the stopping 
-  condition has been met. The condition chosen to be determined by how much of the 'grass' the 'sheep' had eaten, since in a real 
+  The model created in this exercise **simulates the behaviour of sheep grazing in a field**. It runs continuously until the stopping 
+  condition has been met. The condition chosen to be determined by **how much of the 'grass' the 'sheep' had eaten**, since in a real 
   situation sheep will only eat until their stomach's are full. Thus, it made no sense to run the model until the 'fields' had no
-  more 'grass,' since it assumes the sheep have infinite stomachs
+  more 'grass,' since it assumes the sheep have infinite stomachs. 
+  
+  The script for the final model can be found *HERE*
+  
+  Alongside this script, the [agentframework] script is needed, which defines the 'Agent' class, and contains the most up-to date
+  methods that the agents can perform.
   
   ---
   
