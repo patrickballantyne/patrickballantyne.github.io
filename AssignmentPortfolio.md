@@ -178,9 +178,9 @@ The following sections will outline the process by which an agent-based model of
   situation sheep will only eat until their stomach's are full. Thus, it made no sense to run the model until the 'fields' had no
   more 'grass,' since it assumes the sheep have infinite stomachs. 
   
-  The **Final Model Script** can be found *HERE*
+  The **Final Model Script** can be found [here](Practical8_Animation_FinalModel.py)
   
-  Alongside this script, the [**agentframework script]** is needed, which defines the 'Agent' class, and contains the most up-to date
+  Alongside this script, the [**agentframework script](agentframework.py)** is needed, which defines the 'Agent' class, and contains the most up-to date
   methods that the agents can perform.
   
   ---
