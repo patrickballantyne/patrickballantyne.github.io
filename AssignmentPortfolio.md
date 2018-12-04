@@ -8,15 +8,13 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   - The **code** for the model(s) should be included
   
   ---
-
-  ---
   
 ## Structure of the Repository
   
   This *repository* contains all of the practical scripts and a selection of relevant outputs from each of practical sessions in Leeds.
   In this next section i will outline all the learning outcomes from each practical, before introducing the final model.
   
-    NOTE: The code included for each practical section contains a significant amount of commented out ''' sections 
+   NOTE: The code included for each practical section contains a significant amount of commented out ''' sections 
                 of writing. The purpose of these was to assist learning of python, so that when revisiting sections of 
                 code, i could understand what was going on straight away.
    
@@ -50,18 +48,18 @@ The following sections will outline the process by which an agent-based model of
   
   In this practical session, the following learning outcomes were achieved:
   
-    1) Created two agents, each with their own unique x and y coordinates
-    2) Moved each agent according to a randomly generated number
-    3) Calculated the distance between the two agents (x and y), using pythagoras' theorem
+   1) Created two agents, each with their own unique x and y coordinates
+   2) Moved each agent according to a randomly generated number
+   3) Calculated the distance between the two agents (x and y), using pythagoras' theorem
     
   The **code** for this practical session can be found at: [Script1](Practical1_ABMintro.py)
   
   As detailed in the code, there were a number of problems with the code at this point:    
   
-    * Lots of repetition, when generating and moving agents
-    * No behaviour other than movement, so doesn't really feel very agent-based
-    * Area for agents to move about is currently infinite, which is neither practical or realistic
-    * Distance calculations are very boring, when the agent starting positions are the same
+   * Lots of repetition, when generating and moving agents
+   * No behaviour other than movement, so doesn't really feel very agent-based
+   * Area for agents to move about is currently infinite, which is neither practical or realistic
+   * Distance calculations are very boring, when the agent starting positions are the same
     
    ---
    
@@ -69,9 +67,9 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical a number of learning outcomes were achieved:
    
-    1) Learned how to append the agents to a list, generating their x and y coordinates randomly this time
-    2) Learned how to use the max() operation to calculate the agent with the largest x coordinate
-    3) Learned how to plot our two agents using matplotlib.pyplot
+   1) Learned how to append the agents to a list, generating their x and y coordinates randomly this time
+   2) Learned how to use the max() operation to calculate the agent with the largest x coordinate
+   3) Learned how to plot our two agents using matplotlib.pyplot
     
    The **code** for this practical session can be found at: [Script2](Practical2_ShrinkingCode.py)
    
@@ -86,10 +84,10 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical, a number of learning outcomes were achieved:
    
-    1) Introduced to for-loops, used to append and create the (random) starting positions of 10 agents
-    2) For-loop was used to move all agents in the list
-    3) Agents were plotted using a for-loop
-    4) Introduced to the concept of solving boundary effects
+   1) Introduced to for-loops, used to append and create the (random) starting positions of 10 agents
+   2) For-loop was used to move all agents in the list
+   3) Agents were plotted using a for-loop
+   4) Introduced to the concept of solving boundary effects
     
    The **code** for this section can be found at: [Script3](Practical3_ShrinkingCode2.py)
    
@@ -107,8 +105,8 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical, a number of learning outcomes were achieved: 
    
-    1) A function was constructed that calculated the distance between the agents 
-    2) Learned how to use time.clock() to find out how long it takes to run a length of code
+   1) A function was constructed that calculated the distance between the agents 
+   2) Learned how to use time.clock() to find out how long it takes to run a length of code
     
    The **code** for this section can be found at: [Script4](Practical4_BuildingFunctions.py)
    
@@ -118,8 +116,8 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical, a number of learning outcomes were achieved:
    
-    1) A new 'Agent' class was created within a separate agentframework.py file, containing an initialiser and move method
-    2) The original code to move agents based on random.random() was modified to fit within the new 'Agent' class
+   1) A new 'Agent' class was created within a separate agentframework.py file, containing an initialiser and move method
+   2) The original code to move agents based on random.random() was modified to fit within the new 'Agent' class
     
    The **code** for this section can be found at: [Script5](Practical5_Agents.py)
    
@@ -133,9 +131,9 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical, a number of learning outcomes were achieved:
    
-    1) Learned how to import the csv module, and use this to read in a in.txt file containing the 'environment'
-    2) Modified the for-loop appending the agents and agentframework to the 'agents' list, to also append the 'environment'
-    3) Created a new method ('eat') within the 'Agent' class to allow the agents interact with the environment
+   1) Learned how to import the csv module, and use this to read in a in.txt file containing the 'environment'
+   2) Modified the for-loop appending the agents and agentframework to the 'agents' list, to also append the 'environment'
+   3) Created a new method ('eat') within the 'Agent' class to allow the agents interact with the environment
     
    The **code** for this section can be found at: [Script6](Practical6_InputsOutputs.py)
    
@@ -150,10 +148,10 @@ The following sections will outline the process by which an agent-based model of
    
    In this practical, a number of learning outcomes were achieved:
    
-    1) Created a 'neighbourhood' variable, which will define whether or not the agents can interact with eachother
-    2) Created a new method with the 'Agent' class called 'share_with_neighbours' that allows agents to share 'food' stores with 
+   1) Created a 'neighbourhood' variable, which will define whether or not the agents can interact with eachother
+   2) Created a new method with the 'Agent' class called 'share_with_neighbours' that allows agents to share 'food' stores with 
         eachother if the distance between eachother is less than 'neighbourhood'
-    3) Learned how to use random.shuffle() to shuffle the agents list each simulation
+   3) Learned how to use random.shuffle() to shuffle the agents list each simulation
     
    The **code** for this section can be found at: [Script7](Practical7_Communicating.py)
    
@@ -162,6 +160,14 @@ The following sections will outline the process by which an agent-based model of
    ---
    
 ### Practical Eight - Animation
+   
+   In this practical, a number of learning outcomes were achieved:
+   
+   1) Learned how to use matplotlib.animation.FuncAnimation to animate the model
+   2) Learned how to implement stopping conditions into the model
+   3) Learned how to enhance the visual appearance of graphs by playing with some of the extended features within matplotlib.pyplot
+   
+   The final model output can be seen below:
    
    
 
