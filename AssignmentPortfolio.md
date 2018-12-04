@@ -8,11 +8,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   - The **code** for the model(s) should be included
   
   ---
-  ## Introduction to Agent-based modelling
-  
-  Include some info about ABM, why it is important, what it has been used for etc.
-  
-  
+
   ---
   ## Structure of the Repository
   
@@ -26,6 +22,26 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   The **SCRIPTS** are in the repository under filenames *PracticalX_TopicX.py*
   
   The **FIGURES** are in the repository under filenames *FigureX.png*
+  
+  ---
+  
+  ## Introduction to Agent-based modelling
+  
+According to Macal and North (2005, p.1), Agent-based modelling is "a modelling or computational framework for simulating dynamic  processes involving autonomous agents." In the model, a series of agents individually assess their situation in the model, and are then
+able to make decisions based on that judgement (Bonabeau, 2002; Macal and North, 2005). The principle of agent-based modelling has 
+been gaining significant amounts of enthusiam acorss the entire scientific community in recent years, and according Bankes (2002) it holds out the promise of a revolutionary advance in social science theory. 
+
+Bonabeau (2002) highlighted 3 main benefits to using agent-based models over othering modelling techniques:
+  
+  1. Captures emergent phenomena
+  2. Provides a natural description of a system
+  3. Flexible in approach
+  
+Thus, it seems agent-based models would be a useful way of modelling say for example sheep grazing a field? This is what this portfolio
+will attempt to model. Macal and North (2005) identified three requirements for a simple agent-based model, all of which will be included in this model. There will be 'Agents' in the form of numerous Sheep, there will be 'Interactions' between the sheep as they 
+communicate with eachother, and an 'Environment' which is the field that the sheep wil interact with.
+
+The following sections will outline the process by which an agent-based model of 'Sheep-Grazing' has been created.
   
   ---
   ### Practical One - Introducing Agent-Based Modelling
