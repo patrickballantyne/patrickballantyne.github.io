@@ -65,7 +65,7 @@ The following sections will outline the process by which an agent-based model of
     
    ---
    
- ### Practical Two - Shrinking Code
+### Practical Two - Shrinking Code
    
    In this practical a number of learning outcomes were achieved:
    
@@ -82,7 +82,7 @@ The following sections will outline the process by which an agent-based model of
    
    ---
    
- ### Practical Three - Shrinking Code (Part 2)
+### Practical Three - Shrinking Code (Part 2)
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -103,7 +103,7 @@ The following sections will outline the process by which an agent-based model of
    
    ---
    
- ### Practical Four - Building tools and functions
+### Practical Four - Building tools and functions
    
    In this practical, a number of learning outcomes were achieved: 
    
@@ -128,7 +128,7 @@ The following sections will outline the process by which an agent-based model of
    The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
    
    ---
-   
+
 ### Practical Six - Inputs and Outputs
    
    In this practical, a number of learning outcomes were achieved:
@@ -145,7 +145,7 @@ The following sections will outline the process by which an agent-based model of
    methods would really help visualise the model better
    
    ---
-
+   
 ### Practical Seven - Communicating
    
    In this practical, a number of learning outcomes were achieved:
@@ -160,7 +160,8 @@ The following sections will outline the process by which an agent-based model of
    There is no point displaying the output of this practical, since without animation the new methods do not appear clear.
    
    ---
- ### Practical Eight - Animation
+   
+### Practical Eight - Animation
    
    
 
