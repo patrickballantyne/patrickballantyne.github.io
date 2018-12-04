@@ -52,7 +52,7 @@ The following sections will outline the process by which an agent-based model of
    2) Moved each agent according to a randomly generated number
    3) Calculated the distance between the two agents (x and y), using pythagoras' theorem
     
-  The **code** for this practical session can be found at: [Script1](Practical1_ABMintro.py)
+  The **code** for this practical session can be found at: [**Script1**](Practical1_ABMintro.py)
   
   As detailed in the code, there were a number of problems with the code at this point:    
   
@@ -71,12 +71,12 @@ The following sections will outline the process by which an agent-based model of
    2) Learned how to use the max() operation to calculate the agent with the largest x coordinate
    3) Learned how to plot our two agents using matplotlib.pyplot
     
-   The **code** for this practical session can be found at: [Script2](Practical2_ShrinkingCode.py)
+   The **code** for this practical session can be found at: [**Script2**](Practical2_ShrinkingCode.py)
    
    The main outcome of this practical session was that not only was it possible to calculate the agent with the largest 'x' coordinate,
    but it was also possible to plot this calculation.
    
-   The agent with the largest 'x' coordinate can be seen plotted in red in: [Figure 1](Figure1.png)
+   The agent with the largest 'x' coordinate can be seen plotted in red in: [**Figure 1**](Figure1.png)
    
    ---
    
@@ -89,12 +89,12 @@ The following sections will outline the process by which an agent-based model of
    3) Agents were plotted using a for-loop
    4) Introduced to the concept of solving boundary effects
     
-   The **code** for this section can be found at: [Script3](Practical3_ShrinkingCode2.py)
+   The **code** for this section can be found at: [**Script3**](Practical3_ShrinkingCode2.py)
    
    It was thus possibile to use what was learned about matplotlib.pyplot to plot the ten agents, replotting each time the *move* method
    was called. 
    
-   An example of this can be seen at: [Figure2](Figure2.png)
+   An example of this can be seen at: [**Figure2**](Figure2.png)
    
    At this point, the code needed to run a basic method has been significantly reduced, but there are other methods that can be 
    implemented to make our agent-based model more interesting.
@@ -108,7 +108,7 @@ The following sections will outline the process by which an agent-based model of
    1) A function was constructed that calculated the distance between the agents 
    2) Learned how to use time.clock() to find out how long it takes to run a length of code
     
-   The **code** for this section can be found at: [Script4](Practical4_BuildingFunctions.py)
+   The **code** for this section can be found at: [**Script4**](Practical4_BuildingFunctions.py)
    
    ---
    
@@ -119,9 +119,9 @@ The following sections will outline the process by which an agent-based model of
    1) A new 'Agent' class was created within a separate agentframework.py file, containing an initialiser and move method
    2) The original code to move agents based on random.random() was modified to fit within the new 'Agent' class
     
-   The **code** for this section can be found at: [Script5](Practical5_Agents.py)
+   The **code** for this section can be found at: [**Script5**](Practical5_Agents.py)
    
-   Following creation of the 'Agent' class, the agents could be plotted: [Figure3](Figure3.png)
+   Following creation of the 'Agent' class, the agents could be plotted: [**Figure3**](Figure3.png)
    
    The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
    
@@ -135,9 +135,9 @@ The following sections will outline the process by which an agent-based model of
    2) Modified the for-loop appending the agents and agentframework to the 'agents' list, to also append the 'environment'
    3) Created a new method ('eat') within the 'Agent' class to allow the agents interact with the environment
     
-   The **code** for this section can be found at: [Script6](Practical6_InputsOutputs.py)
+   The **code** for this section can be found at: [**Script6**](Practical6_InputsOutputs.py)
    
-   An example of the agents 'eating' the environment can be seen at: [Figure4](Figure4.png)
+   An example of the agents 'eating' the environment can be seen at: [**Figure4**](Figure4.png)
    
    At this stage the model is really starting to take shape, however, other methods can be included, and an animation of the agents'
    methods would really help visualise the model better
@@ -153,7 +153,7 @@ The following sections will outline the process by which an agent-based model of
         eachother if the distance between eachother is less than 'neighbourhood'
    3) Learned how to use random.shuffle() to shuffle the agents list each simulation
     
-   The **code** for this section can be found at: [Script7](Practical7_Communicating.py)
+   The **code** for this section can be found at: [**Script7**](Practical7_Communicating.py)
    
    There is no point displaying the output of this practical, since without animation the new methods do not appear clear.
    
@@ -178,7 +178,7 @@ The following sections will outline the process by which an agent-based model of
   situation sheep will only eat until their stomach's are full. Thus, it made no sense to run the model until the 'fields' had no
   more 'grass,' since it assumes the sheep have infinite stomachs. 
   
-  The **Final Model Script** can be found [here](Practical8_Animation_FinalModel.py)
+  The **Final Model Script** can be found [**here**](Practical8_Animation_FinalModel.py)
   
   Alongside this script, the [**agentframework script**](agentframework.py) is needed, which defines the 'Agent' class, and contains the most up-to date
   methods that the agents can perform.
@@ -187,13 +187,12 @@ The following sections will outline the process by which an agent-based model of
   
 ### References
   
-* Bankes, S.C., 2002. Agent-based modeling: A revolution?. Proceedings of the National Academy of Sciences, 99(3), pp.7199-7200.
+* **Bankes, S.C., 2002.** Agent-based modeling: A revolution?. Proceedings of the National Academy of Sciences, 99(3), pp.7199-7200.
 
-* Bonabeau, E., 2002. Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of    Sciences, 99(suppl 3), pp.7280-7287.
+* **Bonabeau, E., 2002.** Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of    Sciences, 99(suppl 3), pp.7280-7287.
 
-* Macal, C.M. and North, M.J., 2005, December. Tutorial on agent-based modeling and simulation. In Simulation conference, 2005   proceedings of the winter (pp. 14-pp). IEEE.
-
-  
+* **Macal, C.M. and North, M.J., 2005,** Tutorial on agent-based modeling and simulation. In Simulation conference, 2005   proceedings of the winter (pp. 14-pp). IEEE.
+ 
   ---
 
 Return to:
