@@ -10,7 +10,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   ---
 
   ---
-  ## Structure of the Repository
+## Structure of the Repository
   
   This *repository* contains all of the practical scripts and a selection of relevant outputs from each of practical sessions in Leeds.
   In this next section i will outline all the learning outcomes from each practical, before introducing the final model.
@@ -25,7 +25,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   
   ---
   
-  ## Introduction to Agent-based modelling
+## Introduction to Agent-based modelling
   
 According to Macal and North (2005, p.1), Agent-based modelling is "a modelling or computational framework for simulating dynamic  processes involving autonomous agents." In the model, a series of agents individually assess their situation in the model, and are then
 able to make decisions based on that judgement (Bonabeau, 2002; Macal and North, 2005). The principle of agent-based modelling has 
@@ -44,7 +44,8 @@ communicate with eachother, and an 'Environment' which is the field that the she
 The following sections will outline the process by which an agent-based model of 'Sheep-Grazing' has been created.
   
   ---
-  ### Practical One - Introducing Agent-Based Modelling
+  
+### Practical One - Introducing Agent-Based Modelling
   
   In this practical session, the following learning outcomes were achieved:
   
@@ -62,7 +63,7 @@ The following sections will outline the process by which an agent-based model of
     * Distance calculations are very boring, when the agent starting positions are the same
     
    ---
-   ### Practical Two - Shrinking Code
+ ### Practical Two - Shrinking Code
    
    In this practical a number of learning outcomes were achieved:
    
@@ -78,7 +79,7 @@ The following sections will outline the process by which an agent-based model of
    The agent with the largest 'x' coordinate can be seen plotted in red in: [Figure 1](Figure1.png)
    
    ---
-   ### Practical Three - Shrinking Code (Part 2)
+ ### Practical Three - Shrinking Code (Part 2)
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -98,7 +99,7 @@ The following sections will outline the process by which an agent-based model of
    implemented to make our agent-based model more interesting.
    
    ---
-   ### Practical Four - Building tools and functions
+ ### Practical Four - Building tools and functions
    
    In this practical, a number of learning outcomes were achieved: 
    
@@ -108,7 +109,7 @@ The following sections will outline the process by which an agent-based model of
    The **code** for this section can be found at: [Script4](Practical4_BuildingFunctions.py)
    
    ---
-   ### Practical Five - Agents
+ ### Practical Five - Agents
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -122,7 +123,7 @@ The following sections will outline the process by which an agent-based model of
    The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
    
    ---
-   ### Practical Six - Inputs and Outputs
+ ### Practical Six - Inputs and Outputs
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -138,7 +139,7 @@ The following sections will outline the process by which an agent-based model of
    methods would really help visualise the model better
    
    ---
-   ### Practical Seven - Communicating
+ ### Practical Seven - Communicating
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -152,14 +153,14 @@ The following sections will outline the process by which an agent-based model of
    There is no point displaying the output of this practical, since without animation the new methods do not appear clear.
    
    ---
-   ### Practical Eight - Animation
+ ### Practical Eight - Animation
    
    
 
 
   ---
   
-  ### References
+### References
   
 * Bankes, S.C., 2002. Agent-based modeling: A revolution?. Proceedings of the National Academy of Sciences, 99(3), pp.7199-7200.
 
@@ -172,15 +173,15 @@ The following sections will outline the process by which an agent-based model of
 
   Return to:
 
-  ## [*Homepage*](index.md)
+## [*Homepage*](index.md)
 
   ---
 
   Go to:
 
-  ### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
+### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
 
   ---
-  ## REPOSITORY
+## REPOSITORY
 
 All data, scripts and information used to create this website can be found in my [Repository](https://github.com/patrickballantyne/patrickballantyne.github.io)
