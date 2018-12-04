@@ -157,20 +157,30 @@ The following sections will outline the process by which an agent-based model of
    
 
 
+  ---
+  
+  ### References
+  
+* Bankes, S.C., 2002. Agent-based modeling: A revolution?. Proceedings of the National Academy of Sciences, 99(3), pp.7199-7200.
 
----
+* Bonabeau, E., 2002. Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the National Academy of    Sciences, 99(suppl 3), pp.7280-7287.
 
-Return to:
+* Macal, C.M. and North, M.J., 2005, December. Tutorial on agent-based modeling and simulation. In Simulation conference, 2005   proceedings of the winter (pp. 14-pp). IEEE.
 
-## [*Homepage*](index.md)
+  
+  ---
 
----
+  Return to:
 
-Go to:
+  ## [*Homepage*](index.md)
 
-### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
+  ---
 
----
-## REPOSITORY
+  Go to:
+
+  ### [*Education*](Education.md)  |||    [*Portfolio*](AssignmentPortfolio.md)  |||   [*Contact Details*](ContactDetails.md)
+
+  ---
+  ## REPOSITORY
 
 All data, scripts and information used to create this website can be found in my [Repository](https://github.com/patrickballantyne/patrickballantyne.github.io)
