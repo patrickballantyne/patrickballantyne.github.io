@@ -41,6 +41,8 @@ This page wil give a brief outline of my education up to undergraduate studies
 ---
 **University (2015 - 2018)**
 
+<img align="right" width="250" height="250" src="headshot.jpg">
+
 - Studied for a BSc in Physical Geography at the University of Liverpool
 
 - Graduated with a First-Class Honours (BSc)
