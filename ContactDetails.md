@@ -22,11 +22,11 @@ Chatham Street, L7 7BD
 
 
 <p align="center">
-  <img width="460" height="300" src="uol.jpg">
+  <img width="460" height="400" src="uol.jpg">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="GDS.JPG">
+  <img width="460" height="400" src="GDS.JPG">
 </p>
 
 ---
