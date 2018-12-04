@@ -7,10 +7,9 @@ But first, a brief overview:
 
 ## About Me
 
-Hi! My name is Patrick Ballantyne. I am currently studying for an Integrated MSc and PhD in Data Analytics and Society.
-
 <img align="right" width="300" height="550" src="Headshot.jpeg">
 
+Hi! My name is Patrick Ballantyne. I am currently studying for an Integrated MSc and PhD in Data Analytics and Society.
 
 
 --- 
