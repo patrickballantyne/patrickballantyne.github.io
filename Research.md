@@ -41,7 +41,7 @@ Another of my research interests is on the concept of 'E-Resilience:'
   
 The development of an 'E-Resilience' framework was funded in 2014 by the [CDRC](https://www.cdrc.ac.uk/), in partnership with the 
 University of Liverpool. It used census data from the 2011 census along with measures of online propensity obtained from the 
-[Local Data Company[(https://www.localdatacompany.com/) to develop an 'E-Resilience' figure for each LSOA of the UK.
+[Local Data Company](https://www.localdatacompany.com/) to develop an 'E-Resilience' figure for each LSOA of the UK.
 
 The concept of 'E-Resilience' is such that large, attractive retail centres that people make specific journeys to, and small convenience
 stores will be e-resilient, whereas mid-sized centres are likely to be more exposed to online shopping, since they occupy a less 
