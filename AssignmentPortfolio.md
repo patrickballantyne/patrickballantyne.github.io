@@ -10,6 +10,7 @@ The portfolio is to be assessed for 30% of the module mark, and the brief was:
   ---
 
   ---
+  
 ## Structure of the Repository
   
   This *repository* contains all of the practical scripts and a selection of relevant outputs from each of practical sessions in Leeds.
@@ -63,6 +64,7 @@ The following sections will outline the process by which an agent-based model of
     * Distance calculations are very boring, when the agent starting positions are the same
     
    ---
+   
  ### Practical Two - Shrinking Code
    
    In this practical a number of learning outcomes were achieved:
@@ -79,6 +81,7 @@ The following sections will outline the process by which an agent-based model of
    The agent with the largest 'x' coordinate can be seen plotted in red in: [Figure 1](Figure1.png)
    
    ---
+   
  ### Practical Three - Shrinking Code (Part 2)
    
    In this practical, a number of learning outcomes were achieved:
@@ -99,6 +102,7 @@ The following sections will outline the process by which an agent-based model of
    implemented to make our agent-based model more interesting.
    
    ---
+   
  ### Practical Four - Building tools and functions
    
    In this practical, a number of learning outcomes were achieved: 
@@ -109,7 +113,8 @@ The following sections will outline the process by which an agent-based model of
    The **code** for this section can be found at: [Script4](Practical4_BuildingFunctions.py)
    
    ---
- ### Practical Five - Agents
+   
+### Practical Five - Agents
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -123,7 +128,8 @@ The following sections will outline the process by which an agent-based model of
    The next steps with the ABM would be to include some more complex methods, an environment for the agents to interact with and get the    outputs to move so we can see the model working in real-time.
    
    ---
- ### Practical Six - Inputs and Outputs
+   
+### Practical Six - Inputs and Outputs
    
    In this practical, a number of learning outcomes were achieved:
    
@@ -139,7 +145,8 @@ The following sections will outline the process by which an agent-based model of
    methods would really help visualise the model better
    
    ---
- ### Practical Seven - Communicating
+
+### Practical Seven - Communicating
    
    In this practical, a number of learning outcomes were achieved:
    
