@@ -169,7 +169,9 @@ The following sections will outline the process by which an agent-based model of
    
    The final model output can be seen below:
    
-   
+   <p align="center">
+  <img width="460" height="550" src="final_model_output.gif">
+</p>
 
 
   ---
