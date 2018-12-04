@@ -72,7 +72,7 @@ Whilst at the University of Liverpool, I undertook a wide variety of modules fro
 
 
                             
-- Physical Geography: Field class to the Algarve, acheiving 80% in final report (attach report), aswell as a range of other modules
+- Physical Geography: Field class to the Algarve, acheiving 80% in final report, aswell as a range of other modules
                         including catchment hydrology, geomorphology, soils and natural hazards.
                         
                         
