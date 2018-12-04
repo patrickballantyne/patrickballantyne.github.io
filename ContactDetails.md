@@ -19,13 +19,15 @@ Chatham Street, L7 7BD
 
 **Website**: You can find information about my role within the Geographic Data Science Lab [here.](https://www.liverpool.ac.uk/geographic-data-science/our-people/)
 
-<img align="left" width="450" height="400" src="uol.jpg"> <img align="right" width="450" height="400" src="GDS.JPG">
 
 
+<p align="center">
+  <img width="460" height="300" src="uol.jpg">
+</p>
 
-
-
-
+<p align="center">
+  <img width="460" height="300" src="GDS.JPG">
+</p>
 
 ---
 
