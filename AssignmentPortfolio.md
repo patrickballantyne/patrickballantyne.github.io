@@ -178,9 +178,9 @@ The following sections will outline the process by which an agent-based model of
   situation sheep will only eat until their stomach's are full. Thus, it made no sense to run the model until the 'fields' had no
   more 'grass,' since it assumes the sheep have infinite stomachs. 
   
-  The script for the final model can be found *HERE*
+  The **Final Model Script** can be found *HERE*
   
-  Alongside this script, the [agentframework] script is needed, which defines the 'Agent' class, and contains the most up-to date
+  Alongside this script, the [**agentframework script]** is needed, which defines the 'Agent' class, and contains the most up-to date
   methods that the agents can perform.
   
   ---
@@ -196,7 +196,7 @@ The following sections will outline the process by which an agent-based model of
   
   ---
 
-  Return to:
+Return to:
 
 ## [*Homepage*](index.md)
 
