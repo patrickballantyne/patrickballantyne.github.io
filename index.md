@@ -9,7 +9,10 @@ But first, a brief overview:
 
 ## About Me
 
-Hi! My name is Patrick Ballantyne. I am currently studying for an Integrated MSc and PhD in Data Analytics and Society.
+Hi! My name is Patrick Ballantyne. I am 21 years old, born in Luton.
+
+I am currently studying for an Integrated MSc and PhD in Data Analytics and Society, having recently graduated from a BSc Geography
+degree at the University of Liverpool.
 
 --- 
 Please use the links below to navigate to sections of my page.
