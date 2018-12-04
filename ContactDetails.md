@@ -21,7 +21,6 @@ Chatham Street, L7 7BD
 
 <img align="left" width="300" height="250" src="uol.jpg"> <img align="right" width="300" height="300" src="GDS.JPG">
 
-![LOGO](uol.jpg)                                       ![LOGO2](GDS.JPG)
 
 
 ---
