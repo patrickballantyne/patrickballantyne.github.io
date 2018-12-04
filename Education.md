@@ -58,7 +58,7 @@ Whilst at the University of Liverpool, I undertook a wide variety of modules fro
 - Human Geography: Maritime Geographies - achieving 90% in subject essay, Issues in geography - investigating 
                     Chinese geopolitical issues following climate change
 
-- Quantitative Geography: Geographic Data Science - achieving a First in the module, despite having no prior knowledge of python - an e                             **example output** from an assignment can be seen below, GIS for Human Geography - achieved 78% in the                                   module, completing various assignments to explore various functions of GIS. **An output** from assignment                               that required me to locate an new convenience store can be see below.
+- Quantitative Geography: Geographic Data Science - achieving a First in the module, despite having no prior knowledge of python - an                             **example output** from an assignment can be seen below, GIS for Human Geography - achieved 78% in the                                   module, completing various assignments to explore various functions of GIS. **An output** from assignment                               that required me to locate an new convenience store can be see below.
 
 
 <p align="center">
