@@ -180,7 +180,7 @@ The following sections will outline the process by which an agent-based model of
   
   The **Final Model Script** can be found [here](Practical8_Animation_FinalModel.py)
   
-  Alongside this script, the [**agentframework script](agentframework.py)** is needed, which defines the 'Agent' class, and contains the most up-to date
+  Alongside this script, the [**agentframework script**](agentframework.py) is needed, which defines the 'Agent' class, and contains the most up-to date
   methods that the agents can perform.
   
   ---
