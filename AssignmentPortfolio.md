@@ -169,6 +169,9 @@ The following sections will outline the process by which an agent-based model of
    
    The final model output can be seen below:
    
+   <p align="center">
+  <img width="460" height="550" src="final_model_output.gif">
+</p>
 
   The model created in this exercise simulates the behaviour of sheep grazing in a field. It runs continuously until the stopping 
   condition has been met. The condition chosen to be determined by how much of the 'grass' the 'sheep' had eaten, since in a real 
