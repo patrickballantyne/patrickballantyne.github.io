@@ -3,14 +3,13 @@
 
 Welcome to my page! Here you will find everything you need to know about me... 
 
+<img align="right" width="300" height="550" src="Headshot.jpeg">
+
 But first, a brief overview:
 
 ## About Me
 
-<img align="right" width="300" height="550" src="Headshot.jpeg">
-
 Hi! My name is Patrick Ballantyne. I am currently studying for an Integrated MSc and PhD in Data Analytics and Society.
-
 
 --- 
 Please use the links below to navigate to sections of my page.
