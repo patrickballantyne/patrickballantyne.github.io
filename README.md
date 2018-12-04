@@ -7,7 +7,7 @@ This file gives all the information necessary to make sense of this repository.
 
 ---
 
-The overall website has been structured as follows with fives pages, and can be found [here](index.md) in the file titled *index.md*:
+The overall website has been structured as follows with fives pages, and the file can be found [here](index.md) in *index.md*:
 
  1. **Homepage**
  
@@ -71,3 +71,8 @@ The page of the website containing information about my [Contact Details](Contac
 ## MISC FIles
 
 Other files with jpg formats are pictures and photographs used to enhance the website design.
+
+---
+## FINAL WEBSITE
+
+The final website can be found at this URL: https://patrickballantyne.github.io/
