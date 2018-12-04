@@ -21,8 +21,6 @@ This page wil give a brief outline of my education up to undergraduate studies
 
 - Winner of the *Music* award, for GCSE achievement and overall subject contribution
 
-- Considered one of the most successful past students, see [picture](school_quote.jpg)
-
 ---
 
 **Sixth Form (2013 - 2015)**
