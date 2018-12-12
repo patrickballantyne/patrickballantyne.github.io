@@ -59,7 +59,7 @@ The process is ongoing, but is proving to be insightful and is teaching me the b
 ---
 ## **REFERENCES**
 
-Singleton, A.D., Dolega, L., Riddlesden, D. and Longley, P.A., 2016. Measuring the spatial vulnerability of retail centres to online consumption through a framework of e-resilience. Geoforum, 69, pp.5-18.
+**Singleton, A.D., Dolega, L., Riddlesden, D. and Longley, P.A., 2016.** Measuring the spatial vulnerability of retail centres to online consumption through a framework of e-resilience. Geoforum, 69, pp.5-18.
 
 ---
 
