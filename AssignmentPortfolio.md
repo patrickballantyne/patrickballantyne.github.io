@@ -185,7 +185,7 @@ The following sections will outline the process by which an agent-based model of
    
    3) Learned how to enhance the visual appearance of graphs by playing with some of the extended features within matplotlib.pyplot
    
-   The final model output can be seen below:
+   A gif of the final model output can be seen below:
    
    <p align="center">
   <img width="600" height="600" src="final_model_output.gif">
