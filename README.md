@@ -24,7 +24,7 @@ The overall website has been structured as follows with fives pages, and the fil
 
 ## Assignment Files
 
-The [Assignment Portfolio](AssignmentPortfolio.md) can be found in the file *AssignmentPortfoli.md* 
+The [Assignment Portfolio](AssignmentPortfolio.md) can be found in the file *AssignmentPortfolio.md* 
 
 Within the portfolio, a number of individual files have been linked:
 
@@ -42,6 +42,9 @@ Within the portfolio, a number of individual files have been linked:
    The script can be found in the file called *Practical6_InputsOutputs.py*
 - [Practical Seven Script](Practical7_Communicating.py) contains all the code used in the seventh practical on 'Communicating'.
    The script can be found in the file called *Practical7_Communicating.py*
+- [Practical Eight Script](Practical8_Animation_FinalModel.py) contains all the code for the final model. The script can be found in 
+   the file called *Practical8_Animation_FinalModel.py*
+- [AgentFramework](agentframework.py) contains the script that defines the new 'Agent' class
    
 Aswell as the scripts from the practicals, a number of the output have been included:
 
@@ -49,10 +52,8 @@ Aswell as the scripts from the practicals, a number of the output have been incl
 - [Figure 2](Figure2.png) from Practical 3 can be found in the file called *Figure2.png*
 - [Figure 3](Figure3.png) from Practical 5 can be found in the file called *Figure3.png*
 - [Figure 4](Figure4.png) from Practical 6 can be found in the file called *Figure4.png*
-- **NEED TO INCLUDE FINAL ABM*
+- Click [Final Model](final_model_output.gif) to see a gif of the final animated model
 
-   
-**NEED TO INCLUDE FINAL MODEL!!** 
 ---
 
 ## Education Files
