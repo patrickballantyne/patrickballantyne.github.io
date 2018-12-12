@@ -49,7 +49,9 @@ The following sections will outline the process by which an agent-based model of
   In this practical session, the following learning outcomes were achieved:
   
    1) Created two agents, each with their own unique x and y coordinates
+   
    2) Moved each agent according to a randomly generated number
+   
    3) Calculated the distance between the two agents (x and y), using pythagoras' theorem
     
   The **code** for this practical session can be found at: [**Script1**](Practical1_ABMintro.py)
