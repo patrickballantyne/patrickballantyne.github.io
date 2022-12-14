@@ -1,0 +1,9 @@
+---
+title: "CARTO Spatial Data Science Conference - October 2022"
+date: "2022-10-24"
+author: [Patrick Ballantyne]
+categories: [geographic data science, geodemographics, retail]
+subtitle: "Google HQ, Chelsea, NY"
+image: "p1-fig.jpeg"
+editor: visual
+---

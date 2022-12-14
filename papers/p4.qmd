@@ -1,0 +1,18 @@
+---
+title: "'There is no formula for life and career': A commentary on perspectives and experiences of early career quantitative human geographers"
+date: "2022-12-09"
+author: [Patrick Ballantyne, Rachael Sanderson, Alec Davies, Victoria Houlden, Andrew MacLachlan, Gwilym Owen, Caitlin Robinson, Hyesop Shin, Flurina Wartmann, Joanna Wilkin, Isabel Williams]
+categories: [early-career research, commentary, geography]
+subtitle: "The Geographical Journal"
+image: "p4-fig.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors.
+
+## Full Paper
+
+The full paper is published and available open-access at [The Geographical Journal](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12499)

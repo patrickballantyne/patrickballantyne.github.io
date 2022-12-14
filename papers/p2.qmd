@@ -1,0 +1,18 @@
+---
+title: "A Regional Exploration of Retail Visits During the COVID-19 Pandemic"
+date: "2021-10-15"
+author: [Patrick Ballantyne, Alex Singleton, Les Dolega]
+categories: [retail, cities, paper]
+subtitle: "Regional Studies, Regional Science"
+image: "p2-fig.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends.
+
+## Full Paper
+
+The full paper is published and available open-access at [Regional Studies, Regional Science](https://www.tandfonline.com/doi/full/10.1080/21681376.2021.1973548)

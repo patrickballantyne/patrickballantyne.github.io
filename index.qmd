@@ -1,0 +1,32 @@
+---
+title: "Patrick Ballantyne"
+subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
+about: 
+  id: hero-heading
+  template: jolla
+  image: profile-v2.jpg
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: geo-fill
+      text: Liverpool, UK
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PBallantyne_
+    - icon: github
+      text: Github
+      href: https://github.com/patrickballantyne
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/patrick-ballantyne-660783172/?originalSubdomain=uk
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=N-YrHxMAAAAJ&hl=en&oi=ao
+    - icon: envelope-fill
+      text: Get In Touch!
+      href: mailto:P.Ballantyne@liverpool.ac.uk
+---
+
+I am currently a Postdoctoral Research Fellow in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How". 
+
+My current role engages with a number of collaborative research projects with [Prof. Alex Singleton](https://www.alex-singleton.com/), to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions.

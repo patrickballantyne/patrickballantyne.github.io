@@ -1,0 +1,17 @@
+---
+title: "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations"
+date: "2022-09-15"
+author: [Patrick Ballantyne, Alex Singleton, Les Dolega, Kevin Credit]
+categories: [retail, cities, paper]
+subtitle: "Environment and Planning B: Urban Analytics and City Science"
+image: "p1-fig.jpeg"
+editor: visual
+---
+
+## Abstract
+
+Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with 'H3', and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre 'health', demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail.
+
+## Full Paper
+
+The full paper is published and available open-access at [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/doi/full/10.1177/23998083211040519)

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Patrick Ballantyne"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: AboutMe.qmd
+        text: About
+      - href: about.qmd
+        text: Research Interests
+      - href: publications.qmd
+        text: Publications
+      - href: cv.pdf
+        text: CV
+      - href: listings.qmd
+        text: Blog
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

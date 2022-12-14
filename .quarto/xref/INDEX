@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "c63d072c"
+  },
+  "about.qmd": {
+    "about.html": "cffaa7a0"
+  },
+  "publications.qmd": {
+    "publications.html": "e4493aba"
+  },
+  "listings.qmd": {
+    "listings.html": "af317e9e"
+  },
+  "posts/CARTO2022.qmd": {
+    "CARTO2022.html": "27b87d97"
+  },
+  "papers/p1.qmd": {
+    "p1.html": "bc202461"
+  },
+  "posts/Japan2022.qmd": {
+    "Japan2022.html": "8081a822"
+  },
+  "posts/KRIHS2022.qmd": {
+    "KRIHS2022.html": "18edf276"
+  },
+  "papers/p2.qmd": {
+    "p2.html": "0c6a4b36"
+  },
+  "papers/p3.qmd": {
+    "p3.html": "4f023b43"
+  },
+  "papers/p4.qmd": {
+    "p4.html": "88e412d1"
+  },
+  "AboutMe.qmd": {
+    "AboutMe.html": "6c58aea3"
+  }
+}
