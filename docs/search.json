@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "about.html#hobbies-and-interests",
+    "href": "about.html#hobbies-and-interests",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\n\nRunning\nI am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends.\nDuring lockdown, I completed the ‘Couch to 5k’ challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon.\n\n\n\n\n\nFoodie\nI love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts.\nSome of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso."
+  },
+  {
+    "objectID": "about.html#affiliations",
+    "href": "about.html#affiliations",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Affiliations",
+    "text": "Affiliations\n2022 - present: Postdoctoral Research Fellow | Geographic Data Science Lab, University of Liverpool\n2018 - 2022: PhD Student | Geographic Data Science Lab, University of Liverpool\n2015 - 2018: BSc Physical Geography | Department of Geography and Planning, University of Liverpool"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Patrick Ballantyne",
     "section": "",
-    "text": "Hey!\nI’m Patrick! Here’s a little spiel about who I am and what I do…\n\nI am currently a Postdoctoral Research Fellow in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nMy current role engages with a number of collaborative research projects with Prof. Alex Singleton, to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions."
+    "text": "I am currently a Postdoctoral Research Fellow in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nMy current role engages with a number of collaborative research projects with Prof. Alex Singleton, to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions."
   },
   {
     "objectID": "listings.html",
@@ -114,7 +128,7 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Patrick Ballantyne",
+    "title": "Research Interests",
     "section": "",
     "text": "How can we empirically define and delineate retail centre boundaries?\nTo what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?\nWhere do people who shop at retail centres come from and why?\nHow are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?\n\n\n\n\n\n\nWhat new questions can we answer with data derived from mobile phone applications?\nTo what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.\nHow has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?"
   }

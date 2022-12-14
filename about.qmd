@@ -1,1 +1,49 @@
-## Welcome 
+---
+title: "Patrick Ballantyne - About Me"
+subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
+
+---
+
+---
+
+## Hobbies and Interests
+
+<img src="run.jpg" align="left" width="250" height="250" />
+
+### Running 
+
+I am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends. 
+
+During lockdown, I completed the 'Couch to 5k' challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon. 
+
+<img src="profile-v3.jpg" align="left" width="250" height="250" />
+
+---
+
+---
+
+### Foodie
+
+I love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts. 
+
+Some of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso.
+
+
+---
+
+## Affiliations
+
+**2022 - present:**
+Postdoctoral Research Fellow | Geographic Data Science Lab, University of Liverpool
+
+**2018 - 2022:**
+PhD Student | Geographic Data Science Lab, University of Liverpool
+
+**2015 - 2018:**
+BSc Physical Geography | Department of Geography and Planning, University of Liverpool
+
+---
+
+
+
+
