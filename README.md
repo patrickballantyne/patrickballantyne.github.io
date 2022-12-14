@@ -1,4 +1,4 @@
-# Website - Patrick Ballantyne
+# Website
 
 GitHub repository for website built with Quarto and GitHub pages.
 
