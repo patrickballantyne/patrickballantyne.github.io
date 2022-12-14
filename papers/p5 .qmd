@@ -1,0 +1,18 @@
+---
+title: "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery"
+date: "pending"
+author: [Patrick Ballantyne, Alex Singleton, Les Dolega]
+categories: [retail, mobility, geography, paper]
+subtitle: "Urban Informatics"
+image: "p5-fig.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector.
+
+## Full Paper
+
+The full paper has been accepted and will be available to read at [Urban Informatics](https://www.springer.com/journal/44212) in the very near future. 
