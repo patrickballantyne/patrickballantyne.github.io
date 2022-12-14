@@ -27,6 +27,14 @@ about:
       href: mailto:P.Ballantyne@liverpool.ac.uk
 ---
 
+---
+
+### Hey!
+
+I'm Patrick! Here's a little spiel about who I am and what I do...
+
+---
+
 I am currently a Postdoctoral Research Fellow in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How". 
 
 My current role engages with a number of collaborative research projects with [Prof. Alex Singleton](https://www.alex-singleton.com/), to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions.

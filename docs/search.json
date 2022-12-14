@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Patrick Ballantyne",
     "section": "",
-    "text": "My current role engages with a number of collaborative research projects with Prof. Alex Singleton, to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions."
+    "text": "Hey!\nI’m Patrick! Here’s a little spiel about who I am and what I do…\n\nI am currently a Postdoctoral Research Fellow in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nMy current role engages with a number of collaborative research projects with Prof. Alex Singleton, to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions."
   },
   {
     "objectID": "listings.html",
     "href": "listings.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Liverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "papers/p1.html",
@@ -77,10 +70,38 @@
     "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal"
   },
   {
+    "objectID": "posts/CARTO2022.html",
+    "href": "posts/CARTO2022.html",
+    "title": "CARTO Spatial Data Science Conference - October 2022",
+    "section": "",
+    "text": "Photos\n\n\n\n\n\n\n\nMore Information\nThe workshop materials and presentation can be found on the GitHub repository created for the workshop.\nFor details on the rest of the Spatial Data Science Conference, check out the full list of talks and speakers."
+  },
+  {
+    "objectID": "posts/Japan2022.html",
+    "href": "posts/Japan2022.html",
+    "title": "Japan Research Visit - September 2022",
+    "section": "",
+    "text": "Photos\n\n\n\n\n\n\n\nMore Information\nThe full week itinerary is available to view, which details a day-by-day itinerary of what was delivered across the short course."
+  },
+  {
+    "objectID": "posts/KRIHS2022.html",
+    "href": "posts/KRIHS2022.html",
+    "title": "KRIHS Research Visit - November 2022",
+    "section": "",
+    "text": "More Information\nThe full schedule is available to view and download\nYou can watch re-watch the week’s activities on our curated YouTube playlist."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\nThe Geographical Journal\n\n\n\n\nearly-career research\n\n\ncommentary\n\n\ngeography\n\n\n \n\n\n\n\nDec 9, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nAnnals of the American Association of Geographers\n\n\n\n\nretail\n\n\ngeography\n\n\npaper\n\n\n \n\n\n\n\nSep 19, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nEnvironment and Planning B: Urban Analytics and City Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRegional Studies, Regional Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nOct 15, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "The Geographical Journal\n\n\n\n\nearly-career research\n\n\ncommentary\n\n\ngeography\n\n\n \n\n\n\n\nDec 9, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nAnnals of the American Association of Geographers\n\n\n\n\nretail\n\n\ngeography\n\n\npaper\n\n\n \n\n\n\n\nSep 19, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nEnvironment and Planning B: Urban Analytics and City Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRegional Studies, Regional Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nOct 15, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Patrick Ballantyne",
+    "section": "",
+    "text": "How can we empirically define and delineate retail centre boundaries?\nTo what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?\nWhere do people who shop at retail centres come from and why?\nHow are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?\n\n\n\n\n\n\nWhat new questions can we answer with data derived from mobile phone applications?\nTo what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.\nHow has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?"
   }
 ]

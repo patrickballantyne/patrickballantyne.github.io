@@ -10,9 +10,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: AboutMe.qmd
-        text: About
       - href: about.qmd
+        text: About
+      - href: research.qmd
         text: Research Interests
       - href: publications.qmd
         text: Publications

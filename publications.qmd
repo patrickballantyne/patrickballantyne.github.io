@@ -5,8 +5,6 @@ listing:
   type: default
   max-items: 8
   sort: "date desc"
-  sort-ui: true
-  filter-ui: true
   categories: true
   fields: [date, title, subtitle, categories, image]
 page-layout: full
