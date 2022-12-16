@@ -1,26 +1,20 @@
 ---
 title: "Research Interests"
-
 ---
-
-
-## Patrick's Research Interests
-
 
 #### Retail Centres and Retail Geography ![](shop.png) ![](planet.png)
 
-* How can we empirically define and delineate retail centre boundaries? 
-* To what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?
-* Where do people who shop at retail centres come from and why?
-* How are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?
+-   How can we empirically define and delineate retail centre boundaries?
+-   To what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?
+-   Where do people who shop at retail centres come from and why?
+-   How are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?
 
----
-
+------------------------------------------------------------------------
 
 #### Mobility Data and Cities ![](fone.png) ![](city.png)
 
-* What new questions can we answer with data derived from mobile phone applications?
-* To what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis. 
-* How has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?
+-   What new questions can we answer with data derived from mobile phone applications?
+-   To what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.
+-   How has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?
 
----
+------------------------------------------------------------------------

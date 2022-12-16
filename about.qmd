@@ -1,49 +1,57 @@
 ---
 title: "Patrick Ballantyne - About Me"
 subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
-
 ---
 
----
+------------------------------------------------------------------------
+
+## Education and Affiliations
+
+#### 2022 - *present*
+
+Postdoctoral Research Fellow, Geographic Data Science
+
+#### 2018 - 2022 
+PhD Student, Data Analytics and Society
+
+#### 2015 - 2018
+
+BSc Physical Geography (1st Class)
+
+-----------------------------------------------------------------------
 
 ## Hobbies and Interests
 
-<img src="run.jpg" align="left" width="250" height="250" />
+### Running
 
-### Running 
+I am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends.
 
-I am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends. 
+During lockdown, I completed the 'Couch to 5k' challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon.
 
-During lockdown, I completed the 'Couch to 5k' challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon. 
+![](run.jpg){fig-align="center" width=50%}
 
-<img src="profile-v3.jpg" align="left" width="250" height="250" />
+------------------------------------------------------------------------
 
----
+### Music
 
----
+Music is a big part of my life. I grew up learning the fiddle and banjo, competing at international competitions or 'fleadhs' and touring the UK and Ireland in 2016 to commemorate 100 years since the Easter Rising.
+
+Now, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK.
+
+Aside from Irish music, I spend way too much time on Spotify. This year I was in the top 0.001% of people who listened to Coldplay (haha ikr), and am getting very excited for Eurovision here in Liverpoll later next year.
+
+![](music.jpg){fig-align="center" width=50%}
+
+------------------------------------------------------------------------
 
 ### Foodie
 
-I love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts. 
+I love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts.
 
 Some of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso.
 
+![](profile-v3.jpg){fig-align="center" width=50%}
 
----
-
-## Affiliations
-
-**2022 - present:**
-Postdoctoral Research Fellow | Geographic Data Science Lab, University of Liverpool
-
-**2018 - 2022:**
-PhD Student | Geographic Data Science Lab, University of Liverpool
-
-**2015 - 2018:**
-BSc Physical Geography | Department of Geography and Planning, University of Liverpool
-
----
-
-
+------------------------------------------------------------------------
 
 
