@@ -26,6 +26,7 @@ about:
       text: Get In Touch!
       href: mailto:P.Ballantyne@liverpool.ac.uk
 ---
+
 ------------------------------------------------------------------------
 
 I am currently a Postdoctoral Research Fellow in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How".
