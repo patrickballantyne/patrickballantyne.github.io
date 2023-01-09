@@ -1,6 +1,6 @@
 ---
 title: "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery"
-date: "pending"
+date: "2022-12-20"
 author: [Patrick Ballantyne, Alex Singleton, Les Dolega]
 categories: [retail, mobility, geography, paper]
 subtitle: "Urban Informatics"
@@ -15,6 +15,5 @@ The COVID-19 pandemic has changed the ways in which we shop, with significant im
 
 ## Full Paper
 
-The full paper has been accepted and will be available to read at [Urban Informatics](https://www.springer.com/journal/44212) in the very near future.
+The full paper is published and available open-access at [Urban Informatics](https://link.springer.com/article/10.1007/s44212-022-00022-0).
 
-To read a copy of the accepted manuscript [click here](p5.pdf). 
