@@ -1,6 +1,6 @@
 ---
-title: "Patrick Ballantyne"
-subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
+title: "Dr. Patrick Ballantyne"
+subtitle: "Research Associate / Data Scientist, Geographic Data Science"
 about: 
   id: hero-heading
   template: jolla
@@ -29,6 +29,6 @@ about:
 
 ------------------------------------------------------------------------
 
-I am currently a Postdoctoral Research Fellow in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How".
+I am currently a Postdoctoral Research Associate / Data Scientist in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How".
 
-My current role engages with a number of collaborative research projects with [Prof. Alex Singleton](https://www.alex-singleton.com/), to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions.
+Currently I am engaged with [Prof. Alex Singleton](https://www.alex-singleton.com/) on a number of projects, to do with Urban Mobility, Geodemographics, Retail and Urban Analytics.

@@ -1,6 +1,6 @@
 ---
 title: "Patrick Ballantyne - About Me"
-subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
+subtitle: "Research Associate / Data Scientist, Geographic Data Science"
 ---
 
 ------------------------------------------------------------------------
@@ -9,7 +9,7 @@ subtitle: "Postdoctoral Research Fellow, Geographic Data Science"
 
 #### 2022 - *present*
 
-Postdoctoral Research Fellow, Geographic Data Science
+Research Associate / Data Scientist, Geographic Data Science
 
 #### 2018 - 2022
 

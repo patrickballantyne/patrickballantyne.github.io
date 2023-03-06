@@ -4,7 +4,7 @@
     "href": "about.html#education-and-affiliations",
     "title": "Patrick Ballantyne - About Me",
     "section": "Education and Affiliations",
-    "text": "Education and Affiliations\n\n2022 - present\nPostdoctoral Research Fellow, Geographic Data Science\n\n\n2018 - 2022\nPhD Student, Data Analytics and Society\n\n\n2015 - 2018\nBSc Physical Geography (1st Class)"
+    "text": "Education and Affiliations\n\n2022 - present\nResearch Associate / Data Scientist, Geographic Data Science\n\n\n2018 - 2022\nPhD Student, Data Analytics and Society\n\n\n2015 - 2018\nBSc Physical Geography (1st Class)"
   },
   {
     "objectID": "about.html#hobbies-and-interests",
@@ -16,16 +16,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Patrick Ballantyne",
+    "title": "Dr. Patrick Ballantyne",
     "section": "",
-    "text": "I am currently a Postdoctoral Research Fellow in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nMy current role engages with a number of collaborative research projects with Prof. Alex Singleton, to do with retail, geodemographics, mobility and applications of geographic data science and urban analytics to answer new questions."
+    "text": "I am currently a Postdoctoral Research Associate / Data Scientist in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nCurrently I am engaged with Prof. Alex Singleton on a number of projects, to do with Urban Mobility, Geodemographics, Retail and Urban Analytics."
   },
   {
     "objectID": "listings.html",
     "href": "listings.html",
     "title": "blog",
     "section": "",
-    "text": "Liverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Blackburne House, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n \n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "papers/p1.html",
@@ -119,6 +119,13 @@
     "text": "More Information\nThe full schedule is available to view and download\nYou can watch re-watch the week’s activities on our curated YouTube playlist."
   },
   {
+    "objectID": "posts/PhD.html",
+    "href": "posts/PhD.html",
+    "title": "PhD Defence - March 2023",
+    "section": "",
+    "text": "Acknowledgements\nUndertaking a PhD amidst a global pandemic has presented significant challenges; nearly two years of mobility and travel restrictions have altered what is a ‘typical’ PhD experience. I feel that without the support of some key people, I would not have been able to successfully complete this thesis, so at this point I would like to pay tribute to some of these amazing people, and thank them for their help and support.\nFirstly, to Prof. Alex Singleton, for his continuous academic (and personal) support throughout my PhD. Over the past four years, Alex has been incredibly kind, and ensured that my skills are refined and targeted at specific projects, to ensure I could complete my studies in time, whilst listening to my own interests and giving me plenty of ownership over my project. Alex has also given me lots of encouragement and opportunities to expand my academic portfolio, network and career, going above and beyond as a PhD supervisor, dedicating significant time to issues I have had over the past four years. I really appreciate the time and effort he put into this PhD project, helping shape me into the researcher I am today, and for that I am truly grateful.\nSecondly, to my secondary supervisor Dr. Les Dolega. Les has always been on hand to offer support and advice on life in general, as well as how best to frame my research projects within the field of retail geography, often turning a paper/chapter draft around with constructive comments in a matter of days. I am particularly grateful to Les for his encouragement during my time as a Research Assistant and in the early months of my new role at Liverpool, which has given me the confidence to continue my academic journey at Liverpool as a Postdoctoral Researcher, and my interests in retail geography.\nThirdly, to my other co-authors Jacob Macdonald and Kevin Credit, as well as to the early-career panellists, Rachael Sanderson, and members of the QMRG committee, whom I worked with on a written commentary for the Geographical Journal. These people were instrumental in helping to push further publications over the line with their expertise and advice, but also gave me the opportunity to collaborate externally with other academics outside of Liverpool, which has opened a number of opportunities since, and inspired me to continue my academic journey.\nThanks to all at the CDRC, SafeGraph and Geolytix who have provided data that has been invaluable to my PhD. In particular, a big thanks to SafeGraph, who through their ‘Data for Academics’ programme made the primary objective of this PhD thesis feasible, following months of searching for useful and accessible sources of data on retailer locations for the U.S.\nI also want to thank all of my colleagues at the Geographic Data Science Lab and CDRC, who have offered me general support, advice, and friendship, reviewed drafts of papers and been there to listen when I am facing significant challenges in my research. The GDSL has been a fantastic place to do a PhD, with each and every member having an impact on my overall PhD experience. There are too many people to mention here, but I particularly wanted to acknowledge the contributions of Alessia Calafiore, Martin Fleischmann, Maurizio Gibin (CDRC), Ollie O’Brien (CDRC), May Chen (CDRC), Natalie Rose, Olivia Horsefield, Dan Owen, Sian Teesdale, James Murphy, Krasen Samardzhiev, Nikos Patias, Michael Mahony, Maya Middleton-Welch, Francisco Rowe, Dani Arribas-Bel, Mark Green, Caitlin Robinson, Jeremiah Nieves, Ron Mahabir and Olga Gkountouna, all of whom have contributed in some way to ensuring my PhD is a success.\nI also wanted to thank some of my closest friends, for their undying support over the past four years. Particular thanks to Tilly Clough, Ella Bytheway-Jackson, Libby Hopkins, John O’Neill, Jess Cerasale, Elaine Reilly and Clare Bohan, who have been there at various stages of my academic journey. Thank you to all of you for listening, discussing, supporting, and looking out for me over the past four years, and being there to celebrate my major achievements.\nA final thanks goes to Mum and Dad. As the first of the family to go to university and first to complete a PhD, I want to thank you both for your undying support and understanding over the last 8 years, especially when I was facing significant personal issues or struggling with the pressures of doing a PhD in a pandemic. Your love and care during this time has given me the opportunity to flourish in my academic career without any major concerns or stresses, and I will be eternally grateful for this, especially given the challenges you already face with Liam. Unfortunately, Dad you can’t retire just yet (haha), but I hope to one day return the favour to you both.\n\n\n\nDownload my thesis\nThe final accepted version of my PhD thesis is available to read here."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "publications",
@@ -130,6 +137,6 @@
     "href": "research.html",
     "title": "Research Interests",
     "section": "",
-    "text": "Mobility Data and Cities  \n\nWhat new questions can we answer with data derived from mobile phone applications?\nTo what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.\nHow has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?"
+    "text": "Mobility Data and Cities  \n\nWhat new questions can we answer with data derived from mobile phone applications?\nTo what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.\nHow has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?\n\n\n\n\nGeodemographic Classifications of Neighbourhoods\n\nWhat role can the 2021 Census and Geodemographics play in helping us to better understand neighbourhoods in 2023?\nTo what extent do postcodes capture significant differences in the socio-economic characteristics of neighbourhoods?\n\n\n\n\nRetail Centres and Retail Geography  \n\nHow can we empirically define and delineate retail centre boundaries?\nTo what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?\nWhere do people who shop at retail centres come from and why?\nHow are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?"
   }
 ]

@@ -2,13 +2,6 @@
 title: "Research Interests"
 ---
 
-#### Retail Centres and Retail Geography ![](shop.png) ![](planet.png)
-
--   How can we empirically define and delineate retail centre boundaries?
--   To what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?
--   Where do people who shop at retail centres come from and why?
--   How are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?
-
 ------------------------------------------------------------------------
 
 #### Mobility Data and Cities ![](fone.png) ![](city.png)
@@ -18,3 +11,17 @@ title: "Research Interests"
 -   How has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?
 
 ------------------------------------------------------------------------
+
+#### Geodemographic Classifications of Neighbourhoods 
+
+- What role can the 2021 Census and Geodemographics play in helping us to better understand neighbourhoods in 2023?
+- To what extent do postcodes capture significant differences in the socio-economic characteristics of neighbourhoods?
+
+------------------------------------------------------------------------
+
+#### Retail Centres and Retail Geography ![](shop.png) ![](planet.png)
+
+-   How can we empirically define and delineate retail centre boundaries?
+-   To what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?
+-   Where do people who shop at retail centres come from and why?
+-   How are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?

@@ -9,5 +9,4 @@ listing:
   fields: [date, title, subtitle, categories, image]
 page-layout: full
 title-block-banner: false
-
 ---
