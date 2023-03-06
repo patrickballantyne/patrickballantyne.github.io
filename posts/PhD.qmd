@@ -1,5 +1,5 @@
 ---
-title: "PhD Defence - March 2023"
+title: "I got a PhD!! - March 2023"
 date: "2023-03-06"
 author: [Patrick Ballantyne]
 categories: [geographic data science, retail, education]
