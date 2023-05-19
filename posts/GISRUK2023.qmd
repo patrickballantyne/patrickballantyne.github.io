@@ -4,7 +4,7 @@ date: "2023-04-21"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, education]
 subtitle: "University of Glasgow, Glasgow, UK"
-image: "goog.jpg"
+image: "cone.jpg"
 editor: visual
 ---
 
@@ -16,11 +16,13 @@ editor: visual
 
 GISRUK represents one of the biggest calendar events for researchers and industry experts in the UK and internationally, consisting of a day of workshops for early-career researchers (ECRs) on the 18th April, followed by the main conference from the 19th - 21st April.
 
-This year I represented the CDRC, who kindly acted as one of the sponsors for the conference. In particular, along with other CDRC colleagues, we ran an exhibition stand across the week, promoting all the work we do at the CDRC, and distributing lots of CDRC merchandise.
+This year I represented the CDRC, who acted as one of the sponsors for the conference, alongside others such as ESRI, Urban Big Data Centre (UBDC) and Geovation. In particular, along with other CDRC colleagues, we ran an exhibition stand across the week, promoting all the work we do at the CDRC, and distributing lots of CDRC merchandise.
 
-A really common theme in lots of the sessions was the vast potential of new forms of data or *digital footprints data*, as well as the ways in which we can use ChatGPT to support out analyses as researchers. I took a lot away from the sessions, and have begun to formulate lots of ideas for future research projects.
+A really common theme in lots of the sessions was the vast potential of new forms of data or *digital footprints data*, as well as the ways in which we can use ChatGPT to support out analyses as researchers. I took a lot away from the sessions, and have begun to formulate lots of ideas for future research projects around urban mobility, neighbourhoods, and the use of emerging sources of data and technologies to answer important questions.
 
 The conference was also an excellent opportunity for me to re-engage with the wider GIS/GIScience academic research community following completion of my PhD, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything Glasgow has to offer.
+
+A huge kudos to Ana and Guy for another excellent GISRUK - looking forward to Leeds GISRUK in 2024!
 
 ------------------------------------------------------------------------
 
@@ -28,8 +30,10 @@ The conference was also an excellent opportunity for me to re-engage with the wi
 
 ------------------------------------------------------------------------
 
-![](talk2.jpg)
+![](uni.jpg)
 
-![](carto-gen.jpg)
+![](team.jpg)
 
-## ![](talk3.jpg)
+![](stand.jpg)
+
+![](oran.jpg)

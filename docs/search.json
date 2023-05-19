@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Dr. Patrick Ballantyne",
     "section": "",
-    "text": "I am currently a Postdoctoral Research Associate / Data Scientist in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nCurrently I am engaged with Prof. Alex Singleton on a number of projects, to do with Urban Mobility, Geodemographics, Retail and Urban Analytics."
+    "text": "I am currently a Postdoctoral Research Associate / Data Scientist in the Geographic Data Science Lab, University of Liverpool, having recently completed a Centre for Doctoral Training PhD in the same department on “Retail Centre Geographies: Who, What, Where and How”.\nCurrently I am engaged with Prof. Alex Singleton on a number of projects, to do with Urban Mobility, Geodemographics, and Retail, all falling within the broad area of Urban Analytics.\nMost recently, I have been engaged with a short consultancy project for Liverpool City Region Combined Authority, helping to develop spatial data indicators and interactive dashboards to support decision making in the areas of transport planning, economic development and health."
   },
   {
     "objectID": "listings.html",
@@ -105,6 +105,13 @@
     "text": "Photos\n\n\n\n\n\n\n\nMore Information\nThe workshop materials and presentation can be found on the GitHub repository created for the workshop.\nFor details on the rest of the Spatial Data Science Conference, check out the full list of talks and speakers."
   },
   {
+    "objectID": "posts/GISRUK2023.html",
+    "href": "posts/GISRUK2023.html",
+    "title": "GISRUK Conference - April 2023",
+    "section": "",
+    "text": "Photos"
+  },
+  {
     "objectID": "posts/Japan2022.html",
     "href": "posts/Japan2022.html",
     "title": "Japan Research Visit - September 2022",
@@ -138,12 +145,5 @@
     "title": "Research Interests",
     "section": "",
     "text": "Mobility Data and Cities\n\nWhat new questions can we answer with data derived from mobile phone applications?\nTo what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.\nHow has urban mobility changed during the COVID-19 pandemic and cost-of-living crisis?\n\n\n\n\nGeodemographic Classifications of Neighbourhoods\n\nWhat role can the 2021 Census and Geodemographics play in helping us to better understand neighbourhoods in 2023?\nTo what extent do postcodes capture significant differences in the socio-economic characteristics of neighbourhoods?\n\n\n\n\nRetail Centres and Retail Geography\n\nHow can we empirically define and delineate retail centre boundaries?\nTo what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?\nWhere do people who shop at retail centres come from and why?\nHow are consumption spaces responding to the COVID-19 pandemic and cost-of-living crisis?"
-  },
-  {
-    "objectID": "posts/GISRUK2023.html",
-    "href": "posts/GISRUK2023.html",
-    "title": "GISRUK Conference - April 2023",
-    "section": "",
-    "text": "Photos"
   }
 ]
