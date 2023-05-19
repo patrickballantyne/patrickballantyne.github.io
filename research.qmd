@@ -4,7 +4,7 @@ title: "Research Interests"
 
 ------------------------------------------------------------------------
 
-#### Mobility Data and Cities 
+#### Mobility Data and Cities
 
 -   What new questions can we answer with data derived from mobile phone applications?
 -   To what extent is data derived from mobile phone applications representative of populations and sufficient enough to facilitate spatio-temporal analysis.
@@ -12,14 +12,14 @@ title: "Research Interests"
 
 ------------------------------------------------------------------------
 
-#### Geodemographic Classifications of Neighbourhoods 
+#### Geodemographic Classifications of Neighbourhoods
 
 -   What role can the 2021 Census and Geodemographics play in helping us to better understand neighbourhoods in 2023?
 -   To what extent do postcodes capture significant differences in the socio-economic characteristics of neighbourhoods?
 
 ------------------------------------------------------------------------
 
-#### Retail Centres and Retail Geography 
+#### Retail Centres and Retail Geography
 
 -   How can we empirically define and delineate retail centre boundaries?
 -   To what extent have the form and function of retail agglomerations evolved over time, and how can we account for this?

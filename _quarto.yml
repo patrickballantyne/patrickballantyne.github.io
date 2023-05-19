@@ -16,7 +16,7 @@ website:
         text: Research Interests
       - href: publications.qmd
         text: Publications
-      - href: cv.pdf
+      - href: cv-v2.pdf
         text: CV
       - href: listings.qmd
         text: Blog
