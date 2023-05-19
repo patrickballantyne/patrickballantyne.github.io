@@ -31,4 +31,4 @@ about:
 
 I am currently a Postdoctoral Research Associate / Data Scientist in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), [University of Liverpool](https://www.liverpool.ac.uk/), having recently completed a [Centre for Doctoral Training PhD](https://datacdt.org/) in the same department on "Retail Centre Geographies: Who, What, Where and How".
 
-Currently I am engaged with [Prof. Alex Singleton](https://www.alex-singleton.com/) on a number of projects, to do with Urban Mobility, Geodemographics, Retail and Urban Analytics.
+Currently I am engaged with [Prof. Alex Singleton](https://www.alex-singleton.com/) on a number of projects, to do with Urban Mobility, Geodemographics, Retail and Urban Analytics. Most recently, I have been engaged with a short consultancy project for Liverpool City Region Combined Authority, helping to develop spatial data indicators and interactive dashboards to support decision making in the areas of transport planning, economic development and health.

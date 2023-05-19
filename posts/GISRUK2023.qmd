@@ -1,0 +1,35 @@
+---
+title: "GISRUK Conference - April 2023"
+date: "2023-04-21"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, education]
+subtitle: "University of Glasgow, Glasgow, UK"
+image: "goog.jpg"
+editor: visual
+---
+
+### GISRUK 2023 - University of Glasgow
+
+*Annual conference showcasing cutting edge research in the field of Geographic Information Science. This year's conference was hosted at the University of Glasgow, with highlights including early-career workshops, keynotes from Chris Brunsdon, Nick Malleson and Abigail Page, as well as a large number of posters and presentations.*
+
+------------------------------------------------------------------------
+
+GISRUK represents one of the biggest calendar events for researchers and industry experts in the UK and internationally, consisting of a day of workshops for early-career researchers (ECRs) on the 18th April, followed by the main conference from the 19th - 21st April.
+
+This year I represented the CDRC, who kindly acted as one of the sponsors for the conference. In particular, along with other CDRC colleagues, we ran an exhibition stand across the week, promoting all the work we do at the CDRC, and distributing lots of CDRC merchandise.
+
+A really common theme in lots of the sessions was the vast potential of new forms of data or *digital footprints data*, as well as the ways in which we can use ChatGPT to support out analyses as researchers. I took a lot away from the sessions, and have begun to formulate lots of ideas for future research projects.
+
+The conference was also an excellent opportunity for me to re-engage with the wider GIS/GIScience academic research community following completion of my PhD, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything Glasgow has to offer.
+
+------------------------------------------------------------------------
+
+### Photos
+
+------------------------------------------------------------------------
+
+![](talk2.jpg)
+
+![](carto-gen.jpg)
+
+## ![](talk3.jpg)
