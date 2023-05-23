@@ -12,32 +12,30 @@ editor: visual
 
 *A gathering of Data Science, Advanced Analytics and GIS experts from across the globe, bringing together a host of businesses and organizations asking important location-based questions about our cities, for commercial impact and most importantly for sustainability.*
 
----
+------------------------------------------------------------------------
 
-The CARTO Spatial Data Science Conference, sponsored by large geospatial data companies like AWS, Google, SafeGraph and Snowflake, represents one of the biggest calendar events for enthusiasts of spatial data around the world, consisting of a day of workshops on the 19th October, and a full day conference on the 20th. 
+The CARTO Spatial Data Science Conference, sponsored by large geospatial data companies like AWS, Google, SafeGraph and Snowflake, represents one of the biggest calendar events for enthusiasts of spatial data around the world, consisting of a day of workshops on the 19th October, and a full day conference on the 20th.
 
-I represented the GDSL and CDRC, bringing the research that these organisations do to a wide audience of practitioners in Spatial Data Science. In particular, I delivered a workshop entitled "Retail and Geodemographics: A Spatial Data Science Approach" to a room full of over 100 people at Google HQ in Chelsea, NY. 
+I represented the GDSL and CDRC, bringing the research that these organisations do to a wide audience of practitioners in Spatial Data Science. In particular, I delivered a workshop entitled "Retail and Geodemographics: A Spatial Data Science Approach" to a room full of over 100 people at Google HQ in Chelsea, NY.
 
-The workshop introduced lots of exciting sources of Digital Footprints data, such as SafeGraph’s excellent places database, and a national geodemographic classification of U.S. census tracts, based on published academic research by Alex Singleton (University of Liverpool) and Seth Spielman (Microsoft), demonstrating how we can use geodemographics to better understand the characteristics store catchments. 
+The workshop introduced lots of exciting sources of Digital Footprints data, such as SafeGraph's excellent places database, and a national geodemographic classification of U.S. census tracts, based on published academic research by Alex Singleton (University of Liverpool) and Seth Spielman (Microsoft), demonstrating how we can use geodemographics to better understand the characteristics store catchments.
 
 The conference was an excellent opportunity for me to engage with industry practitioners and large geospatial companies, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything NY has to offer.
 
----
+------------------------------------------------------------------------
 
 ### Photos
 
----
+------------------------------------------------------------------------
 
 ![](talk2.jpg)
 
 ![](carto-gen.jpg)
 
-![](talk3.jpg)
----
+## ![](talk3.jpg)
 
 ### More Information
 
-The workshop materials and presentation can be found on the [GitHub repository](https://github.com/patrickballantyne/CARTO-SDSC2022) created for the workshop. 
+The workshop materials and presentation can be found on the [GitHub repository](https://github.com/patrickballantyne/CARTO-SDSC2022) created for the workshop.
 
-For details on the rest of the Spatial Data Science Conference, check out the [full list of talks and speakers](https://spatial-data-science-conference.com/2022/newyork/#videos-on-demand). 
-
+For details on the rest of the Spatial Data Science Conference, check out the [full list of talks and speakers](https://spatial-data-science-conference.com/2022/newyork/#videos-on-demand).
