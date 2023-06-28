@@ -25,7 +25,7 @@
     "href": "listings.html",
     "title": "blog",
     "section": "",
-    "text": "Liverpool City Region, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n \n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nBlackburne House, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n \n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Seoul, South Korea\n\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n \n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n \n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nBlackburne House, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n \n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "papers/p1.html",
@@ -131,6 +131,27 @@
     "title": "KRIHS Research Visit - November 2022",
     "section": "",
     "text": "More Information\nThe full schedule is available to view and download\nYou can watch re-watch the week’s activities on our curated YouTube playlist."
+  },
+  {
+    "objectID": "posts/KRIHS2023.html",
+    "href": "posts/KRIHS2023.html",
+    "title": "Korea Research Visit - June 2023",
+    "section": "",
+    "text": "I recently co-ordinated the return visit to South Korea as a follow up to our earlier exchange with visitors from KRIHS last Autumn. Ten members of the GDSL headed to South Korea for 9 day visit, comprising research exchanges with KRIHS and other Korean academics in Sejong and at the University of Seoul, a visit to the Eco Delta Smart City project in Busan, and plenty of sightseeing."
+  },
+  {
+    "objectID": "posts/KRIHS2023.html#photos",
+    "href": "posts/KRIHS2023.html#photos",
+    "title": "Korea Research Visit - June 2023",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts/KRIHS2023.html#more-information",
+    "href": "posts/KRIHS2023.html#more-information",
+    "title": "Korea Research Visit - June 2023",
+    "section": "More Information",
+    "text": "More Information\nFor a full breakdown of the grant activities, including a detailed overview of what we did whilst we were in Korea you can visit the website I have built (using Quarto), which showcases all of the activities that occurred as part of the grant. You can access the website here: “Supporting Post Pandemic Recovery and Resilience Through New Forms of Data”."
   },
   {
     "objectID": "posts/LCRCA.html",
