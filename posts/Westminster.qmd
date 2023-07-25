@@ -1,0 +1,41 @@
+---
+title: "Repurposing City Centres Symposium - July 2023"
+date: "2023-07-14"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, retail]
+subtitle: "University of Westminster, London"
+image: "street.jpg"
+editor: visual
+---
+
+### Repurposing City Centres Symposium
+
+*I recently took part in a symposium held at the University of Westminster, entitled "Repurposing City Centres". The symposium was organised by Sina Shahab and Brian Webb (Cardiff University), and aimed to bring academics and practitioners together from the UK and South Korea to discuss how our city centres are changing, and discuss the future for repurposing city centres.*
+
+![](street.jpg)
+
+------------------------------------------------------------------------
+
+### Repurposing City Centres with Big Data: Data, Models and Policy Applications.
+
+Together with Prof. Scott Orford, I delivered a presentation entitled *"Repurposing City Centres with Big Data: Data, Models and Policy Applications"*. In the talk we gave an overview of the two research centres that we are affilitated with - [Consumer Data Research Centre](https://www.cdrc.ac.uk/) and [WISERD](https://wiserd.ac.uk/) - and provided a 'shop window' style talk covering lots of the research that has been done in these two centres around retail, cities, data and policy.
+
+In my half of the talk I focused explicitly on the CDRC model of engagement, around the use of open, safeguarded and secure data products for dissemination of research outputs. I followed this with an overview of all the work done as part of the CDRC retail centres work package, around retail centre boundaries, typologies, indicators, and international comparisons, drawing on our work in the US and plans for similar studies in South Korea.
+
+If you are interested in learning more about our talk, a copy of our slides can be found [here](RCC-Symposium-Slides.pptx).
+
+------------------------------------------------------------------------
+
+## Photos
+
+![](rcc3.jpg)
+
+![](rcc1.jpg)
+
+![](rcc2.jpg)
+
+------------------------------------------------------------------------
+
+## More Information
+
+For a full breakdown of the symposium talks you can visit the [Eventbrite page](https://www.eventbrite.co.uk/e/symposium-on-repurposing-city-centres-tickets-646194082897) set up for the event.

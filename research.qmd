@@ -6,15 +6,17 @@ title: "Research Interests"
 
 ### Urban Mobility
 
-Following some research in my PhD which utilised mobility data, I have a keen interest in working closely with these types of data and using them to better understand processes of urban mobility. In particular, I am interested in asking questions such as *how is urban mobility changing?*, *what new questions/problems can we solve with data from mobile phone applications?*, *how representative are these sources of data?* and *to what extent can we use these datasets to model observed human behaviours, like store visitation?*. 
+Following some research in my PhD which utilised mobility data, I have a keen interest in working closely with these types of data and using them to better understand processes of urban mobility. In particular, I am interested in asking questions such as *how is urban mobility changing?*, *what new questions/problems can we solve with data from mobile phone applications?*, *how representative are these sources of data?* and *to what extent can we use these datasets to model observed human behaviours, like store visitation?*.
 
 ![](mobility.jpg)
+
 ### Accessibility and Regional Development
 
 Building on some of the freelance support work I completed for Liverpool City Region Combined Authority, I am interested in using some of the datasets and data products we have developed to generate interesting insights about accessibility within the area. In particular, I am looking to better understand the relationship between public transport accessibility and reliability; for example, you might have good access to bus stops, but to what extent are the services at those stops reliable?
 
 ![](bu.jpg)
-Another emerging area of interest relates to the potential use cases of high-resolution freight data we received as part of this project. I am particularly interested in looking at various 'what if' scenarios to do with the routing of freight through the city and its impacts on local communities. For example, what types of neighbourhoods are disproportionately affected by enhanced emissions from trucks, and how might specific economic development infrastructure (e.g., freeports) modify existing levels of localised pollution. 
+
+Another emerging area of interest relates to the potential use cases of high-resolution freight data we received as part of this project. I am particularly interested in looking at various 'what if' scenarios to do with the routing of freight through the city and its impacts on local communities. For example, what types of neighbourhoods are disproportionately affected by enhanced emissions from trucks, and how might specific economic development infrastructure (e.g., freeports) modify existing levels of localised pollution.
 
 ![](truck.jpg)
 
