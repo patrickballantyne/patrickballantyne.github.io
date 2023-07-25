@@ -20,6 +20,8 @@ editor: visual
 
 Together with Prof. Scott Orford, I delivered a presentation entitled *"Repurposing City Centres with Big Data: Data, Models and Policy Applications"*. In the talk we gave an overview of the two research centres that we are affilitated with - [Consumer Data Research Centre](https://www.cdrc.ac.uk/) and [WISERD](https://wiserd.ac.uk/) - and provided a 'shop window' style talk covering lots of the research that has been done in these two centres around retail, cities, data and policy.
 
+![](rcc-slides.jpg)
+
 In my half of the talk I focused explicitly on the CDRC model of engagement, around the use of open, safeguarded and secure data products for dissemination of research outputs. I followed this with an overview of all the work done as part of the CDRC retail centres work package, around retail centre boundaries, typologies, indicators, and international comparisons, drawing on our work in the US and plans for similar studies in South Korea.
 
 If you are interested in learning more about our talk, a copy of our slides can be found [here](RCC-Symposium-Slides.pptx).
