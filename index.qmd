@@ -31,9 +31,11 @@ about:
 
 I am currently a Postdoctoral Researcher based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/). Broadly speaking, I am interested in all things Urban Analytics and Geographic Data Science, with a specific focus on:
 
--   Retail and High Street Performance
--   Urban Mobility and New Forms of Data
--   Accessibility and Social and Spatial Inequalities
+*Retail and High Street Performance*
+
+*Urban Mobility and New Forms of Data*
+
+*Accessibility and Social and Spatial Inequalities*
 
 At the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), I am responsible for supporting the research activities of [Prof. Alex Singleton](https://www.liverpool.ac.uk/environmental-sciences/staff/alexander-singleton/) and the [Consumer Data Research Centre](https://www.cdrc.ac.uk/), which involves a mixture of research, teaching and industry engagement. Furthermore, I co-ordinate fortnightly ['Brown Bag' seminars](https://www.liverpool.ac.uk/geographic-data-science/news/stories/title,1348933,en.html), where we invite guest speakers from academia and industry to deliver talks about their links to Geographic Data Science. If you are interested in talking at one of these, please do get in touch!
 
