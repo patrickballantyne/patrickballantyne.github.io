@@ -1,27 +1,24 @@
 ---
-title: "Research Interests"
+title: "Patrick Ballantyne - Research Interests"
+subtitle: "Postdoctoral Researcher in Geographic Data Science"
 ---
 
 ------------------------------------------------------------------------
 
-### Urban Mobility
+### Retail and High Street Performance
+
+I have a keen interest in understanding how the retail sector and physical spaces of consumption like retail centres are evolving. I'm particularly interested in how we can use innovative methodologies borrowed from Geographic Data Science and new forms of data to identify and measure such trends. Furthermore, I also have a wider interest in consumer behaviour, the drivers of consumer patronage and the impacts of external phenomena on sales and footfall for retailers. Currently I am supervising a PhD project on the use of loyalty card data from a major pet retailer to examine some of these issues.
+
+![](mall.jpg)
+
+### Urban Mobility and New Forms of Data
 
 Following some research in my PhD which utilised mobility data, I have a keen interest in working closely with these types of data and using them to better understand processes of urban mobility. In particular, I am interested in asking questions such as *how is urban mobility changing?*, *what new questions/problems can we solve with data from mobile phone applications?*, *how representative are these sources of data?* and *to what extent can we use these datasets to model observed human behaviours, like store visitation?*.
 
 ![](mobility.jpg)
 
-### Accessibility and Regional Development
+### Accessibility and Social/Spatial Inequalities
 
-Building on some of the freelance support work I completed for Liverpool City Region Combined Authority, I am interested in using some of the datasets and data products we have developed to generate interesting insights about accessibility within the area. In particular, I am looking to better understand the relationship between public transport accessibility and reliability; for example, you might have good access to bus stops, but to what extent are the services at those stops reliable?
+Building on some of the work I am currently doing for Liverpool City Region, I have a keen interest in identifying and addressing social and spatial inequalities. In particular, I am interested in developing further how we conceptualise and measure inequality, and the use of new tools and datasets to support such insights. Over the next few months I plan to keep the momentum of such research going, as I develop new accessibility metrics for sustainable transport across Liverpool City Region.
 
 ![](bu.jpg)
-
-Another emerging area of interest relates to the potential use cases of high-resolution freight data we received as part of this project. I am particularly interested in looking at various 'what if' scenarios to do with the routing of freight through the city and its impacts on local communities. For example, what types of neighbourhoods are disproportionately affected by enhanced emissions from trucks, and how might specific economic development infrastructure (e.g., freeports) modify existing levels of localised pollution.
-
-![](truck.jpg)
-
-### Retail Centres and Retail Geographies
-
-Given my PhD focused explicitly on the geographies of retail centres, I have a keen interest in how they continue to evolve, particularly around the use of innovative methodologies and emerging forms of data to identify such trends. Aside from this, I have a wider interest in consumer behaviour, particularly around the drivers of consumer patronage, impacts of external phenomena on sales and footfall and a wider interest in key concepts and theories in retail geography.
-
-![](mall.jpg)

@@ -1,23 +1,17 @@
 ---
 title: "Patrick Ballantyne - About Me"
-subtitle: "Research Associate / Data Scientist, Geographic Data Science"
+subtitle: "Postdoctoral Researcher in Geographic Data Science"
 ---
 
 ------------------------------------------------------------------------
 
 ## Education and Affiliations
 
-#### 2022 - *present*
-
-Research Associate / Data Scientist, Geographic Data Science
-
-#### 2018 - 2022
-
-PhD Student, Data Analytics and Society
-
-#### 2015 - 2018
-
-BSc Physical Geography (1st Class)
+| Date                  | Role                                               | Institution                                           |
+|-----------------------|----------------------------------------------------|-------------------------------------------------------|
+| June 2022 - *present* | Postdoctoral Researcher in Geographic Data Science | Geographic Data Science Lab, University of Liverpool  |
+| Sept 2018 - Dec 2022  | PhD Student in Data Analytics and Society          | Geographic Data Science Lab, University of Liverpool  |
+| Sept 2015 - Jul 2018  | BSc in Physical Geography                          | Dept of Geography & Planning, University of Liverpool |
 
 ------------------------------------------------------------------------
 
@@ -37,9 +31,7 @@ During lockdown, I completed the 'Couch to 5k' challenge and got completely hook
 
 Music is a big part of my life. I grew up learning the fiddle and banjo, competing at international competitions or 'fleadhs' and touring the UK and Ireland in 2016 to commemorate 100 years since the Easter Rising.
 
-Now, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK.
-
-Aside from Irish music, I spend way too much time on Spotify. This year I was in the top 0.001% of people who listened to Coldplay (haha ikr), and am getting very excited for Eurovision here in Liverpool later next year.
+Now, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK. I also play regularly in and around pubs in Liverpool, and volunteer as secretary or 'runai' for Comhaltas in Britain, helping to promote irish traditional music, song and dance throughout the country.
 
 ![](music.jpg){fig-align="center" width="50%"}
 
