@@ -12,7 +12,7 @@ about:
       text: Liverpool, UK
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/PBallantyne_
+      href: https://twitter.com/DrPatBallantyne
     - icon: github
       text: Github
       href: https://github.com/patrickballantyne
@@ -40,4 +40,3 @@ I am currently a Postdoctoral Researcher based in the [Geographic Data Science L
 At the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/), I am responsible for supporting the research activities of [Prof. Alex Singleton](https://www.liverpool.ac.uk/environmental-sciences/staff/alexander-singleton/) and the [Consumer Data Research Centre](https://www.cdrc.ac.uk/), which involves a mixture of research, teaching and industry engagement. Furthermore, I co-ordinate fortnightly ['Brown Bag' seminars](https://www.liverpool.ac.uk/geographic-data-science/news/stories/title,1348933,en.html), where we invite guest speakers from academia and industry to deliver talks about their links to Geographic Data Science. If you are interested in talking at one of these, please do get in touch!
 
 I am also working part-time as a spatial data consultant for [Liverpool City Region Combined Authority](https://www.liverpoolcityregion-ca.gov.uk/), developing an evidence base to support place-based interventions to address inequalities in the region. Specifically, I have been developing a series of urban indicators that highlight compound regional inequalities (transport, housing, economic development), which are being used by policymakers to design creative interventions in these places to tackle inequality.
-

@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "about.html#education-and-affiliations",
+    "href": "about.html#education-and-affiliations",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Education and Affiliations",
+    "text": "Education and Affiliations\n\n\n\n\n\n\n\n\nDate\nRole\nInstitution\n\n\n\n\nJune 2022 - present\nPostdoctoral Researcher in Geographic Data Science\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2018 - Dec 2022\nPhD Student in Data Analytics and Society\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2015 - Jul 2018\nBSc in Physical Geography\nDept of Geography & Planning, University of Liverpool"
+  },
+  {
+    "objectID": "about.html#hobbies-and-interests",
+    "href": "about.html#hobbies-and-interests",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\nRunning\nI am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends.\nDuring lockdown, I completed the ‘Couch to 5k’ challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon.\n\n\n\n\n\n\n\n\nMusic\nMusic is a big part of my life. I grew up learning the fiddle and banjo, competing at international competitions or ‘fleadhs’ and touring the UK and Ireland in 2016 to commemorate 100 years since the Easter Rising.\nNow, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK. I also play regularly in and around pubs in Liverpool, and volunteer as secretary or ‘runai’ for Comhaltas in Britain, helping to promote irish traditional music, song and dance throughout the country.\n\n\n\n\n\n\n\n\nFoodie\nI love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts.\nSome of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Patrick Ballantyne",
+    "section": "",
+    "text": "I am currently a Postdoctoral Researcher based in the Geographic Data Science Lab at the University of Liverpool. Broadly speaking, I am interested in all things Urban Analytics and Geographic Data Science, with a specific focus on:\nRetail and High Street Performance\nUrban Mobility and New Forms of Data\nAccessibility and Social and Spatial Inequalities\nAt the Geographic Data Science Lab, I am responsible for supporting the research activities of Prof. Alex Singleton and the Consumer Data Research Centre, which involves a mixture of research, teaching and industry engagement. Furthermore, I co-ordinate fortnightly ‘Brown Bag’ seminars, where we invite guest speakers from academia and industry to deliver talks about their links to Geographic Data Science. If you are interested in talking at one of these, please do get in touch!\nI am also working part-time as a spatial data consultant for Liverpool City Region Combined Authority, developing an evidence base to support place-based interventions to address inequalities in the region. Specifically, I have been developing a series of urban indicators that highlight compound regional inequalities (transport, housing, economic development), which are being used by policymakers to design creative interventions in these places to tackle inequality."
+  },
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "blog",
+    "section": "",
+    "text": "University of Leeds, Leeds, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Westminster, London\n\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n \n\n\n\n\nJul 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nSeoul, South Korea\n\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n \n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n \n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nBlackburne House, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n \n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n \n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nGoogle HQ, Chelsea, NY\n\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n \n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers/p1.html",
+    "href": "papers/p1.html",
+    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
+    "section": "",
+    "text": "Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with ‘H3’, and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre ‘health’, demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail."
+  },
+  {
+    "objectID": "papers/p1.html#full-paper",
+    "href": "papers/p1.html#full-paper",
+    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Environment and Planning B: Urban Analytics and City Science"
+  },
+  {
+    "objectID": "papers/p2.html",
+    "href": "papers/p2.html",
+    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
+    "section": "",
+    "text": "Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends."
+  },
+  {
+    "objectID": "papers/p2.html#full-paper",
+    "href": "papers/p2.html#full-paper",
+    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Regional Studies, Regional Science"
+  },
+  {
+    "objectID": "papers/p3.html",
+    "href": "papers/p3.html",
+    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
+    "section": "",
+    "text": "Retail is an important function at the core of urban areas, occupying a key role in determining their economic prosperity, desirability, and vibrancy. Efforts to understand the geographies of retail centers, the cores of retailing in urban areas, have a long academic tradition, often studied through either rich local case studies, or when geographically more expansive, are constrained by limited detail. New data in United States detailing the location and uses of retail creates a significant opportunity to develop a more complete and comprehensive overview of the national retail system, at a high spatial resolution. This research is rooted in a pragmatic effort to provide the first and most comprehensive model of U.S. retail center geographies, through development of an integrated, conceptual, and empirically grounded framework, using data from SafeGraph, to examine where they are located, what characteristics they have, and who uses them. The resulting geographies are of great interest, creating significant potential in the monitoring of the national retail system as it continues to evolve in response to wider structural challenges. Furthermore, by integrating these three geographies (where, what, and who), we establish a conceptual framework that yields substantive insights about the relationships between each of them, and argues that understandings of U.S. retail center geographies are more comprehensive and useful when considering the who, what, and where together."
+  },
+  {
+    "objectID": "papers/p3.html#full-paper",
+    "href": "papers/p3.html#full-paper",
+    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Annals of the American Association of Geographers"
+  },
+  {
+    "objectID": "papers/p4.html",
+    "href": "papers/p4.html",
+    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
+    "section": "",
+    "text": "Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors."
+  },
+  {
+    "objectID": "papers/p4.html#full-paper",
+    "href": "papers/p4.html#full-paper",
+    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal"
+  },
+  {
+    "objectID": "papers/p5 .html",
+    "href": "papers/p5 .html",
+    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
+    "section": "",
+    "text": "The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector."
+  },
+  {
+    "objectID": "papers/p5 .html#full-paper",
+    "href": "papers/p5 .html#full-paper",
+    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Urban Informatics."
+  },
+  {
+    "objectID": "posts/CARTO2022.html",
+    "href": "posts/CARTO2022.html",
+    "title": "CARTO Spatial Data Science Conference - October 2022",
+    "section": "",
+    "text": "A gathering of Data Science, Advanced Analytics and GIS experts from across the globe, bringing together a host of businesses and organizations asking important location-based questions about our cities, for commercial impact and most importantly for sustainability.\n\nThe CARTO Spatial Data Science Conference, sponsored by large geospatial data companies like AWS, Google, SafeGraph and Snowflake, represents one of the biggest calendar events for enthusiasts of spatial data around the world, consisting of a day of workshops on the 19th October, and a full day conference on the 20th.\nI represented the GDSL and CDRC, bringing the research that these organisations do to a wide audience of practitioners in Spatial Data Science. In particular, I delivered a workshop entitled “Retail and Geodemographics: A Spatial Data Science Approach” to a room full of over 100 people at Google HQ in Chelsea, NY.\nThe workshop introduced lots of exciting sources of Digital Footprints data, such as SafeGraph’s excellent places database, and a national geodemographic classification of U.S. census tracts, based on published academic research by Alex Singleton (University of Liverpool) and Seth Spielman (Microsoft), demonstrating how we can use geodemographics to better understand the characteristics store catchments.\nThe conference was an excellent opportunity for me to engage with industry practitioners and large geospatial companies, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything NY has to offer."
+  },
+  {
+    "objectID": "posts/CARTO2022.html#section",
+    "href": "posts/CARTO2022.html#section",
+    "title": "CARTO Spatial Data Science Conference - October 2022",
+    "section": "",
+    "text": "More Information\nThe workshop materials and presentation can be found on the GitHub repository created for the workshop.\nFor details on the rest of the Spatial Data Science Conference, check out the full list of talks and speakers."
+  },
+  {
+    "objectID": "posts/GIScience 2023.html",
+    "href": "posts/GIScience 2023.html",
+    "title": "GIScience Conference - September 2023",
+    "section": "",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts/GISRUK2023.html",
+    "href": "posts/GISRUK2023.html",
+    "title": "GISRUK Conference - April 2023",
+    "section": "",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts/Japan2022.html",
+    "href": "posts/Japan2022.html",
+    "title": "Japan Research Visit - September 2022",
+    "section": "",
+    "text": "Photos\n\n\n\n\n\n\n\nMore Information\nThe full week itinerary is available to view, which details a day-by-day itinerary of what was delivered across the short course."
+  },
+  {
+    "objectID": "posts/KRIHS2022.html",
+    "href": "posts/KRIHS2022.html",
+    "title": "KRIHS Research Visit - November 2022",
+    "section": "",
+    "text": "More Information\nThe full schedule is available to view and download\nYou can watch re-watch the week’s activities on our curated YouTube playlist."
+  },
+  {
+    "objectID": "posts/KRIHS2023.html",
+    "href": "posts/KRIHS2023.html",
+    "title": "Korea Research Visit - June 2023",
+    "section": "",
+    "text": "I recently co-ordinated the return visit to South Korea as a follow up to our earlier exchange with visitors from KRIHS last Autumn. Ten members of the GDSL headed to South Korea for 9 day visit, comprising research exchanges with KRIHS and other Korean academics in Sejong and at the University of Seoul, a visit to the Eco Delta Smart City project in Busan, and plenty of sightseeing."
+  },
+  {
+    "objectID": "posts/KRIHS2023.html#photos",
+    "href": "posts/KRIHS2023.html#photos",
+    "title": "Korea Research Visit - June 2023",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts/KRIHS2023.html#more-information",
+    "href": "posts/KRIHS2023.html#more-information",
+    "title": "Korea Research Visit - June 2023",
+    "section": "More Information",
+    "text": "More Information\nFor a full breakdown of the grant activities, including a detailed overview of what we did whilst we were in Korea you can visit the website I have built (using Quarto), which showcases all of the activities that occurred as part of the grant. You can access the website here: “Supporting Post Pandemic Recovery and Resilience Through New Forms of Data”."
+  },
+  {
+    "objectID": "posts/LCRCA.html",
+    "href": "posts/LCRCA.html",
+    "title": "A Month in the Life of a Consultant - May 2023",
+    "section": "",
+    "text": "Development of Indicators and Data Products\nBringing together resources from LCRCA, the CDRC and other openly-available datasets, we produced a number of aggregate indices spanning four domains, each based on a series of individual data products.\n\nDomain 1. Access to the Transport Network\nWe produced an aggregated accessibility score (at LSOA level), which details the overall transport accessibility of the city region. In particular it incorporates measures of:\n\nDistances to bus stops and railway stations (at postcode level).\nDistances to active travel routes, cycle lanes etc. (at postcode level).\nAverage reliability of bus services in local areas.\nAverage congestion along the key route network, main roads, motorways etc.\nAccessibility of railway stations, step-free access etc.\n\n\n\n\nDomain 2. Health and Deprivation\nWe produced an aggregated health/deprivation score (at LSOA level), which details the overall trends in health and deprivation within the city region. In particular, it incorporates measures of:\n\nDeprivation, IMD rescaled to within the city region.\nSocio-economic status, utilising data from the 2021 census (NS-SEC).\nDevolved programme users.\nSkills bootcamp users.\n\n\n\n\nDomain 3. Economic Development and Housing\nWe produced an aggregated economic development/housing score (at LSOA level), which details the overall trends in economic development within the city region. In particular, it incorporates measures of:\n\nExisting households.\nEnergy efficiency of households.\nEmployment concentration, utilising data on major employer floorspace.\nInnovation, utilising data from the 2021 census.\n\nWe also produced a number of other data products, to meet the individual needs of LCRCA, including calculating volume of freight moving through LCRCA road network, locations of freeports and investment locations and total future housing supply.\n\n\n\n\n\nAcknowledgments\nWe would first like to thank the team at LCR CA, notably Sam and Libbie, for reaching out to us and for providing the opportunity to engage with the LCR CA. It has been a really positive experience, and in particular has been really interesting to see how some of the ‘day-to-day’ stuff we do in the GDSL can be put to use in the public sector.\nSecondly, to all the data providers at LCR CA (and specialists) who have facilitated access to the datasets and resolved any queries we have with them.\n\n\n\nData Availability Statement\nOwing to the commercial sensitivity of this project, much of the data used and data products derived are not available for public consumption. Please do get in touch with Dr. Patrick Ballantyne if you are interested in any of the outputs and/or datasets."
+  },
+  {
+    "objectID": "posts/PhD.html",
+    "href": "posts/PhD.html",
+    "title": "I got a PhD!! - March 2023",
+    "section": "",
+    "text": "Acknowledgements\nUndertaking a PhD amidst a global pandemic has presented significant challenges; nearly two years of mobility and travel restrictions have altered what is a ‘typical’ PhD experience. I feel that without the support of some key people, I would not have been able to successfully complete this thesis, so at this point I would like to pay tribute to some of these amazing people, and thank them for their help and support.\nFirstly, to Prof. Alex Singleton, for his continuous academic (and personal) support throughout my PhD. Over the past four years, Alex has been incredibly kind, and ensured that my skills are refined and targeted at specific projects, to ensure I could complete my studies in time, whilst listening to my own interests and giving me plenty of ownership over my project. Alex has also given me lots of encouragement and opportunities to expand my academic portfolio, network and career, going above and beyond as a PhD supervisor, dedicating significant time to issues I have had over the past four years. I really appreciate the time and effort he put into this PhD project, helping shape me into the researcher I am today, and for that I am truly grateful.\nSecondly, to my secondary supervisor Dr. Les Dolega. Les has always been on hand to offer support and advice on life in general, as well as how best to frame my research projects within the field of retail geography, often turning a paper/chapter draft around with constructive comments in a matter of days. I am particularly grateful to Les for his encouragement during my time as a Research Assistant and in the early months of my new role at Liverpool, which has given me the confidence to continue my academic journey at Liverpool as a Postdoctoral Researcher, and my interests in retail geography.\nThirdly, to my other co-authors Jacob Macdonald and Kevin Credit, as well as to the early-career panellists, Rachael Sanderson, and members of the QMRG committee, whom I worked with on a written commentary for the Geographical Journal. These people were instrumental in helping to push further publications over the line with their expertise and advice, but also gave me the opportunity to collaborate externally with other academics outside of Liverpool, which has opened a number of opportunities since, and inspired me to continue my academic journey.\nThanks to all at the CDRC, SafeGraph and Geolytix who have provided data that has been invaluable to my PhD. In particular, a big thanks to SafeGraph, who through their ‘Data for Academics’ programme made the primary objective of this PhD thesis feasible, following months of searching for useful and accessible sources of data on retailer locations for the U.S.\nI also want to thank all of my colleagues at the Geographic Data Science Lab and CDRC, who have offered me general support, advice, and friendship, reviewed drafts of papers and been there to listen when I am facing significant challenges in my research. The GDSL has been a fantastic place to do a PhD, with each and every member having an impact on my overall PhD experience. There are too many people to mention here, but I particularly wanted to acknowledge the contributions of Alessia Calafiore, Martin Fleischmann, Maurizio Gibin (CDRC), Ollie O’Brien (CDRC), May Chen (CDRC), Natalie Rose, Olivia Horsefield, Dan Owen, Sian Teesdale, James Murphy, Krasen Samardzhiev, Nikos Patias, Michael Mahony, Maya Middleton-Welch, Francisco Rowe, Dani Arribas-Bel, Mark Green, Caitlin Robinson, Jeremiah Nieves, Ron Mahabir and Olga Gkountouna, all of whom have contributed in some way to ensuring my PhD is a success.\nI also wanted to thank some of my closest friends, for their undying support over the past four years. Particular thanks to Tilly Clough, Ella Bytheway-Jackson, Libby Hopkins, John O’Neill, Jess Cerasale, Elaine Reilly and Clare Bohan, who have been there at various stages of my academic journey. Thank you to all of you for listening, discussing, supporting, and looking out for me over the past four years, and being there to celebrate my major achievements.\nA final thanks goes to Mum and Dad. As the first of the family to go to university and first to complete a PhD, I want to thank you both for your undying support and understanding over the last 8 years, especially when I was facing significant personal issues or struggling with the pressures of doing a PhD in a pandemic. Your love and care during this time has given me the opportunity to flourish in my academic career without any major concerns or stresses, and I will be eternally grateful for this, especially given the challenges you already face with Liam. Unfortunately, Dad you can’t retire just yet (haha), but I hope to one day return the favour to you both.\n\n\n\nDownload my thesis\nThe final accepted version of my PhD thesis is available to read here."
+  },
+  {
+    "objectID": "posts/Westminster.html",
+    "href": "posts/Westminster.html",
+    "title": "Repurposing City Centres Symposium - July 2023",
+    "section": "",
+    "text": "I recently took part in a symposium held at the University of Westminster, entitled “Repurposing City Centres”. The symposium was organised by Sina Shahab and Brian Webb (Cardiff University), and aimed to bring academics and practitioners together from the UK and South Korea to discuss how our city centres are changing, and discuss the future for repurposing city centres."
+  },
+  {
+    "objectID": "posts/Westminster.html#photos",
+    "href": "posts/Westminster.html#photos",
+    "title": "Repurposing City Centres Symposium - July 2023",
+    "section": "Photos",
+    "text": "Photos"
+  },
+  {
+    "objectID": "posts/Westminster.html#more-information",
+    "href": "posts/Westminster.html#more-information",
+    "title": "Repurposing City Centres Symposium - July 2023",
+    "section": "More Information",
+    "text": "More Information\nFor a full breakdown of the symposium talks you can visit the Eventbrite page set up for the event."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Urban Informatics\n\n\n\n\nretail\n\n\nmobility\n\n\ngeography\n\n\npaper\n\n\n \n\n\n\n\nDec 20, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nThe Geographical Journal\n\n\n\n\nearly-career research\n\n\ncommentary\n\n\ngeography\n\n\n \n\n\n\n\nDec 9, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nAnnals of the American Association of Geographers\n\n\n\n\nretail\n\n\ngeography\n\n\npaper\n\n\n \n\n\n\n\nSep 19, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nEnvironment and Planning B: Urban Analytics and City Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\nRegional Studies, Regional Science\n\n\n\n\nretail\n\n\ncities\n\n\npaper\n\n\n \n\n\n\n\nOct 15, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Patrick Ballantyne - Research Interests",
+    "section": "",
+    "text": "Retail and High Street Performance\nI have a keen interest in understanding how the retail sector and physical spaces of consumption like retail centres are evolving. I’m particularly interested in how we can use innovative methodologies borrowed from Geographic Data Science and new forms of data to identify and measure such trends. Furthermore, I also have a wider interest in consumer behaviour, the drivers of consumer patronage and the impacts of external phenomena on sales and footfall for retailers. Currently I am supervising a PhD project on the use of loyalty card data from a major pet retailer to examine some of these issues.\n\n\n\nUrban Mobility and New Forms of Data\nFollowing some research in my PhD which utilised mobility data, I have a keen interest in working closely with these types of data and using them to better understand processes of urban mobility. In particular, I am interested in asking questions such as how is urban mobility changing?, what new questions/problems can we solve with data from mobile phone applications?, how representative are these sources of data? and to what extent can we use these datasets to model observed human behaviours, like store visitation?.\n\n\n\nAccessibility and Social/Spatial Inequalities\nBuilding on some of the work I am currently doing for Liverpool City Region, I have a keen interest in identifying and addressing social and spatial inequalities. In particular, I am interested in developing further how we conceptualise and measure inequality, and the use of new tools and datasets to support such insights. Over the next few months I plan to keep the momentum of such research going, as I develop new accessibility metrics for sustainable transport across Liverpool City Region."
+  }
+]
