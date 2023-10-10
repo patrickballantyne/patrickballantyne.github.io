@@ -1,0 +1,33 @@
+---
+title: "GDSL Away Day - October 2023"
+date: "2023-10-04"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, education]
+subtitle: "Liverpool Bluecoat, Liverpool, UK"
+image: "lab.jpeg"
+editor: visual
+---
+
+### GDSL Away Day - October 2023
+
+*Annual Geographic Data Science Lab Away Day held at the Bluecoat in Liverpool. A great opportunity for new students and staff to get to know eachother. We held a series of lightning talks to get to know eachother (and some fun facts), followed by beers in Kazimier Garden into the evening.*
+
+------------------------------------------------------------------------
+
+The 4th October saw the Geographic Data Science Lab, staff and students, head 'down the hill' to the Bluecoat in Liverpool City Centre for an 'Away Day'. Organised by our excellent lab leads Francisco and Elisabetta, we each presented a few slides about ourselves, our research and a fun fact (unless you were a subject to the postdoc-powerpoint curse haha). We enjoyed tea, coffee and cake throughout the afternoon, and even got time for a lab photo in the glorious sunshine! Over the summer, a number of new colleagues and PhD students have started with us, so this was an excellent opportunity for them to get to know everyone, and learn abit more about what make the GDSL a great place to work!
+
+In true GDSL tradition, we finished the day with a few beers in Kazimier Garden, where we were treated to excellent craft beers, fried chicken and live music. Long live the GDSL!!
+
+------------------------------------------------------------------------
+
+### Photos
+
+------------------------------------------------------------------------
+
+![](lab.jpeg)
+
+![](pb.jpeg)
+
+![](pub.jpeg)
+
+![](pub2.jpeg)

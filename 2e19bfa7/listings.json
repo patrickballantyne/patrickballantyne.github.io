@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/listings.html",
+    "items": [
+      "/posts/Away Day - GDSL.html",
+      "/posts/GIScience 2023.html",
+      "/posts/Westminster.html",
+      "/posts/KRIHS2023.html",
+      "/posts/LCRCA.html",
+      "/posts/GISRUK2023.html",
+      "/posts/PhD.html",
+      "/posts/KRIHS2022.html",
+      "/posts/CARTO2022.html",
+      "/posts/Japan2022.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/papers/p5 .html",
+      "/papers/p4.html",
+      "/papers/p3.html",
+      "/papers/p1.html",
+      "/papers/p2.html"
+    ]
+  }
+]
