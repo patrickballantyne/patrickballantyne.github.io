@@ -1,0 +1,35 @@
+---
+title: "CDRC Data & Geodemographics Event - October 2023"
+date: "2023-10-13"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, retail]
+subtitle: "Said Business School, Oxford, UK"
+image: "said.jpg"
+editor: visual
+---
+
+### CDRC Data & Geodemographics Event - October 2023
+
+*CDRC Annual Partner Engagement event, held at the fantastic Said Business School, University of Oxford. The conference showcased cutting edge research and partnerships being developed in the CDRC, including the latest iteration of the Output Area Classification, research on the 24-hour city and a keynote from Crispin Ollington about the utility of Geodemographics for marketing.*
+
+------------------------------------------------------------------------
+
+On the 13th October I attended the annual CDRC partner engagement event, held at the Said Business School, University of Oxford. Alongside Hamish Gibbs (UCL), I presented our latest research on the use of Smart Data to examine changing work from home behaviours over the last couple of censuses. The research, which is imminently awaiting release at The Geographical Journal, harmonises census data and google mobility data for Local Authority Districts, and asks whether new forms of data can replace the census, through examining changing work from home behaviours, and social and spatial inequalities in working from home. The slides for my talk are available [here](cdrc-slides.pdf).
+
+The conference is a great opportunity to experience a more 'commercial' side of academia, catching up with CDRC partners like Geolytix, Homes for England and Pets at Home, and enjoying a series of talks on Data and Geodemographics. A particular highlight for me was the real appetite for the latest Output Area Classification (OAC) and the innovative ways in which Geodemographics have been used to support better marketing for theatre shows like The Book of Mormon.
+
+Thanks to the CDRC for another fantastic event - especially Paul, Alex, James, Rebecca and Jonathan. 
+
+------------------------------------------------------------------------
+
+### Photos
+
+------------------------------------------------------------------------
+
+![](cdrc slides.png)
+
+![](rurc.png)
+
+![](panel.jpeg)
+
+![](keynote.jpeg)
