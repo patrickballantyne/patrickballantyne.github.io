@@ -25,7 +25,7 @@
     "href": "listings.html",
     "title": "blog",
     "section": "",
-    "text": "Said Business School, Oxford, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n \n\n\n\n\nOct 13, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Bluecoat, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Leeds, Leeds, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Westminster, London\n\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n \n\n\n\n\nJul 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nSeoul, South Korea\n\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n \n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n \n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nBlackburne House, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n \n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "University of Liverpool, Liverpool, UK\n\n\n\n\ndata\n\n\ngeographic data\n\n\nretail\n\n\n \n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nSaid Business School, Oxford, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n \n\n\n\n\nOct 13, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool Bluecoat, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Leeds, Leeds, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Westminster, London\n\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n \n\n\n\n\nJul 14, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nSeoul, South Korea\n\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n \n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n \n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n \n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "papers/p1.html",
@@ -96,6 +96,20 @@
     "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
     "section": "Full Paper",
     "text": "Full Paper\nThe full paper is published and available open-access at Urban Informatics."
+  },
+  {
+    "objectID": "posts/30DayMapChallenge.html",
+    "href": "posts/30DayMapChallenge.html",
+    "title": "30DayMapChallenge - November 2023",
+    "section": "",
+    "text": "My entry to this year’s 30DayMapChallenge - Newcastle really is the home of Greggs (or is it?)\n\nNovember sees the return of the #30DayMapChallenge for 2023. This year’s categories include the usual geo topics like points, polygons, hexagons and OpenStreetMap, but there are some new fun ones like ‘North is not always up’, ‘retro’ and ‘my favourite…’. At the GDSL we are taking part in the map challenge, with a PhD student or member of staff taking on the challenge each day."
+  },
+  {
+    "objectID": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
+    "href": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
+    "title": "30DayMapChallenge - November 2023",
+    "section": "Newcastle really is the home of Greggs.",
+    "text": "Newcastle really is the home of Greggs.\nThis year, I took on the first map of the month - ‘points’. I’ve been doing lots of work with new POI data from Overture, specifically around how reliable the data is for retail applications, and the utility of Overture data for small-area accessibility measurement. I have a pre-print out on the topic too, which you can read here.\nThe map takes POI data from Overture, filters to Greggs stores and maps the distribution of these in Newcastle City Centre. I have also integrated CDRC retail centre boundaries and some other spatial data to improve the design of the map. You can see the code used to produce this map here."
   },
   {
     "objectID": "posts/Away Day - GDSL.html",

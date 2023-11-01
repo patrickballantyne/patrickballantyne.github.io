@@ -1,0 +1,27 @@
+---
+title: "30DayMapChallenge - November 2023"
+date: "2023-11-01"
+author: [Patrick Ballantyne]
+categories: [data, geographic data, retail]
+subtitle: "University of Liverpool, Liverpool, UK"
+image: "mapchallenge.png"
+editor: visual
+---
+
+### 30DayMapChallenge - November 2023
+
+*My entry to this year's 30DayMapChallenge - Newcastle really is the home of Greggs (or is it?)*
+
+------------------------------------------------------------------------
+
+November sees the return of the #30DayMapChallenge for 2023. This year's categories include the usual geo topics like points, polygons, hexagons and OpenStreetMap, but there are some new fun ones like 'North is not always up', 'retro' and 'my favourite...'. At the GDSL we are taking part in the map challenge, with a PhD student or member of staff taking on the challenge each day.
+
+## ![](mapchallenge.png)
+
+## Newcastle really is the home of Greggs.
+
+This year, I took on the first map of the month - 'points'. I've been doing lots of work with new POI data from Overture, specifically around how reliable the data is for retail applications, and the utility of Overture data for small-area accessibility measurement. I have a pre-print out on the topic too, which you can read [here](https://arxiv.org/abs/2310.18415).
+
+The map takes POI data from Overture, filters to Greggs stores and maps the distribution of these in Newcastle City Centre. I have also integrated CDRC retail centre boundaries and some other spatial data to improve the design of the map. You can see the code used to produce this map [here](http://tinyurl.com/greggsR).
+
+![](map.png)
