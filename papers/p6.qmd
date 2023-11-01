@@ -1,0 +1,22 @@
+---
+title: "Harnessing mobility data to capture changing work from home behaviours between censuses"
+date: "2023-10-01"
+author: [Hamish Gibbs, Patrick Ballantyne, James Cheshire, Alex Singleton, Mark Green]
+categories: [mobility, geography, population, paper]
+subtitle: "The Geographical Journal"
+image: "p6-fig.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+This paper provides an analysis of working from home patterns in England using data from the 2021 Census to understand (1) how patterns of working from home (WFH) in England have shifted since the COVID-19 pandemic and (2) whether human mobility indicators, specifically Google Community Mobility Reports, provide a reliable proxy for WFH patterns recorded by the 2021 Census, providing a formal evaluation of the reliability of such datasets, whose applications have grown exponentially over the COVID-19 pandemic. We find that WFH patterns recorded by the 2021 Census were unique compared with previous UK censuses, reflecting an unprecedented increase likely caused by persistent changes to employment during the COVID-19 pandemic, with a clear social gradient emerging across the country. We also find that Google mobility in 'Residential' and 'Workplace' settings provides a reliable measurement of the distribution of WFH populations across Local Authorities, with varying uncertainties for mobility indicators collected in different settings. These findings provide insights into the utility of such datasets to support population research in intercensal periods, where shifts may be occurring, but can be difficult to quantify empirically.
+
+![](p6-fig.jpg)
+
+![](p6-fig-2.jpg)
+
+## Full Paper
+
+The full paper is published and available open-access at [The Geographical Journal](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12555).
