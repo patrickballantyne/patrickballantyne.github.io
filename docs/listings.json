@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/papers/p6.html",
-      "/papers/p5 .html",
-      "/papers/p4.html",
-      "/papers/p3.html",
-      "/papers/p1.html",
-      "/papers/p2.html"
-    ]
-  },
-  {
     "listing": "/listings.html",
     "items": [
       "/posts/30DayMapChallenge.html",
@@ -25,6 +14,17 @@
       "/posts/KRIHS2022.html",
       "/posts/CARTO2022.html",
       "/posts/Japan2022.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/papers/p6.html",
+      "/papers/p5 .html",
+      "/papers/p4.html",
+      "/papers/p3.html",
+      "/papers/p1.html",
+      "/papers/p2.html"
     ]
   }
 ]
