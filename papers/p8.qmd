@@ -1,0 +1,22 @@
+---
+title: "Using composite indicators and city dashboards to promote place-based policy interventions."
+date: "2024-08-08"
+author: [Patrick Ballantyne, Alex Singleton]
+categories: [cities, inequality, urban indicators, geography, paper]
+subtitle: "Cities"
+image: "p8-fig.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+Spatial inequality is a common urban phenomena in cities around the world, where stark contrasts in a variety of different social and economic outcomes paint a vivid picture of compound inequalities. Tackling these influences from a policy perspective remains challenging, as political economies often span multiple actors and municipal bodies, lacking effective policy instruments to challenge multiple forms of inequality at once. This paper provides a new data-driven perspective, which seeks to improve how policy is developed when trying to mitigate the impacts of compound inequality. Utilising a place-based approach, we present an evidence base which has been co-produced with policymakers, comprising composite spatial indicators and a city dashboard for Liverpool City Region. The assembled evidence base highlights clear patterns of compound inequality across the region, identifying places in greatest need of support. In the paper we discuss how this evidence base is now being used to distribute investment from the City Region Sustainable Transport Settlements, generating positive outcomes for people and places across the region. Finally, we conclude by reflecting on the benefits of building collaborative relationships between academics and policymakers, and the utility of our approach, which uses urban indicators and city dashboards, which we argue can secure a more equitable future for cities globally.
+
+![](p8-fig.jpg)
+
+![](p8-fig-2.jpg)
+
+## Full Paper
+
+The full paper has been accepted for publication at [Cities](p8.pdf).

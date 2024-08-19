@@ -1,0 +1,22 @@
+---
+title: "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data"
+date: "2024-08-01"
+author: [Patrick Ballantyne, Cillian Berragan]
+categories: [retail, data, geography, paper]
+subtitle: "Environment and Planning B: Urban Analytics and City Science"
+image: "p7-fig-2.jpg"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail.
+
+![](p7-fig-2.jpg)
+
+![](p7-fig.jpg)
+
+## Full Paper
+
+The full paper is published and available open-access at [Environment and Planning B](https://journals.sagepub.com/doi/full/10.1177/23998083241263124).

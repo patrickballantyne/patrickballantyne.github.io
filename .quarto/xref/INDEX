@@ -70,5 +70,26 @@
   },
   "papers/p6.qmd": {
     "p6.html": "24bbf115"
+  },
+  "papers/p7.qmd": {
+    "p7.html": "66f486ca"
+  },
+  "papers/p8.qmd": {
+    "p8.html": "4509330f"
+  },
+  "posts/AAG2024.qmd": {
+    "AAG2024.html": "d7ab3765"
+  },
+  "posts/LCRCA-Training.qmd": {
+    "LCRCA-Training.html": "8585d7a2"
+  },
+  "papers/p9.qmd": {
+    "p9.html": "d06b0adb"
+  },
+  "posts/Innovate UK.qmd": {
+    "Innovate UK.html": "3a0310a1"
+  },
+  "posts/Eurovision.qmd": {
+    "Eurovision.html": "6a55bc18"
   }
 }

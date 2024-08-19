@@ -1,0 +1,38 @@
+---
+title: "American Association of Geographers  Conference - April 2024"
+date: "2024-04-15"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, education]
+subtitle: "Honolulu, Hawaii"
+image: "AAG24/AAG2.jpg"
+editor: visual
+---
+
+### AAG 2024 - Honolulu, Hawaii
+
+*My first time attending the American Association of Geographers (AAG) conference, and this year it was taking place in Honolulu, Hawaii. I organised and chaired a number of sessions, and had a great time reconnecting with old colleagues and friends, and making lots of new ones too!*
+
+![](AAG24/AAG2.jpg)
+
+------------------------------------------------------------------------
+
+The 16th - 20th April saw the return of the Annual American Association of Geographers Conference, this year taking place in the stunning setting of Honolulu, Hawaii. 
+
+This year I took it upon myself to provide a platform for researchers using spatial data and spatial data science techniques to advance policy. Together with Prof. Rachel Franklin and Prof. Alex Singleton we put together three sessions entitled - "Geography and Data Science for Public Good: Data-Driven Evidence and Solutions to Social and Spatial Inequalities". The abstract call invited participants to present their research which leverages the power of Geography, Data Science and GIS to unearth new evidence about the existence of social and spatial inequalities, and support policy to mitigate the impacts of social and spatial inequalities.
+
+We were delighted to receive such a large volume of abstracts, and as such were able to put on three sessions to showcase the best in policy-focused, data-driven geographic research, as listed below:
+
+![](GDSPG.jpg)
+
+![](AAG24/AAG5.jpg)
+
+I also delivered a talk in these sessions, summarising two recent projects that I have completed in partnership with Liverpool City Region Combined Authority. The talk was focused on how we can build and customised urban indicators to meet policy-specific needs, and the utility of urban indicators and city dashboards for place-based policymaking. In the talk, I placed a particular emphasis on highlighting how our evidence is helping to make Liverpool City Region more equitable, and through encouraging improvements to transport infrastructure, it is hoped that our research will also promote further mode shift towards more sustainable modes of transportation. My slides are available to view [here](PB-Slides.pptx).
+
+![](PB-Slides.png)
+![](AAG24/AAG3.jpg)
+
+As well as having a blast at the conference itself, I also got the opportunity to enjoy everything that Hawaii has to offer. Amazing food, amazing people, amazing hikes and scenery! 
+
+![](AAG24/AAG1.jpg)
+
+![](AAG24/AAG4.jpg)

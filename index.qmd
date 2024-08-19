@@ -29,18 +29,18 @@ about:
 
 ------------------------------------------------------------------------
 
-I am currently a Postdoctoral Researcher based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/), and my research sits at the bridge between the computational and social sciences, with research interests in *Retail Geography* and *Social and Spatial Inequalities*.
+I am currently a Postdoctoral Researcher based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/), and my research sits at the bridge between the computational and social sciences, with research interests in *Retail Geography*, *Spatial Inequality and Place-Based Policy*.
 
----
+------------------------------------------------------------------------
 
 In an era marked by rapid urbanisation, the rise of digital technologies and pressing social, environmental and economic challenges, there is a pressing need to strengthen our understanding of how cities and places are being impacted and transformed, and how this relates to injustice.
 
 Leveraging advancements in computational research methodologies, coupled with the emergence of new and novel sources of (geographic) data, my research offers critical insights about the dynamics and processes of cities, with a specific emphasis on:
 
-*Retail Geographies*
+*Retail Geographies, Consumer Behaviour and High Streets*
 
-*Social and Spatial Inequalities*
+*Spatial Inequality, Accessibility and Place-Based Policy*
 
 In particular, I am passionate about developing tools and research which foster equality in the city, with a strong emphasis on ensuring all communities have equitable accessibility to everyday services and amenities, fostering more economically and environmentally sustainable retail spaces so that everyone has access to a vibrant space of consumption, and the use of *Spatial Data Science* techniques and methodologies for delivering such objectives.
 
----
+------------------------------------------------------------------------

@@ -3,7 +3,7 @@ title: "blog"
 listing: 
   contents: posts
   type: default
-  max-items: 8
+  max-items: 20
   sort: "date desc"
   categories: true
   fields: [date, title, subtitle, categories, image]

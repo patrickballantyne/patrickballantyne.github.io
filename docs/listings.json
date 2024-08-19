@@ -2,6 +2,10 @@
   {
     "listing": "/listings.html",
     "items": [
+      "/posts/Innovate UK.html",
+      "/posts/LCRCA-Training.html",
+      "/posts/Eurovision.html",
+      "/posts/AAG2024.html",
       "/posts/30DayMapChallenge.html",
       "/posts/CDRC Research Showcase.html",
       "/posts/Away Day - GDSL.html",
@@ -19,6 +23,9 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/papers/p9.html",
+      "/papers/p8.html",
+      "/papers/p7.html",
       "/papers/p6.html",
       "/papers/p5 .html",
       "/papers/p4.html",
