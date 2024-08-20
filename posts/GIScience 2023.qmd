@@ -1,5 +1,5 @@
 ---
-title: "GIScience Conference - September 2023"
+title: "GIScience Bi-Annual Conference"
 date: "2023-09-18"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, education]
@@ -8,7 +8,7 @@ image: "gi-location.jpg"
 editor: visual
 ---
 
-### GIScience 2023 - University of Leeds
+### GIScience Bi-Annual Conference 2023
 
 *Annual conference showcasing cutting edge research in the field of GIScience. This year's conference was hosted at the University of Leeds, with highlights including the Equitable and Sustainable Transport workshop, keynotes from Linda See, Sarah Williams and Joao Porto de Albuquerque, as well as a large number of posters and presentations.*
 
@@ -16,13 +16,13 @@ editor: visual
 
 The 12-15th September saw the 12th International Conference on Geographic Information Science, hosted at the University of Leeds.
 
-This year I got the opportunity to present in the [Equitable Accessibility and Sustainable Mobility Workshop](https://ptal-io.github.io/easm2023/), which was held as part of the pre-conference workshops. It was a thought-provoking day, where we got to learn about all the cool pieces of research and tools that are emerging in this area. A highlight for me was finally getting some hands on experience with r5r. I'm leaving much more inspired to carve out my own research narrative in this exciting theme. 
+This year I got the opportunity to present in the [Equitable Accessibility and Sustainable Mobility Workshop](https://ptal-io.github.io/easm2023/), which was held as part of the pre-conference workshops. It was a thought-provoking day, where we got to learn about all the cool pieces of research and tools that are emerging in this area. A highlight for me was finally getting some hands on experience with r5r. I'm leaving much more inspired to carve out my own research narrative in this exciting theme.
 
 I really enjoyed learning about methodological innovation at GIScience. This is an area I have had limited exposure to, so it was interesting to see all the cool approaches to problems people in the GIScience community were working on. A really common theme emerging in lots of the presentations was this idea of how these different methodological innovations can be translated into real-world impact.
 
 At GIScience I made lots of new friends, and was reunited with faces i've not seen for a while. It was an excellent networking opportunity for me as an early-career researcher, and I thank the conference committee for providing lots of space in the week to have these informal chats and beers.
 
-A huge kudos to Lex, Nick and Alison for a superb week at GIScience - a conference I'm definitely adding to my list for the future! 
+A huge kudos to Lex, Nick and Alison for a superb week at GIScience - a conference I'm definitely adding to my list for the future!
 
 ------------------------------------------------------------------------
 

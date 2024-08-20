@@ -1,0 +1,37 @@
+---
+title: "Applications of GIS MSc Talk"
+date: "2023-11-28"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, education]
+subtitle: "University of Sheffield, Sheffield, UK"
+image: "sheffield-pic.jpg"
+editor: visual
+---
+
+### We need more spatial thinkers! Perspectives from a Postdoctoral researcher.
+
+*In November, I was kindly invited by ex-GDSL colleague Jacob Macdonald to deliver a talk at the University of Sheffield, as part of the MSc-level 'Applications of GIS' module. It was a great opportunity to re-connect with an old colleague, and formulate some ideas around what I perceive a modern day GIScientist needing to be*.  
+
+
+-------
+
+## Content 
+
+Jacob asked me to describe in detail what my role as a Research Data Scientist entails and the types of outputs and outcomes I seek to develop. Here I discussed how I have moved away from a narrow focused PhD topic, to one that explores broader aspects of urban analytics, such as the use and validation of mobility datasets, and the use of urban indicators in city-level planning.
+
+Finally, I reflected on the opportunities for students studying MSc degrees in GIS. I introduced the room to a number of previous colleagues of mine, all of whom have gone on to do great things in industry, as well as situating such developments within the context of growing interest in geospatial skills by the UK government. My top tips to students in the room were the following:
+
+1. Your toolbox should have no lid - don't let yourself get too comfortable in using certain techniques and methods. The broadness of your skillset is what will set you apart.
+
+2. Adapt, adapt, adapt - always be ready to adapt to new trends, tools and developments in the sector if you want to be successful. The geospatial sector moves quickly, and you have to be ready to follow.
+
+3. Be seen everywhere, by everybody - put yourself and your achievements on display for the world to see. If you are talented and active on social media platforms, you will not struggle to get a job. 
+
+![](sheffield-slides.jpg)
+
+![](sheffield-pic.jpg)
+![](sheffield-map.jpg)
+
+## Slides
+
+Slides from my talk are available to view using [this link](Slides.pdf). 

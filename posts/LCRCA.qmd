@@ -1,5 +1,5 @@
 ---
-title: "A Month in the Life of a Consultant - May 2023"
+title: "A Month in the Life of a Consultant"
 date: "2023-05-23"
 author: [Patrick Ballantyne]
 categories: [geographic data science, urban analytics, policy]
@@ -50,7 +50,7 @@ We produced an aggregated health/deprivation score (at LSOA level), which detail
 -   Devolved programme users.
 -   Skills bootcamp users.
 
-![](d2.png)    
+![](d2.png)
 
 #### Domain 3. Economic Development and Housing
 
@@ -63,7 +63,7 @@ We produced an aggregated economic development/housing score (at LSOA level), wh
 
 We also produced a number of other data products, to meet the individual needs of LCRCA, including calculating volume of freight moving through LCRCA road network, locations of freeports and investment locations and total future housing supply.
 
-![](d3a.png)  
+![](d3a.png)
 
 ------------------------------------------------------------------------
 

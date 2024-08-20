@@ -1,5 +1,5 @@
 ---
-title: "Introduction to R for Policy - May 2024"
+title: "Introduction to R for Policy"
 date: "2024-05-20"
 author: [Patrick Ballantyne]
 categories: [policy, data, education]
@@ -8,7 +8,7 @@ image: "lcr-overview.png"
 editor: visual
 ---
 
-### Introduction to R for Policy - May 2024
+### Introduction to R for Policy
 
 *In May, I co-delivered a four-day workshop to policy analysts at Liverpool City Region Combined Authority. This workshop, co-delivered with Prof. Francisco Rowe, aimed to provide a gentle introduction to R, before building progressively to cover more advanced topics such as dashboard construction, APIs and time-series modelling*.
 
@@ -18,17 +18,15 @@ editor: visual
 
 Earlier in the year I was approached by the Liverpool City Region Combined Authority (LCRCA) policy analyst team to design and deliver a bespoke training course, which could provide their team with the skills needed to use R in their daily workflows. The class comprised a mixture of people very familiar with programming languages as well as those who had never programmed before. Together with Prof. Rowe, I delivered four days of content covering the following topics:
 
-1. R Fundamentals
-2. Data Visualisation
-3. Dashboards and APIs
-4. Data Modelling (Time-Series)
+1.  R Fundamentals
+2.  Data Visualisation
+3.  Dashboards and APIs
+4.  Data Modelling (Time-Series)
 
 It was a great opportunity for me to design a new course from scratch, and work collaboratively with a senior colleague to think about how best to teach this course to such a diverse range of abilities. Below I provide a sample of some of the outputs from this work, however we are unfortunately able to share these materials as they are owned by LCRCA.
-
 
 ![](repro.png)
 
 ![](final-dashboard.png)
-
 
 ![](ts-model.png)

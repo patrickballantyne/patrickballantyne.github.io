@@ -1,5 +1,5 @@
 ---
-title: "GDSL Away Day - October 2023"
+title: "GDSL Away Day"
 date: "2023-10-04"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, education]
@@ -8,7 +8,7 @@ image: "lab.jpeg"
 editor: visual
 ---
 
-### GDSL Away Day - October 2023
+### GDSL Away Day
 
 *Annual Geographic Data Science Lab Away Day held at the Bluecoat in Liverpool. A great opportunity for new students and staff to get to know eachother. We held a series of lightning talks to get to know eachother (and some fun facts), followed by beers in Kazimier Garden into the evening.*
 

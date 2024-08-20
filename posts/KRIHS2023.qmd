@@ -1,5 +1,5 @@
 ---
-title: "Korea Research Visit - June 2023"
+title: "Korea Research Visit"
 date: "2023-06-15"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, transport]
@@ -25,7 +25,7 @@ As part of the original grant, money had been allocated to facilitate a return e
 -   Getting visas in place
 -   Managing the grant budget, allocating daily expenses
 -   Scheduling keynote and lightning talks from GDSL representatives
--   Preparing and delivering a presentation showcasing my own research 
+-   Preparing and delivering a presentation showcasing my own research
 -   Being the key point of contact during our visit to Korea for KRIHS and other representatives
 
 This was a great learning experience for me, giving me first hand experience of how to effectively manage and spend grant money, and co-ordinate a large international exchange between Liverpool and institutes in Korea.

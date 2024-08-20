@@ -1,5 +1,5 @@
 ---
-title: "CARTO Spatial Data Science Conference - October 2022"
+title: "CARTO Spatial Data Science Conference"
 date: "2022-10-24"
 author: [Patrick Ballantyne]
 categories: [geographic data science, geodemographics, retail]

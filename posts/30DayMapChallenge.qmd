@@ -1,5 +1,5 @@
 ---
-title: "30DayMapChallenge - November 2023"
+title: "30DayMapChallenge"
 date: "2023-11-01"
 author: [Patrick Ballantyne]
 categories: [data, geographic data, retail]
@@ -8,7 +8,7 @@ image: "mapchallenge.png"
 editor: visual
 ---
 
-### 30DayMapChallenge - November 2023
+### 30DayMapChallenge
 
 *My entry to this year's 30DayMapChallenge - Newcastle really is the home of Greggs (or is it?)*
 

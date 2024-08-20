@@ -1,5 +1,5 @@
 ---
-title: "Japan Research Visit - September 2022"
+title: "Japan Research Visit"
 date: "2022-09-15"
 author: [Patrick Ballantyne]
 categories: [geographic data science, urban analytics, education]
@@ -12,7 +12,7 @@ editor: visual
 
 *A five day short course on the use of new forms of data to study cities, grounding students in the basic principles of Geographic Data Science.*
 
----
+------------------------------------------------------------------------
 
 From the 5th - 9th September, Prof. Alex Singleton and I visited Prof. Keiji Yano and his students at Ritsumeikan University, to deliver a five-day short course on Geographic Data Science for Urban Analytics.
 
@@ -20,23 +20,20 @@ The course, co-taught by both of us, consisted of morning lectures on topics suc
 
 We finished the week with a series of student presentations on a short group project that they had each carried out, where we awarded prizes to the excellent students.
 
-We had a fantastic week, and it was my first trip to Japan so managed to get lots of exploring done! 
+We had a fantastic week, and it was my first trip to Japan so managed to get lots of exploring done!
 
----
+------------------------------------------------------------------------
 
 ### Photos
 
----
+------------------------------------------------------------------------
 
 ![](talk.jpg)
 
 ![](din.jpg)
 
-![](view.jpg)
----
+## ![](view.jpg)
 
 ### More Information
 
-The full week itinerary is available to [view](Japan.html), which details a day-by-day itinerary of what was delivered across the short course. 
-
-
+The full week itinerary is available to [view](Japan.html), which details a day-by-day itinerary of what was delivered across the short course.

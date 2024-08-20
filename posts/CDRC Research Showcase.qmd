@@ -1,5 +1,5 @@
 ---
-title: "CDRC Data & Geodemographics Event - October 2023"
+title: "CDRC Data & Geodemographics Event"
 date: "2023-10-13"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, retail]
@@ -8,7 +8,7 @@ image: "said.jpg"
 editor: visual
 ---
 
-### CDRC Data & Geodemographics Event - October 2023
+### CDRC Data & Geodemographics Event
 
 *CDRC Annual Partner Engagement event, held at the fantastic Said Business School, University of Oxford. The conference showcased cutting edge research and partnerships being developed in the CDRC, including the latest iteration of the Output Area Classification, research on the 24-hour city and a keynote from Crispin Ollington about the utility of Geodemographics for marketing.*
 
@@ -18,7 +18,7 @@ On the 13th October I attended the annual CDRC partner engagement event, held at
 
 The conference is a great opportunity to experience a more 'commercial' side of academia, catching up with CDRC partners like Geolytix, Homes for England and Pets at Home, and enjoying a series of talks on Data and Geodemographics. A particular highlight for me was the real appetite for the latest Output Area Classification (OAC) and the innovative ways in which Geodemographics have been used to support better marketing for theatre shows like The Book of Mormon.
 
-Thanks to the CDRC for another fantastic event - especially Paul, Alex, James, Rebecca and Jonathan. 
+Thanks to the CDRC for another fantastic event - especially Paul, Alex, James, Rebecca and Jonathan.
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Thanks to the CDRC for another fantastic event - especially Paul, Alex, James, R
 
 ------------------------------------------------------------------------
 
-![](cdrc slides.png)
+![](cdrc%20slides.png)
 
 ![](rurc.png)
 

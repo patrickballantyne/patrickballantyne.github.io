@@ -1,5 +1,5 @@
 ---
-title: "Repurposing City Centres Symposium - July 2023"
+title: "Repurposing City Centres Symposium"
 date: "2023-07-14"
 author: [Patrick Ballantyne]
 categories: [geographic data science, data, retail]

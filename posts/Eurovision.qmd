@@ -1,5 +1,5 @@
 ---
-title: "New Eurovision Policy Brief - May 2024"
+title: "New Eurovision Policy Brief"
 date: "2024-05-01"
 author: [Patrick Ballantyne]
 categories: [policy, data, retail, geographic data science]
@@ -8,9 +8,9 @@ image: "euro.png"
 editor: visual
 ---
 
-### A New Heseltine Institute Policy Brief - May 2024
+### A New Heseltine Institute Policy Brief
 
-*Together with colleagues from the Department of Music, we have put together a policy brief about the economic impact of Eurovision in Liverpool. The policy brief uses high resolution consumer transaction data from Mastercard to explore spatio-temporal trends in spending during Eurovision, when it was hosted in the City of Liverpool in 2023*. 
+*Together with colleagues from the Department of Music, we have put together a policy brief about the economic impact of Eurovision in Liverpool. The policy brief uses high resolution consumer transaction data from Mastercard to explore spatio-temporal trends in spending during Eurovision, when it was hosted in the City of Liverpool in 2023*.
 
 ![](euro.png)
 
@@ -18,13 +18,13 @@ editor: visual
 
 ## Eurovision's Economic Impact in Liverpool: Insights for Future Large-Scale Events
 
-A year on from Liverpool hosting Eurovision, and just 2 weeks before Taylor Swift's huge Anfield gigs, our new policy brief uses spending data from Mastercard to highlight new insights into the economic impact of mega events. it demonstrates the spatial and sectoral economic impacts of Eurovision 2023, building on work completed by Liverpool City Council, Liverpool City Region and the Heseltine Institute for Public Policy. Results demonstrated that Eurovision 2023 generated significant uplifts in spending in bars and restaurants, and created a hyper-localised 'boom' in spending in the area surrounding the Eurovision Village. These insights can help to inform decision-making about the location of mega events and their impact on local economies, and the design of fringe events which can support local businesses. Furthermore, the methodology employed here demonstrates the value of data partnerships with private companies and could be used to assess the economic impact of future mega events such as the UK leg of Taylor Swift’s Eras tour.
+A year on from Liverpool hosting Eurovision, and just 2 weeks before Taylor Swift's huge Anfield gigs, our new policy brief uses spending data from Mastercard to highlight new insights into the economic impact of mega events. it demonstrates the spatial and sectoral economic impacts of Eurovision 2023, building on work completed by Liverpool City Council, Liverpool City Region and the Heseltine Institute for Public Policy. Results demonstrated that Eurovision 2023 generated significant uplifts in spending in bars and restaurants, and created a hyper-localised 'boom' in spending in the area surrounding the Eurovision Village. These insights can help to inform decision-making about the location of mega events and their impact on local economies, and the design of fringe events which can support local businesses. Furthermore, the methodology employed here demonstrates the value of data partnerships with private companies and could be used to assess the economic impact of future mega events such as the UK leg of Taylor Swift's Eras tour.
 
-![](eurovision/Figure 3.jpg)
+![](eurovision/Figure%203.jpg)
 
-![](eurovision/Figure 4.jpg)
+![](eurovision/Figure%204.jpg)
 
-![](eurovision/Figure 5.jpg)
+![](eurovision/Figure%205.jpg)
 
 ## Heseltine Policy Brief
 
