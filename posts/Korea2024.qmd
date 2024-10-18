@@ -1,0 +1,38 @@
+---
+title: "Innovate UK Trip"
+date: "2024-09-12"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, policy, innovation]
+subtitle: "Busan, South Korea"
+image: "Korea24/k1.jpg"
+editor: visual
+---
+
+### Innovate UK R&D Trip - Busan, South Korea
+
+*Together with the UK project consortium partners, I have just returned from a series of successful R&D workshops in South Korea, as part of a cross-sector project about transport-based Digital Twins in Liverpool and Busan*. 
+
+![](Korea24/k1.jpg)
+
+------------------------------------------------------------------------
+
+## Research Trip Overview 
+
+These workshops form part of an exciting new UK-South Korea data-driven urban innovation collaborative project entitled “A Big Data Digital Twin of Liverpool City Region for Smart, Equitable Mobility”, which has been jointly-funded by Innovate UK and the Korean Agency for Infrastructure Technology Advancement (KAIA). Workshop attendees included representatives from each of the project partner organisations, including Podaris, Liverpool City Region Combined Authority (LCRCA) and the University of Liverpool from the UK, as well as Sundosoft, Busan Metropolitan City, Busan Techno Park (BTP) and Pusan National University from South Korea.
+
+![](Korea24/k5.jpg)
+
+Hosted by Pusan National University and Sundosoft, the workshops enabled the project partners to meet in person for the first time, and provide progress updates on the technical co-development of Digital Twins for Liverpool’s bus network and the Busan North port redevelopment area. Discussion topics included availability of high-resolution automatic vehicle location (AVL) data, design of scenarios and KPIs within the Digital Twins, stakeholder and user priorities, and the delivery of prototypes through technical collaborations between Podaris and Sundosoft. 
+
+Researchers from the University of Liverpool reported on their ongoing collaborations with LCRCA, particularly around the co-development of data-driven insights to support transport investment in the region, as documented in this [paper](https://www.sciencedirect.com/science/article/pii/S0264275124005432) and this [paper](https://www.sciencedirect.com/science/article/pii/S019897152400108X). They also introduced their ongoing academic research collaborations with PNU, where both institutions are working on a review of academic literature on the topic to support better understanding of the ‘readiness’ of global cities for urban Digital Twins. We are also really excited to be taking part in a student exchange programme, with our PhD student - Ákos Balog - who is remaining in Korea until Christmas to support collaborative efforts on this project. 
+
+![](Korea24/k6.jpg)
+
+In addition to project meetings and guest lectures, the UK project partners enjoyed a number of interesting site visits during the week, including a tour of the Busan North port development area - the study site for the Sundosoft-led Digital Twin. Furthermore, the UK partners visited Busan Techno Park’s Big Data Innovation Center, where they learned more about how BTP supports local government, academics and businesses by providing access to a large portfolio of data. 
+
+![](Korea24/k2.jpeg)
+![](Korea24/k3.jpg)
+
+Looking ahead, the UK and South Korean project partners have a jam-packed Autumn and Winter of R&D collaborations ahead. The University of Liverpool is really looking forward to hosting the South Korean partners in January, where we will be showcasing a set of Digital Twin prototypes for Liverpool and Busan, and mapping out our plans for large-scale operationalisation and commercialisation of the prototypes as part of a Phase II application to Innovate UK in February.
+
+![](Korea24/k4.jpg)

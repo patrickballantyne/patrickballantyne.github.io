@@ -29,18 +29,14 @@ about:
 
 ------------------------------------------------------------------------
 
-I am currently a Postdoctoral Researcher based in the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/), and my research sits at the bridge between the computational and social sciences, with research interests in *Retail Geography*, *Spatial Inequality and Place-Based Policy*.
+## Who Am I?
 
-------------------------------------------------------------------------
+Patrick is a **Geographic Information Scientist** who seeks to generate new and important insights about cities and regions, with a particular emphasis on processes and dynamics related to:
 
-In an era marked by rapid urbanisation, the rise of digital technologies and pressing social, environmental and economic challenges, there is a pressing need to strengthen our understanding of how cities and places are being impacted and transformed, and how this relates to injustice.
+**Retailing, Retail Spaces & Consumer Behaviour**
 
-Leveraging advancements in computational research methodologies, coupled with the emergence of new and novel sources of (geographic) data, my research offers critical insights about the dynamics and processes of cities, with a specific emphasis on:
+**Transport Geography, Infrastructure Planning & 15-Minute Cities**
 
-*Retail Geographies, Consumer Behaviour and High Streets*
+**Spatial Inequality, Place-Based Policy and Digital Planning**
 
-*Spatial Inequality, Accessibility and Place-Based Policy*
-
-In particular, I am passionate about developing tools and research which foster equality in the city, with a strong emphasis on ensuring all communities have equitable accessibility to everyday services and amenities, fostering more economically and environmentally sustainable retail spaces so that everyone has access to a vibrant space of consumption, and the use of *Spatial Data Science* techniques and methodologies for delivering such objectives.
-
-------------------------------------------------------------------------
+His research harnesses cutting-edge methodologies, various forms of spatial and non-spatial data, and partnerships with public and private sector organisations to answer interesting and impactful research questions. He is particularly passionate about developing accessible research outputs and tools, which when underpinned by sophisticated data and models can be used to support effective decision-making in policy settings. 

@@ -6,30 +6,44 @@ title: "Research Interests"
 
 ## Research Themes
 
-### 1) Retail Geographies, Consumer Behaviour and High Streets
+### 1) Retailing, Retail Spaces and Consumer Behaviour
 
-The retail sector continues to face a number of challenges (e.g., online shopping, COVID-19, climate change), putting significant pressure on businesses and retailers to adapt to these challenges. My research in this area explores a number of important ideas:
+Key themes I am exploring:
 
--   What are the geographies of retail centre agglomerations - where are they located, what characteristics do they have and who uses them?
+-   How can we characterise the geographies of retail centre agglomerations, particularly in terms of where they are located, what characteristics they have, and who uses them?
 -   How is the composition and economic performance of retail centres and high streets changing?
 -   In what ways is consumer behaviour changing, how can we measure this, and what are the social, economic and environmental consequences of these shifts?
 
-### 2) Spatial Inequality, Accessibility and Place-Based Policy
+### 2) Transport Geography, Infrastructure Planning and 15-Minute Cities
 
-Spatial inequality is a common phenomena in cities around the world, maintaining cycles of hardship for the most vulnerable members of society. My research in this area aims to unlock new insights about inequalities between places, and support evidence-led policy making to target these. My ongoing research focuses particularly on:
+Key themes I am exploring:
 
--   The development of digital planning tools (e.g. city dashboards, digital twins) to support place-based policy targeting spatial inequalities.
--   Assembly of urban indicators that summarise the complexity of multidimensional inequalities (e.g. multi-modal transport access and usage) into meaningful and accessible representations.
--   Measurement of place-based inequalities in accessibility to essential services and amenities, utilising new open data from Overture Maps.
+- Development of small area measures of (sustainable) transport inequality, bringing together elements of supply & demand, to explore where better investment might lead to increased mode shift away from private cars. 
+- How can we design empirical evidence to steer decision making around new sustainable transport infrastructure, and new pedestrian infrastructure. 
+- In what ways is the "15-Minute City" concept a useful framwork to reduce transport (and retail) inequalities across cities?
+
+
+### 3) Spatial Inequality, Place-Based Policy and Digital Planning 
+
+Key themes I am exploring:
+
+- Integrating concepts and measurement of spatial inequality into evidence about place-based inequalities.
+- Working collaboratively with cities and regions to design bespoke digital planning tools (e.g., urban indicators, Digital Twins) that support decision making around large scale investment decisions. 
+- Exploring new techniques for stakeholder engagement with insights from spatial data (e.g., narrative story maps)
 
 ------------------------------------------------------------------------
 
-## Research Approach
+## Research Approach and Methodologies
 
--   **Methods** - Geographic Information Systems (GIS), Spatial Analysis, Statistical Analysis, Machine Learning, Data Visualisation & Storytelling.
+I primarily work in `R`, though for specialised applications such as network analysis or dashboard development I will use other programming languages (e.g., `Python`) or softwares (e.g., ArcGIS). Below I have listed my main methodological specialisms: 
 
--   **Techniques** - Cluster Analysis (spatial, non-spatial), Network Analysis and Routing, Gravity Models and Catchment Analysis, Predictive Modelling, Dashboard Assembly and Design, Urban Indicator Development, Exploratory Data Analysis.
-
--   **Data** - Point of Interest (POI), Mobility and Applications-Based, Big Data, Open Data, Secure Data, Census and Administrative.
-
--   **Workflow** - I work mostly in R. For non-spatial tasks I utilise `tidyverse`, `arrow` and `data.table` to work with datasets ranging from small to large, and then for spatial tasks I rely heavily on the `sf` library for spatial operations. I have lots of experience in building docker instances on HPC infrastructure, and regularly use such infrastructure for larger tasks.
+* Spatial Analysis
+* Spatial Modelling
+* Supervised and Unsupervised Machine Learning
+* Statistics
+* Area Classifications and Geodemographics
+* Scoring and Indicator Development
+* Network Analysis
+* Data Visualisation and Cartography
+* Dashboards
+* Digital Twins

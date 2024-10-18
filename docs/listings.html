@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Patrick Ballantyne - blog</title>
+<title>blog – Patrick Ballantyne</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,8 +62,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -90,7 +98,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -99,39 +135,47 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Patrick Ballantyne</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About</a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">Research Interests</a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research Interests</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">Publications</a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Patrick_Ballantyne_CV_A_v3.pdf">CV</a>
+    <a class="nav-link" href="./Patrick_Ballantyne_CV_A.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./listings.html" aria-current="page">Blog</a>
+    <a class="nav-link active" href="./listings.html" aria-current="page"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -141,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(18)</span></div><div class="category" data-category="COVID-19">COVID-19 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data">data <span class="quarto-category-count">(13)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(9)</span></div><div class="category" data-category="geodemographics">geodemographics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geographic data">geographic data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geographic data science">geographic data science <span class="quarto-category-count">(16)</span></div><div class="category" data-category="policy">policy <span class="quarto-category-count">(4)</span></div><div class="category" data-category="retail">retail <span class="quarto-category-count">(7)</span></div><div class="category" data-category="transport">transport <span class="quarto-category-count">(2)</span></div><div class="category" data-category="urban analytics">urban analytics <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="COVID-19">COVID-19 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data">data <span class="quarto-category-count">(14)</span></div><div class="category" data-category="education">education <span class="quarto-category-count">(9)</span></div><div class="category" data-category="geodemographics">geodemographics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geographic data">geographic data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geographic data science">geographic data science <span class="quarto-category-count">(17)</span></div><div class="category" data-category="innovation">innovation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="policy">policy <span class="quarto-category-count">(5)</span></div><div class="category" data-category="retail">retail <span class="quarto-category-count">(7)</span></div><div class="category" data-category="transport">transport <span class="quarto-category-count">(2)</span></div><div class="category" data-category="urban analytics">urban analytics <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -152,12 +196,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
+  
     
   </div>
   
+
 
 </header>
 
@@ -165,21 +211,58 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="geographic data science,data,retail,education" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1725266375989" data-listing-reading-time-sort="1.255">
+<div class="quarto-post image-right" data-index="0" data-categories="geographic data science,data,policy,innovation" data-listing-date-sort="1726095600000" data-listing-file-modified-sort="1727953685137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="466">
 <div class="thumbnail">
-<p><a href="./posts/IGC Dublin.html"> <img src="./posts/IGC-Photos/IMG20240827080831.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Korea2024.html" class="no-external"></a></p><a href="./posts/Korea2024.html" class="no-external">
+<p><img loading="lazy" src="./posts/Korea24/k1.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Korea2024.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/IGC Dublin.html">
 <h3 class="no-anchor listing-title">
-International Geographical Congress 2024
+<a href="./posts/Korea2024.html" class="no-external">Innovate UK Trip</a>
 </h3>
 <div class="listing-subtitle">
-Dublic College University, Dublin, Ireland
+<a href="./posts/Korea2024.html" class="no-external">Busan, South Korea</a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
+geographic data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data'); return false;">
+data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('policy'); return false;">
+policy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('innovation'); return false;">
+innovation
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/Korea2024.html" class="no-external">
+<div class="listing-date">
+Sep 12, 2024
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="geographic data science,data,retail,education" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1729240048542" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
+<div class="thumbnail">
+<p><a href="./posts/IGC Dublin.html" class="no-external"></a></p><a href="./posts/IGC Dublin.html" class="no-external">
+<p><img loading="lazy" src="./posts/IGC-Photos/IMG20240827080831.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/IGC Dublin.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/IGC Dublin.html" class="no-external">International Geographical Congress 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/IGC Dublin.html" class="no-external">Dublic College University, Dublin, Ireland</a>
+</div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -194,29 +277,28 @@ retail
 education
 </div>
 </div>
-<a href="./posts/IGC Dublin.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/IGC Dublin.html">
+<a href="./posts/IGC Dublin.html" class="no-external">
 <div class="listing-date">
 Sep 2, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="geographic data science,urban analytics,policy,transport" data-listing-date-sort="1718838000000" data-listing-file-modified-sort="1724144873681" data-listing-reading-time-sort="2.17">
+<div class="quarto-post image-right" data-index="2" data-categories="geographic data science,urban analytics,policy,transport" data-listing-date-sort="1718838000000" data-listing-file-modified-sort="1729240048906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="434">
 <div class="thumbnail">
-<p><a href="./posts/Innovate UK.html"> <img src="./posts/uki-logo.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/Innovate UK.html" class="no-external"></a></p><a href="./posts/Innovate UK.html" class="no-external">
+<p><img loading="lazy" src="./posts/uki-logo.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Innovate UK.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Innovate UK.html">
 <h3 class="no-anchor listing-title">
-Grant Success! New Innovate UK Digital Twin Project
+<a href="./posts/Innovate UK.html" class="no-external">Grant Success! New Innovate UK Digital Twin Project</a>
 </h3>
 <div class="listing-subtitle">
-Liverpool City Region, Liverpool, UK
+<a href="./posts/Innovate UK.html" class="no-external">Liverpool City Region, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -231,29 +313,28 @@ policy
 transport
 </div>
 </div>
-<a href="./posts/Innovate UK.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Innovate UK.html">
+<a href="./posts/Innovate UK.html" class="no-external">
 <div class="listing-date">
 Jun 20, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="policy,data,education" data-listing-date-sort="1716159600000" data-listing-file-modified-sort="1724144985396" data-listing-reading-time-sort="1.005">
+<div class="quarto-post image-right" data-index="3" data-categories="policy,data,education" data-listing-date-sort="1716159600000" data-listing-file-modified-sort="1729240048930" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
 <div class="thumbnail">
-<p><a href="./posts/LCRCA-Training.html"> <img src="./posts/lcr-overview.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/LCRCA-Training.html" class="no-external"></a></p><a href="./posts/LCRCA-Training.html" class="no-external">
+<p><img loading="lazy" src="./posts/lcr-overview.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/LCRCA-Training.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/LCRCA-Training.html">
 <h3 class="no-anchor listing-title">
-Introduction to R for Policy
+<a href="./posts/LCRCA-Training.html" class="no-external">Introduction to R for Policy</a>
 </h3>
 <div class="listing-subtitle">
-Liverpool City Region, Liverpool, UK
+<a href="./posts/LCRCA-Training.html" class="no-external">Liverpool City Region, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('policy'); return false;">
 policy
@@ -265,29 +346,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/LCRCA-Training.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/LCRCA-Training.html">
+<a href="./posts/LCRCA-Training.html" class="no-external">
 <div class="listing-date">
 May 20, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="policy,data,retail,geographic data science" data-listing-date-sort="1714518000000" data-listing-file-modified-sort="1724144809644" data-listing-reading-time-sort="1.26">
+<div class="quarto-post image-right" data-index="4" data-categories="policy,data,retail,geographic data science" data-listing-date-sort="1714518000000" data-listing-file-modified-sort="1729240048487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
 <div class="thumbnail">
-<p><a href="./posts/Eurovision.html"> <img src="./posts/euro.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/Eurovision.html" class="no-external"></a></p><a href="./posts/Eurovision.html" class="no-external">
+<p><img loading="lazy" src="./posts/euro.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Eurovision.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Eurovision.html">
 <h3 class="no-anchor listing-title">
-New Eurovision Policy Brief
+<a href="./posts/Eurovision.html" class="no-external">New Eurovision Policy Brief</a>
 </h3>
 <div class="listing-subtitle">
-Heseltine Institute for Public Policy &amp; Practice, Liverpool, UK
+<a href="./posts/Eurovision.html" class="no-external">Heseltine Institute for Public Policy &amp; Practice, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('policy'); return false;">
 policy
@@ -302,29 +382,28 @@ retail
 geographic data science
 </div>
 </div>
-<a href="./posts/Eurovision.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Eurovision.html">
+<a href="./posts/Eurovision.html" class="no-external">
 <div class="listing-date">
 May 1, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="geographic data science,data,education" data-listing-date-sort="1713135600000" data-listing-file-modified-sort="1724144747985" data-listing-reading-time-sort="1.7">
+<div class="quarto-post image-right" data-index="5" data-categories="geographic data science,data,education" data-listing-date-sort="1713135600000" data-listing-file-modified-sort="1729240048287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="340">
 <div class="thumbnail">
-<p><a href="./posts/AAG2024.html"> <img src="./posts/AAG24/AAG2.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/AAG2024.html" class="no-external"></a></p><a href="./posts/AAG2024.html" class="no-external">
+<p><img loading="lazy" src="./posts/AAG24/AAG2.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/AAG2024.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/AAG2024.html">
 <h3 class="no-anchor listing-title">
-American Association of Geographers Conference
+<a href="./posts/AAG2024.html" class="no-external">American Association of Geographers Conference</a>
 </h3>
 <div class="listing-subtitle">
-Honolulu, Hawaii
+<a href="./posts/AAG2024.html" class="no-external">Honolulu, Hawaii</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -336,29 +415,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/AAG2024.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/AAG2024.html">
+<a href="./posts/AAG2024.html" class="no-external">
 <div class="listing-date">
 Apr 15, 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="geographic data science,data,education" data-listing-date-sort="1701129600000" data-listing-file-modified-sort="1724145025215" data-listing-reading-time-sort="1.54">
+<div class="quarto-post image-right" data-index="6" data-categories="geographic data science,data,education" data-listing-date-sort="1701129600000" data-listing-file-modified-sort="1729240049259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <div class="thumbnail">
-<p><a href="./posts/Sheffield.html"> <img src="./posts/sheffield-pic.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Sheffield.html" class="no-external"></a></p><a href="./posts/Sheffield.html" class="no-external">
+<p><img loading="lazy" src="./posts/sheffield-pic.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Sheffield.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Sheffield.html">
 <h3 class="no-anchor listing-title">
-Applications of GIS MSc Talk
+<a href="./posts/Sheffield.html" class="no-external">Applications of GIS MSc Talk</a>
 </h3>
 <div class="listing-subtitle">
-University of Sheffield, Sheffield, UK
+<a href="./posts/Sheffield.html" class="no-external">University of Sheffield, Sheffield, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -370,29 +448,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/Sheffield.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Sheffield.html">
+<a href="./posts/Sheffield.html" class="no-external">
 <div class="listing-date">
 Nov 28, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="data,geographic data,retail" data-listing-date-sort="1698796800000" data-listing-file-modified-sort="1724144730380" data-listing-reading-time-sort="0.99">
+<div class="quarto-post image-right" data-index="7" data-categories="data,geographic data,retail" data-listing-date-sort="1698796800000" data-listing-file-modified-sort="1729240048284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
 <div class="thumbnail">
-<p><a href="./posts/30DayMapChallenge.html"> <img src="./posts/mapchallenge.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/30DayMapChallenge.html" class="no-external"></a></p><a href="./posts/30DayMapChallenge.html" class="no-external">
+<p><img loading="lazy" src="./posts/mapchallenge.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/30DayMapChallenge.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/30DayMapChallenge.html">
 <h3 class="no-anchor listing-title">
-30DayMapChallenge
+<a href="./posts/30DayMapChallenge.html" class="no-external">30DayMapChallenge</a>
 </h3>
 <div class="listing-subtitle">
-University of Liverpool, Liverpool, UK
+<a href="./posts/30DayMapChallenge.html" class="no-external">University of Liverpool, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('data'); return false;">
 data
@@ -404,29 +481,28 @@ geographic data
 retail
 </div>
 </div>
-<a href="./posts/30DayMapChallenge.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/30DayMapChallenge.html">
+<a href="./posts/30DayMapChallenge.html" class="no-external">
 <div class="listing-date">
 Nov 1, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="geographic data science,data,retail" data-listing-date-sort="1697151600000" data-listing-file-modified-sort="1724144795610" data-listing-reading-time-sort="1.255">
+<div class="quarto-post image-right" data-index="8" data-categories="geographic data science,data,retail" data-listing-date-sort="1697151600000" data-listing-file-modified-sort="1729240048485" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
 <div class="thumbnail">
-<p><a href="./posts/CDRC Research Showcase.html"> <img src="./posts/said.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/CDRC Research Showcase.html" class="no-external"></a></p><a href="./posts/CDRC Research Showcase.html" class="no-external">
+<p><img loading="lazy" src="./posts/said.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/CDRC Research Showcase.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/CDRC Research Showcase.html">
 <h3 class="no-anchor listing-title">
-CDRC Data &amp; Geodemographics Event
+<a href="./posts/CDRC Research Showcase.html" class="no-external">CDRC Data &amp; Geodemographics Event</a>
 </h3>
 <div class="listing-subtitle">
-Said Business School, Oxford, UK
+<a href="./posts/CDRC Research Showcase.html" class="no-external">Said Business School, Oxford, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -438,29 +514,28 @@ data
 retail
 </div>
 </div>
-<a href="./posts/CDRC Research Showcase.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/CDRC Research Showcase.html">
+<a href="./posts/CDRC Research Showcase.html" class="no-external">
 <div class="listing-date">
 Oct 13, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="geographic data science,data,education" data-listing-date-sort="1696374000000" data-listing-file-modified-sort="1724144762420" data-listing-reading-time-sort="1.025">
+<div class="quarto-post image-right" data-index="9" data-categories="geographic data science,data,education" data-listing-date-sort="1696374000000" data-listing-file-modified-sort="1729240048425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
 <div class="thumbnail">
-<p><a href="./posts/Away Day - GDSL.html"> <img src="./posts/lab.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Away Day - GDSL.html" class="no-external"></a></p><a href="./posts/Away Day - GDSL.html" class="no-external">
+<p><img loading="lazy" src="./posts/lab.jpeg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Away Day - GDSL.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Away Day - GDSL.html">
 <h3 class="no-anchor listing-title">
-GDSL Away Day
+<a href="./posts/Away Day - GDSL.html" class="no-external">GDSL Away Day</a>
 </h3>
 <div class="listing-subtitle">
-Liverpool Bluecoat, Liverpool, UK
+<a href="./posts/Away Day - GDSL.html" class="no-external">Liverpool Bluecoat, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -472,29 +547,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/Away Day - GDSL.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Away Day - GDSL.html">
+<a href="./posts/Away Day - GDSL.html" class="no-external">
 <div class="listing-date">
 Oct 4, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="geographic data science,data,education" data-listing-date-sort="1694991600000" data-listing-file-modified-sort="1724144837904" data-listing-reading-time-sort="1.43">
+<div class="quarto-post image-right" data-index="10" data-categories="geographic data science,data,education" data-listing-date-sort="1694991600000" data-listing-file-modified-sort="1729240048540" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <div class="thumbnail">
-<p><a href="./posts/GIScience 2023.html"> <img src="./posts/gi-location.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/GIScience 2023.html" class="no-external"></a></p><a href="./posts/GIScience 2023.html" class="no-external">
+<p><img loading="lazy" src="./posts/gi-location.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/GIScience 2023.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/GIScience 2023.html">
 <h3 class="no-anchor listing-title">
-GIScience Bi-Annual Conference
+<a href="./posts/GIScience 2023.html" class="no-external">GIScience Bi-Annual Conference</a>
 </h3>
 <div class="listing-subtitle">
-University of Leeds, Leeds, UK
+<a href="./posts/GIScience 2023.html" class="no-external">University of Leeds, Leeds, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -506,29 +580,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/GIScience 2023.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/GIScience 2023.html">
+<a href="./posts/GIScience 2023.html" class="no-external">
 <div class="listing-date">
 Sep 18, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="geographic data science,data,retail" data-listing-date-sort="1689289200000" data-listing-file-modified-sort="1724145009542" data-listing-reading-time-sort="1.265">
+<div class="quarto-post image-right" data-index="11" data-categories="geographic data science,data,retail" data-listing-date-sort="1689289200000" data-listing-file-modified-sort="1729240049316" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="253">
 <div class="thumbnail">
-<p><a href="./posts/Westminster.html"> <img src="./posts/street.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Westminster.html" class="no-external"></a></p><a href="./posts/Westminster.html" class="no-external">
+<p><img loading="lazy" src="./posts/street.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Westminster.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Westminster.html">
 <h3 class="no-anchor listing-title">
-Repurposing City Centres Symposium
+<a href="./posts/Westminster.html" class="no-external">Repurposing City Centres Symposium</a>
 </h3>
 <div class="listing-subtitle">
-University of Westminster, London
+<a href="./posts/Westminster.html" class="no-external">University of Westminster, London</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -540,29 +613,28 @@ data
 retail
 </div>
 </div>
-<a href="./posts/Westminster.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Westminster.html">
+<a href="./posts/Westminster.html" class="no-external">
 <div class="listing-date">
 Jul 14, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="geographic data science,data,transport" data-listing-date-sort="1686783600000" data-listing-file-modified-sort="1724144957694" data-listing-reading-time-sort="1.43">
+<div class="quarto-post image-right" data-index="12" data-categories="geographic data science,data,transport" data-listing-date-sort="1686783600000" data-listing-file-modified-sort="1729240048928" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <div class="thumbnail">
-<p><a href="./posts/KRIHS2023.html"> <img src="./posts/korea2.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/KRIHS2023.html" class="no-external"></a></p><a href="./posts/KRIHS2023.html" class="no-external">
+<p><img loading="lazy" src="./posts/korea2.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/KRIHS2023.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/KRIHS2023.html">
 <h3 class="no-anchor listing-title">
-Korea Research Visit
+<a href="./posts/KRIHS2023.html" class="no-external">Korea Research Visit</a>
 </h3>
 <div class="listing-subtitle">
-Seoul, South Korea
+<a href="./posts/KRIHS2023.html" class="no-external">Seoul, South Korea</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -574,29 +646,28 @@ data
 transport
 </div>
 </div>
-<a href="./posts/KRIHS2023.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/KRIHS2023.html">
+<a href="./posts/KRIHS2023.html" class="no-external">
 <div class="listing-date">
 Jun 15, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="geographic data science,urban analytics,policy" data-listing-date-sort="1684796400000" data-listing-file-modified-sort="1724144970390" data-listing-reading-time-sort="2.82">
+<div class="quarto-post image-right" data-index="13" data-categories="geographic data science,urban analytics,policy" data-listing-date-sort="1684796400000" data-listing-file-modified-sort="1729240048933" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
 <div class="thumbnail">
-<p><a href="./posts/LCRCA.html"> <img src="./posts/lcr.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/LCRCA.html" class="no-external"></a></p><a href="./posts/LCRCA.html" class="no-external">
+<p><img loading="lazy" src="./posts/lcr.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/LCRCA.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/LCRCA.html">
 <h3 class="no-anchor listing-title">
-A Month in the Life of a Consultant
+<a href="./posts/LCRCA.html" class="no-external">A Month in the Life of a Consultant</a>
 </h3>
 <div class="listing-subtitle">
-Liverpool City Region, Liverpool, UK
+<a href="./posts/LCRCA.html" class="no-external">Liverpool City Region, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -608,29 +679,28 @@ urban analytics
 policy
 </div>
 </div>
-<a href="./posts/LCRCA.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/LCRCA.html">
+<a href="./posts/LCRCA.html" class="no-external">
 <div class="listing-date">
 May 23, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="geographic data science,data,education" data-listing-date-sort="1682031600000" data-listing-file-modified-sort="1724144861342" data-listing-reading-time-sort="1.43">
+<div class="quarto-post image-right" data-index="14" data-categories="geographic data science,data,education" data-listing-date-sort="1682031600000" data-listing-file-modified-sort="1729240048537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <div class="thumbnail">
-<p><a href="./posts/GISRUK2023.html"> <img src="./posts/cone.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/GISRUK2023.html" class="no-external"></a></p><a href="./posts/GISRUK2023.html" class="no-external">
+<p><img loading="lazy" src="./posts/cone.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/GISRUK2023.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/GISRUK2023.html">
 <h3 class="no-anchor listing-title">
-GISRUK Annual Conference
+<a href="./posts/GISRUK2023.html" class="no-external">GISRUK Annual Conference</a>
 </h3>
 <div class="listing-subtitle">
-University of Glasgow, Glasgow, UK
+<a href="./posts/GISRUK2023.html" class="no-external">University of Glasgow, Glasgow, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -642,29 +712,28 @@ data
 education
 </div>
 </div>
-<a href="./posts/GISRUK2023.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/GISRUK2023.html">
+<a href="./posts/GISRUK2023.html" class="no-external">
 <div class="listing-date">
 Apr 21, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="geographic data science,retail,education" data-listing-date-sort="1678060800000" data-listing-file-modified-sort="1724144997045" data-listing-reading-time-sort="4.44">
+<div class="quarto-post image-right" data-index="15" data-categories="geographic data science,retail,education" data-listing-date-sort="1678060800000" data-listing-file-modified-sort="1729240049076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="888">
 <div class="thumbnail">
-<p><a href="./posts/PhD.html"> <img src="./posts/def.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/PhD.html" class="no-external"></a></p><a href="./posts/PhD.html" class="no-external">
+<p><img loading="lazy" src="./posts/def.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/PhD.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/PhD.html">
 <h3 class="no-anchor listing-title">
-I got a PhD!!
+<a href="./posts/PhD.html" class="no-external">I got a PhD!!</a>
 </h3>
 <div class="listing-subtitle">
-Blackburne House, Liverpool, UK
+<a href="./posts/PhD.html" class="no-external">Blackburne House, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -676,29 +745,28 @@ retail
 education
 </div>
 </div>
-<a href="./posts/PhD.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/PhD.html">
+<a href="./posts/PhD.html" class="no-external">
 <div class="listing-date">
 Mar 6, 2023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="geographic data science,COVID-19,data" data-listing-date-sort="1668384000000" data-listing-file-modified-sort="1724144933645" data-listing-reading-time-sort="0.78">
+<div class="quarto-post image-right" data-index="16" data-categories="geographic data science,COVID-19,data" data-listing-date-sort="1668384000000" data-listing-file-modified-sort="1729240048926" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
 <div class="thumbnail">
-<p><a href="./posts/KRIHS2022.html"> <img src="./posts/Ad.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/KRIHS2022.html" class="no-external"></a></p><a href="./posts/KRIHS2022.html" class="no-external">
+<p><img loading="lazy" src="./posts/Ad.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/KRIHS2022.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/KRIHS2022.html">
 <h3 class="no-anchor listing-title">
-Research Exchange with Korean Collaborators
+<a href="./posts/KRIHS2022.html" class="no-external">Research Exchange with Korean Collaborators</a>
 </h3>
 <div class="listing-subtitle">
-Liverpool Science Park, Liverpool, UK
+<a href="./posts/KRIHS2022.html" class="no-external">Liverpool Science Park, Liverpool, UK</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -710,29 +778,28 @@ COVID-19
 data
 </div>
 </div>
-<a href="./posts/KRIHS2022.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/KRIHS2022.html">
+<a href="./posts/KRIHS2022.html" class="no-external">
 <div class="listing-date">
 Nov 14, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="geographic data science,geodemographics,retail" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1724144780874" data-listing-reading-time-sort="1.34">
+<div class="quarto-post image-right" data-index="17" data-categories="geographic data science,geodemographics,retail" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1729240048483" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
 <div class="thumbnail">
-<p><a href="./posts/CARTO2022.html"> <img src="./posts/goog.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/CARTO2022.html" class="no-external"></a></p><a href="./posts/CARTO2022.html" class="no-external">
+<p><img loading="lazy" src="./posts/goog.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/CARTO2022.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/CARTO2022.html">
 <h3 class="no-anchor listing-title">
-CARTO Spatial Data Science Conference
+<a href="./posts/CARTO2022.html" class="no-external">CARTO Spatial Data Science Conference</a>
 </h3>
 <div class="listing-subtitle">
-Google HQ, Chelsea, NY
+<a href="./posts/CARTO2022.html" class="no-external">Google HQ, Chelsea, NY</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -744,29 +811,28 @@ geodemographics
 retail
 </div>
 </div>
-<a href="./posts/CARTO2022.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/CARTO2022.html">
+<a href="./posts/CARTO2022.html" class="no-external">
 <div class="listing-date">
 Oct 24, 2022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="geographic data science,urban analytics,education" data-listing-date-sort="1663196400000" data-listing-file-modified-sort="1724144889706" data-listing-reading-time-sort="0.935">
+<div class="quarto-post image-right" data-index="18" data-categories="geographic data science,urban analytics,education" data-listing-date-sort="1663196400000" data-listing-file-modified-sort="1729240048916" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="187">
 <div class="thumbnail">
-<p><a href="./posts/Japan2022.html"> <img src="./posts/view.jpg" class="thumnail-image"> </a></p>
+<p><a href="./posts/Japan2022.html" class="no-external"></a></p><a href="./posts/Japan2022.html" class="no-external">
+<p><img loading="lazy" src="./posts/view.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Japan2022.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Japan2022.html">
 <h3 class="no-anchor listing-title">
-Japan Research Visit
+<a href="./posts/Japan2022.html" class="no-external">Japan Research Visit</a>
 </h3>
 <div class="listing-subtitle">
-Ritsumeikan University, Kyoto, Japan
+<a href="./posts/Japan2022.html" class="no-external">Ritsumeikan University, Kyoto, Japan</a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('geographic data science'); return false;">
 geographic data science
@@ -778,10 +844,9 @@ urban analytics
 education
 </div>
 </div>
-<a href="./posts/Japan2022.html"> </a>
 </div>
 <div class="metadata">
-<a href="./posts/Japan2022.html">
+<a href="./posts/Japan2022.html" class="no-external">
 <div class="listing-date">
 Sep 15, 2022
 </div>
@@ -820,12 +885,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -834,17 +902,73 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -854,8 +978,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -867,31 +1000,286 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
