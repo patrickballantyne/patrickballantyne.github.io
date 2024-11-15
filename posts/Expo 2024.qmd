@@ -1,6 +1,6 @@
 ---
 title: "Smart City Expo 2024"
-date: "2024-11-02-05"
+date: "2024-11-05"
 author: [Patrick Ballantyne]
 categories: [geographic data science, innovation, policy, outreach]
 subtitle: "Fira Barcelona, Barcelona, Spain"
