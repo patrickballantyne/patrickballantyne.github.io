@@ -98,228 +98,46 @@
     "text": "GIScience Bi-Annual Conference 2023\nAnnual conference showcasing cutting edge research in the field of GIScience. This year’s conference was hosted at the University of Leeds, with highlights including the Equitable and Sustainable Transport workshop, keynotes from Linda See, Sarah Williams and Joao Porto de Albuquerque, as well as a large number of posters and presentations.\n\nThe 12-15th September saw the 12th International Conference on Geographic Information Science, hosted at the University of Leeds.\nThis year I got the opportunity to present in the Equitable Accessibility and Sustainable Mobility Workshop, which was held as part of the pre-conference workshops. It was a thought-provoking day, where we got to learn about all the cool pieces of research and tools that are emerging in this area. A highlight for me was finally getting some hands on experience with r5r. I’m leaving much more inspired to carve out my own research narrative in this exciting theme.\nI really enjoyed learning about methodological innovation at GIScience. This is an area I have had limited exposure to, so it was interesting to see all the cool approaches to problems people in the GIScience community were working on. A really common theme emerging in lots of the presentations was this idea of how these different methodological innovations can be translated into real-world impact.\nAt GIScience I made lots of new friends, and was reunited with faces i’ve not seen for a while. It was an excellent networking opportunity for me as an early-career researcher, and I thank the conference committee for providing lots of space in the week to have these informal chats and beers.\nA huge kudos to Lex, Nick and Alison for a superb week at GIScience - a conference I’m definitely adding to my list for the future!\n\n\n\nPhotos"
   },
   {
-    "objectID": "posts/CDRC Research Showcase.html",
-    "href": "posts/CDRC Research Showcase.html",
-    "title": "CDRC Data & Geodemographics Event",
+    "objectID": "posts/Eurovision.html",
+    "href": "posts/Eurovision.html",
+    "title": "New Eurovision Policy Brief",
     "section": "",
-    "text": "CDRC Data & Geodemographics Event\nCDRC Annual Partner Engagement event, held at the fantastic Said Business School, University of Oxford. The conference showcased cutting edge research and partnerships being developed in the CDRC, including the latest iteration of the Output Area Classification, research on the 24-hour city and a keynote from Crispin Ollington about the utility of Geodemographics for marketing.\n\nOn the 13th October I attended the annual CDRC partner engagement event, held at the Said Business School, University of Oxford. Alongside Hamish Gibbs (UCL), I presented our latest research on the use of Smart Data to examine changing work from home behaviours over the last couple of censuses. The research, which is imminently awaiting release at The Geographical Journal, harmonises census data and google mobility data for Local Authority Districts, and asks whether new forms of data can replace the census, through examining changing work from home behaviours, and social and spatial inequalities in working from home. The slides for my talk are available here.\nThe conference is a great opportunity to experience a more ‘commercial’ side of academia, catching up with CDRC partners like Geolytix, Homes for England and Pets at Home, and enjoying a series of talks on Data and Geodemographics. A particular highlight for me was the real appetite for the latest Output Area Classification (OAC) and the innovative ways in which Geodemographics have been used to support better marketing for theatre shows like The Book of Mormon.\nThanks to the CDRC for another fantastic event - especially Paul, Alex, James, Rebecca and Jonathan.\n\n\n\nPhotos"
+    "text": "Together with colleagues from the Department of Music, we have put together a policy brief about the economic impact of Eurovision in Liverpool. The policy brief uses high resolution consumer transaction data from Mastercard to explore spatio-temporal trends in spending during Eurovision, when it was hosted in the City of Liverpool in 2023."
   },
   {
-    "objectID": "posts/Away Day - GDSL.html",
-    "href": "posts/Away Day - GDSL.html",
-    "title": "GDSL Away Day",
+    "objectID": "posts/Eurovision.html#eurovisions-economic-impact-in-liverpool-insights-for-future-large-scale-events",
+    "href": "posts/Eurovision.html#eurovisions-economic-impact-in-liverpool-insights-for-future-large-scale-events",
+    "title": "New Eurovision Policy Brief",
+    "section": "Eurovision’s Economic Impact in Liverpool: Insights for Future Large-Scale Events",
+    "text": "Eurovision’s Economic Impact in Liverpool: Insights for Future Large-Scale Events\nA year on from Liverpool hosting Eurovision, and just 2 weeks before Taylor Swift’s huge Anfield gigs, our new policy brief uses spending data from Mastercard to highlight new insights into the economic impact of mega events. it demonstrates the spatial and sectoral economic impacts of Eurovision 2023, building on work completed by Liverpool City Council, Liverpool City Region and the Heseltine Institute for Public Policy. Results demonstrated that Eurovision 2023 generated significant uplifts in spending in bars and restaurants, and created a hyper-localised ‘boom’ in spending in the area surrounding the Eurovision Village. These insights can help to inform decision-making about the location of mega events and their impact on local economies, and the design of fringe events which can support local businesses. Furthermore, the methodology employed here demonstrates the value of data partnerships with private companies and could be used to assess the economic impact of future mega events such as the UK leg of Taylor Swift’s Eras tour."
+  },
+  {
+    "objectID": "posts/Eurovision.html#heseltine-policy-brief",
+    "href": "posts/Eurovision.html#heseltine-policy-brief",
+    "title": "New Eurovision Policy Brief",
+    "section": "Heseltine Policy Brief",
+    "text": "Heseltine Policy Brief\nOur policy brief is part of the ‘Policy in an Age of Uncertainty’ series of Heseltine Institute Policy Briefs, and is available to read using this link."
+  },
+  {
+    "objectID": "posts/CARTO2022.html",
+    "href": "posts/CARTO2022.html",
+    "title": "CARTO Spatial Data Science Conference",
     "section": "",
-    "text": "GDSL Away Day\nAnnual Geographic Data Science Lab Away Day held at the Bluecoat in Liverpool. A great opportunity for new students and staff to get to know eachother. We held a series of lightning talks to get to know eachother (and some fun facts), followed by beers in Kazimier Garden into the evening.\n\nThe 4th October saw the Geographic Data Science Lab, staff and students, head ‘down the hill’ to the Bluecoat in Liverpool City Centre for an ‘Away Day’. Organised by our excellent lab leads Francisco and Elisabetta, we each presented a few slides about ourselves, our research and a fun fact (unless you were a subject to the postdoc-powerpoint curse haha). We enjoyed tea, coffee and cake throughout the afternoon, and even got time for a lab photo in the glorious sunshine! Over the summer, a number of new colleagues and PhD students have started with us, so this was an excellent opportunity for them to get to know everyone, and learn abit more about what make the GDSL a great place to work!\nIn true GDSL tradition, we finished the day with a few beers in Kazimier Garden, where we were treated to excellent craft beers, fried chicken and live music. Long live the GDSL!!\n\n\n\nPhotos"
+    "text": "A gathering of Data Science, Advanced Analytics and GIS experts from across the globe, bringing together a host of businesses and organizations asking important location-based questions about our cities, for commercial impact and most importantly for sustainability.\n\nThe CARTO Spatial Data Science Conference, sponsored by large geospatial data companies like AWS, Google, SafeGraph and Snowflake, represents one of the biggest calendar events for enthusiasts of spatial data around the world, consisting of a day of workshops on the 19th October, and a full day conference on the 20th.\nI represented the GDSL and CDRC, bringing the research that these organisations do to a wide audience of practitioners in Spatial Data Science. In particular, I delivered a workshop entitled “Retail and Geodemographics: A Spatial Data Science Approach” to a room full of over 100 people at Google HQ in Chelsea, NY.\nThe workshop introduced lots of exciting sources of Digital Footprints data, such as SafeGraph’s excellent places database, and a national geodemographic classification of U.S. census tracts, based on published academic research by Alex Singleton (University of Liverpool) and Seth Spielman (Microsoft), demonstrating how we can use geodemographics to better understand the characteristics store catchments.\nThe conference was an excellent opportunity for me to engage with industry practitioners and large geospatial companies, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything NY has to offer."
   },
   {
-    "objectID": "posts/30DayMapChallenge.html",
-    "href": "posts/30DayMapChallenge.html",
-    "title": "30DayMapChallenge",
+    "objectID": "posts/CARTO2022.html#section",
+    "href": "posts/CARTO2022.html#section",
+    "title": "CARTO Spatial Data Science Conference",
     "section": "",
-    "text": "My entry to this year’s 30DayMapChallenge - Newcastle really is the home of Greggs (or is it?)\n\nNovember sees the return of the #30DayMapChallenge for 2023. This year’s categories include the usual geo topics like points, polygons, hexagons and OpenStreetMap, but there are some new fun ones like ‘North is not always up’, ‘retro’ and ‘my favourite…’. At the GDSL we are taking part in the map challenge, with a PhD student or member of staff taking on the challenge each day."
+    "text": "More Information\nThe workshop materials and presentation can be found on the GitHub repository created for the workshop.\nFor details on the rest of the Spatial Data Science Conference, check out the full list of talks and speakers."
   },
   {
-    "objectID": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
-    "href": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
-    "title": "30DayMapChallenge",
-    "section": "Newcastle really is the home of Greggs.",
-    "text": "Newcastle really is the home of Greggs.\nThis year, I took on the first map of the month - ‘points’. I’ve been doing lots of work with new POI data from Overture, specifically around how reliable the data is for retail applications, and the utility of Overture data for small-area accessibility measurement. I have a pre-print out on the topic too, which you can read here.\nThe map takes POI data from Overture, filters to Greggs stores and maps the distribution of these in Newcastle City Centre. I have also integrated CDRC retail centre boundaries and some other spatial data to improve the design of the map. You can see the code used to produce this map here."
-  },
-  {
-    "objectID": "papers/p8.html",
-    "href": "papers/p8.html",
-    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
+    "objectID": "posts/AAG2024.html",
+    "href": "posts/AAG2024.html",
+    "title": "American Association of Geographers Conference",
     "section": "",
-    "text": "Spatial inequality is a common urban phenomena in cities around the world, where stark contrasts in a variety of different social and economic outcomes paint a vivid picture of compound inequalities. Tackling these influences from a policy perspective remains challenging, as political economies often span multiple actors and municipal bodies, lacking effective policy instruments to challenge multiple forms of inequality at once. This paper provides a new data-driven perspective, which seeks to improve how policy is developed when trying to mitigate the impacts of compound inequality. Utilising a place-based approach, we present an evidence base which has been co-produced with policymakers, comprising composite spatial indicators and a city dashboard for Liverpool City Region. The assembled evidence base highlights clear patterns of compound inequality across the region, identifying places in greatest need of support. In the paper we discuss how this evidence base is now being used to distribute investment from the City Region Sustainable Transport Settlements, generating positive outcomes for people and places across the region. Finally, we conclude by reflecting on the benefits of building collaborative relationships between academics and policymakers, and the utility of our approach, which uses urban indicators and city dashboards, which we argue can secure a more equitable future for cities globally."
-  },
-  {
-    "objectID": "papers/p8.html#abstract",
-    "href": "papers/p8.html#abstract",
-    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
-    "section": "",
-    "text": "Spatial inequality is a common urban phenomena in cities around the world, where stark contrasts in a variety of different social and economic outcomes paint a vivid picture of compound inequalities. Tackling these influences from a policy perspective remains challenging, as political economies often span multiple actors and municipal bodies, lacking effective policy instruments to challenge multiple forms of inequality at once. This paper provides a new data-driven perspective, which seeks to improve how policy is developed when trying to mitigate the impacts of compound inequality. Utilising a place-based approach, we present an evidence base which has been co-produced with policymakers, comprising composite spatial indicators and a city dashboard for Liverpool City Region. The assembled evidence base highlights clear patterns of compound inequality across the region, identifying places in greatest need of support. In the paper we discuss how this evidence base is now being used to distribute investment from the City Region Sustainable Transport Settlements, generating positive outcomes for people and places across the region. Finally, we conclude by reflecting on the benefits of building collaborative relationships between academics and policymakers, and the utility of our approach, which uses urban indicators and city dashboards, which we argue can secure a more equitable future for cities globally."
-  },
-  {
-    "objectID": "papers/p8.html#full-paper",
-    "href": "papers/p8.html#full-paper",
-    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper has been accepted for publication at Cities."
-  },
-  {
-    "objectID": "papers/p6.html",
-    "href": "papers/p6.html",
-    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
-    "section": "",
-    "text": "This paper provides an analysis of working from home patterns in England using data from the 2021 Census to understand (1) how patterns of working from home (WFH) in England have shifted since the COVID-19 pandemic and (2) whether human mobility indicators, specifically Google Community Mobility Reports, provide a reliable proxy for WFH patterns recorded by the 2021 Census, providing a formal evaluation of the reliability of such datasets, whose applications have grown exponentially over the COVID-19 pandemic. We find that WFH patterns recorded by the 2021 Census were unique compared with previous UK censuses, reflecting an unprecedented increase likely caused by persistent changes to employment during the COVID-19 pandemic, with a clear social gradient emerging across the country. We also find that Google mobility in ‘Residential’ and ‘Workplace’ settings provides a reliable measurement of the distribution of WFH populations across Local Authorities, with varying uncertainties for mobility indicators collected in different settings. These findings provide insights into the utility of such datasets to support population research in intercensal periods, where shifts may be occurring, but can be difficult to quantify empirically."
-  },
-  {
-    "objectID": "papers/p6.html#abstract",
-    "href": "papers/p6.html#abstract",
-    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
-    "section": "",
-    "text": "This paper provides an analysis of working from home patterns in England using data from the 2021 Census to understand (1) how patterns of working from home (WFH) in England have shifted since the COVID-19 pandemic and (2) whether human mobility indicators, specifically Google Community Mobility Reports, provide a reliable proxy for WFH patterns recorded by the 2021 Census, providing a formal evaluation of the reliability of such datasets, whose applications have grown exponentially over the COVID-19 pandemic. We find that WFH patterns recorded by the 2021 Census were unique compared with previous UK censuses, reflecting an unprecedented increase likely caused by persistent changes to employment during the COVID-19 pandemic, with a clear social gradient emerging across the country. We also find that Google mobility in ‘Residential’ and ‘Workplace’ settings provides a reliable measurement of the distribution of WFH populations across Local Authorities, with varying uncertainties for mobility indicators collected in different settings. These findings provide insights into the utility of such datasets to support population research in intercensal periods, where shifts may be occurring, but can be difficult to quantify empirically."
-  },
-  {
-    "objectID": "papers/p6.html#full-paper",
-    "href": "papers/p6.html#full-paper",
-    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal."
-  },
-  {
-    "objectID": "papers/p4.html",
-    "href": "papers/p4.html",
-    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
-    "section": "",
-    "text": "Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors."
-  },
-  {
-    "objectID": "papers/p4.html#abstract",
-    "href": "papers/p4.html#abstract",
-    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
-    "section": "",
-    "text": "Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors."
-  },
-  {
-    "objectID": "papers/p4.html#full-paper",
-    "href": "papers/p4.html#full-paper",
-    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal"
-  },
-  {
-    "objectID": "papers/p2.html",
-    "href": "papers/p2.html",
-    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
-    "section": "",
-    "text": "Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends."
-  },
-  {
-    "objectID": "papers/p2.html#abstract",
-    "href": "papers/p2.html#abstract",
-    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
-    "section": "",
-    "text": "Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends."
-  },
-  {
-    "objectID": "papers/p2.html#full-paper",
-    "href": "papers/p2.html#full-paper",
-    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at Regional Studies, Regional Science"
-  },
-  {
-    "objectID": "listings.html",
-    "href": "listings.html",
-    "title": "blog",
-    "section": "",
-    "text": "Innovate UK Trip\n\n\nBusan, South Korea\n\n\n\ngeographic data science\n\n\ndata\n\n\npolicy\n\n\ninnovation\n\n\n\n\n\n\nSep 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInternational Geographical Congress 2024\n\n\nDublic College University, Dublin, Ireland\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\neducation\n\n\n\n\n\n\nSep 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nGrant Success! New Innovate UK Digital Twin Project\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\ntransport\n\n\n\n\n\n\nJun 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R for Policy\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\npolicy\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nMay 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew Eurovision Policy Brief\n\n\nHeseltine Institute for Public Policy & Practice, Liverpool, UK\n\n\n\npolicy\n\n\ndata\n\n\nretail\n\n\ngeographic data science\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Association of Geographers Conference\n\n\nHonolulu, Hawaii\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nApr 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nApplications of GIS MSc Talk\n\n\nUniversity of Sheffield, Sheffield, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nNov 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n30DayMapChallenge\n\n\nUniversity of Liverpool, Liverpool, UK\n\n\n\ndata\n\n\ngeographic data\n\n\nretail\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCDRC Data & Geodemographics Event\n\n\nSaid Business School, Oxford, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n\n\n\n\nOct 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGDSL Away Day\n\n\nLiverpool Bluecoat, Liverpool, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGIScience Bi-Annual Conference\n\n\nUniversity of Leeds, Leeds, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nRepurposing City Centres Symposium\n\n\nUniversity of Westminster, London\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n\n\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nKorea Research Visit\n\n\nSeoul, South Korea\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nA Month in the Life of a Consultant\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGISRUK Annual Conference\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nI got a PhD!!\n\n\nBlackburne House, Liverpool, UK\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Exchange with Korean Collaborators\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCARTO Spatial Data Science Conference\n\n\nGoogle HQ, Chelsea, NY\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nJapan Research Visit\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#education-and-affiliations",
-    "href": "about.html#education-and-affiliations",
-    "title": "Patrick Ballantyne - About Me",
-    "section": "Education and Affiliations",
-    "text": "Education and Affiliations\n\n\n\n\n\n\n\n\nDate\nRole\nInstitution\n\n\n\n\nJune 2022 - present\nPostdoctoral Researcher in Geographic Data Science\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2018 - Dec 2022\nPhD Student in Data Analytics and Society\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2015 - Jul 2018\nBSc in Physical Geography\nDept of Geography & Planning, University of Liverpool"
-  },
-  {
-    "objectID": "about.html#hobbies-and-interests",
-    "href": "about.html#hobbies-and-interests",
-    "title": "Patrick Ballantyne - About Me",
-    "section": "Hobbies and Interests",
-    "text": "Hobbies and Interests\n\nRunning\nI am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends.\nDuring lockdown, I completed the ‘Couch to 5k’ challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon.\n\n\n\n\n\n\n\n\nMusic\nMusic is a big part of my life. I grew up learning the fiddle and banjo, competing at international competitions or ‘fleadhs’ and touring the UK and Ireland in 2016 to commemorate 100 years since the Easter Rising.\nNow, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK. I also play regularly in and around pubs in Liverpool, and volunteer as secretary or ‘runai’ for Comhaltas in Britain, helping to promote irish traditional music, song and dance throughout the country.\n\n\n\n\n\n\n\n\nFoodie\nI love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts.\nSome of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso."
-  },
-  {
-    "objectID": "index.html#who-am-i",
-    "href": "index.html#who-am-i",
-    "title": "Dr. Patrick Ballantyne",
-    "section": "Who Am I?",
-    "text": "Who Am I?\nPatrick is a Geographic Information Scientist who seeks to generate new and important insights about cities and regions, with a particular emphasis on processes and dynamics related to:\nRetailing, Retail Spaces & Consumer Behaviour\nTransport Geography, Infrastructure Planning & 15-Minute Cities\nSpatial Inequality, Place-Based Policy and Digital Planning\nHis research harnesses cutting-edge methodologies, various forms of spatial and non-spatial data, and partnerships with public and private sector organisations to answer interesting and impactful research questions. He is particularly passionate about developing accessible research outputs and tools, which when underpinned by sophisticated data and models can be used to support effective decision-making in policy settings."
-  },
-  {
-    "objectID": "papers/p1.html",
-    "href": "papers/p1.html",
-    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
-    "section": "",
-    "text": "Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with ‘H3’, and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre ‘health’, demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail."
-  },
-  {
-    "objectID": "papers/p1.html#abstract",
-    "href": "papers/p1.html#abstract",
-    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
-    "section": "",
-    "text": "Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with ‘H3’, and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre ‘health’, demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail."
-  },
-  {
-    "objectID": "papers/p1.html#full-paper",
-    "href": "papers/p1.html#full-paper",
-    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at Environment and Planning B: Urban Analytics and City Science"
-  },
-  {
-    "objectID": "papers/p3.html",
-    "href": "papers/p3.html",
-    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
-    "section": "",
-    "text": "Retail is an important function at the core of urban areas, occupying a key role in determining their economic prosperity, desirability, and vibrancy. Efforts to understand the geographies of retail centers, the cores of retailing in urban areas, have a long academic tradition, often studied through either rich local case studies, or when geographically more expansive, are constrained by limited detail. New data in United States detailing the location and uses of retail creates a significant opportunity to develop a more complete and comprehensive overview of the national retail system, at a high spatial resolution. This research is rooted in a pragmatic effort to provide the first and most comprehensive model of U.S. retail center geographies, through development of an integrated, conceptual, and empirically grounded framework, using data from SafeGraph, to examine where they are located, what characteristics they have, and who uses them. The resulting geographies are of great interest, creating significant potential in the monitoring of the national retail system as it continues to evolve in response to wider structural challenges. Furthermore, by integrating these three geographies (where, what, and who), we establish a conceptual framework that yields substantive insights about the relationships between each of them, and argues that understandings of U.S. retail center geographies are more comprehensive and useful when considering the who, what, and where together."
-  },
-  {
-    "objectID": "papers/p3.html#abstract",
-    "href": "papers/p3.html#abstract",
-    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
-    "section": "",
-    "text": "Retail is an important function at the core of urban areas, occupying a key role in determining their economic prosperity, desirability, and vibrancy. Efforts to understand the geographies of retail centers, the cores of retailing in urban areas, have a long academic tradition, often studied through either rich local case studies, or when geographically more expansive, are constrained by limited detail. New data in United States detailing the location and uses of retail creates a significant opportunity to develop a more complete and comprehensive overview of the national retail system, at a high spatial resolution. This research is rooted in a pragmatic effort to provide the first and most comprehensive model of U.S. retail center geographies, through development of an integrated, conceptual, and empirically grounded framework, using data from SafeGraph, to examine where they are located, what characteristics they have, and who uses them. The resulting geographies are of great interest, creating significant potential in the monitoring of the national retail system as it continues to evolve in response to wider structural challenges. Furthermore, by integrating these three geographies (where, what, and who), we establish a conceptual framework that yields substantive insights about the relationships between each of them, and argues that understandings of U.S. retail center geographies are more comprehensive and useful when considering the who, what, and where together."
-  },
-  {
-    "objectID": "papers/p3.html#full-paper",
-    "href": "papers/p3.html#full-paper",
-    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at Annals of the American Association of Geographers"
-  },
-  {
-    "objectID": "papers/p5 .html",
-    "href": "papers/p5 .html",
-    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
-    "section": "",
-    "text": "The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector."
-  },
-  {
-    "objectID": "papers/p5 .html#abstract",
-    "href": "papers/p5 .html#abstract",
-    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
-    "section": "",
-    "text": "The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector."
-  },
-  {
-    "objectID": "papers/p5 .html#full-paper",
-    "href": "papers/p5 .html#full-paper",
-    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at Urban Informatics."
-  },
-  {
-    "objectID": "papers/p7.html",
-    "href": "papers/p7.html",
-    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
-    "section": "",
-    "text": "Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail."
-  },
-  {
-    "objectID": "papers/p7.html#abstract",
-    "href": "papers/p7.html#abstract",
-    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
-    "section": "",
-    "text": "Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail."
-  },
-  {
-    "objectID": "papers/p7.html#full-paper",
-    "href": "papers/p7.html#full-paper",
-    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
-    "section": "Full Paper",
-    "text": "Full Paper\nThe full paper is published and available open-access at Environment and Planning B."
+    "text": "AAG 2024 - Honolulu, Hawaii\nMy first time attending the American Association of Geographers (AAG) conference, and this year it was taking place in Honolulu, Hawaii. I organised and chaired a number of sessions, and had a great time reconnecting with old colleagues and friends, and making lots of new ones too!\n\n\nThe 16th - 20th April saw the return of the Annual American Association of Geographers Conference, this year taking place in the stunning setting of Honolulu, Hawaii.\nThis year I took it upon myself to provide a platform for researchers using spatial data and spatial data science techniques to advance policy. Together with Prof. Rachel Franklin and Prof. Alex Singleton we put together three sessions entitled - “Geography and Data Science for Public Good: Data-Driven Evidence and Solutions to Social and Spatial Inequalities”. The abstract call invited participants to present their research which leverages the power of Geography, Data Science and GIS to unearth new evidence about the existence of social and spatial inequalities, and support policy to mitigate the impacts of social and spatial inequalities.\nWe were delighted to receive such a large volume of abstracts, and as such were able to put on three sessions to showcase the best in policy-focused, data-driven geographic research, as listed below:\n\n\nI also delivered a talk in these sessions, summarising two recent projects that I have completed in partnership with Liverpool City Region Combined Authority. The talk was focused on how we can build and customised urban indicators to meet policy-specific needs, and the utility of urban indicators and city dashboards for place-based policymaking. In the talk, I placed a particular emphasis on highlighting how our evidence is helping to make Liverpool City Region more equitable, and through encouraging improvements to transport infrastructure, it is hoped that our research will also promote further mode shift towards more sustainable modes of transportation. My slides are available to view here.\n \nAs well as having a blast at the conference itself, I also got the opportunity to enjoy everything that Hawaii has to offer. Amazing food, amazing people, amazing hikes and scenery!"
   },
   {
     "objectID": "papers/p9.html",
@@ -343,46 +161,242 @@
     "text": "Full Paper\nThe full paper has been accepted for publication at Computers, Environment and Urban Systems (DOI Pending). The pre-print article can be found using this link."
   },
   {
-    "objectID": "posts/AAG2024.html",
-    "href": "posts/AAG2024.html",
-    "title": "American Association of Geographers Conference",
+    "objectID": "papers/p7.html",
+    "href": "papers/p7.html",
+    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
     "section": "",
-    "text": "AAG 2024 - Honolulu, Hawaii\nMy first time attending the American Association of Geographers (AAG) conference, and this year it was taking place in Honolulu, Hawaii. I organised and chaired a number of sessions, and had a great time reconnecting with old colleagues and friends, and making lots of new ones too!\n\n\nThe 16th - 20th April saw the return of the Annual American Association of Geographers Conference, this year taking place in the stunning setting of Honolulu, Hawaii.\nThis year I took it upon myself to provide a platform for researchers using spatial data and spatial data science techniques to advance policy. Together with Prof. Rachel Franklin and Prof. Alex Singleton we put together three sessions entitled - “Geography and Data Science for Public Good: Data-Driven Evidence and Solutions to Social and Spatial Inequalities”. The abstract call invited participants to present their research which leverages the power of Geography, Data Science and GIS to unearth new evidence about the existence of social and spatial inequalities, and support policy to mitigate the impacts of social and spatial inequalities.\nWe were delighted to receive such a large volume of abstracts, and as such were able to put on three sessions to showcase the best in policy-focused, data-driven geographic research, as listed below:\n\n\nI also delivered a talk in these sessions, summarising two recent projects that I have completed in partnership with Liverpool City Region Combined Authority. The talk was focused on how we can build and customised urban indicators to meet policy-specific needs, and the utility of urban indicators and city dashboards for place-based policymaking. In the talk, I placed a particular emphasis on highlighting how our evidence is helping to make Liverpool City Region more equitable, and through encouraging improvements to transport infrastructure, it is hoped that our research will also promote further mode shift towards more sustainable modes of transportation. My slides are available to view here.\n \nAs well as having a blast at the conference itself, I also got the opportunity to enjoy everything that Hawaii has to offer. Amazing food, amazing people, amazing hikes and scenery!"
+    "text": "Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail."
   },
   {
-    "objectID": "posts/CARTO2022.html",
-    "href": "posts/CARTO2022.html",
-    "title": "CARTO Spatial Data Science Conference",
+    "objectID": "papers/p7.html#abstract",
+    "href": "papers/p7.html#abstract",
+    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
     "section": "",
-    "text": "A gathering of Data Science, Advanced Analytics and GIS experts from across the globe, bringing together a host of businesses and organizations asking important location-based questions about our cities, for commercial impact and most importantly for sustainability.\n\nThe CARTO Spatial Data Science Conference, sponsored by large geospatial data companies like AWS, Google, SafeGraph and Snowflake, represents one of the biggest calendar events for enthusiasts of spatial data around the world, consisting of a day of workshops on the 19th October, and a full day conference on the 20th.\nI represented the GDSL and CDRC, bringing the research that these organisations do to a wide audience of practitioners in Spatial Data Science. In particular, I delivered a workshop entitled “Retail and Geodemographics: A Spatial Data Science Approach” to a room full of over 100 people at Google HQ in Chelsea, NY.\nThe workshop introduced lots of exciting sources of Digital Footprints data, such as SafeGraph’s excellent places database, and a national geodemographic classification of U.S. census tracts, based on published academic research by Alex Singleton (University of Liverpool) and Seth Spielman (Microsoft), demonstrating how we can use geodemographics to better understand the characteristics store catchments.\nThe conference was an excellent opportunity for me to engage with industry practitioners and large geospatial companies, expanding my network and establishing future collaboration opportunities, whilst also giving me the time to explore and enjoy everything NY has to offer."
+    "text": "Point of Interest data that is globally available, open access and of good quality is sparse, despite being important inputs for research in a number of application areas. New data from the Overture Maps Foundation offers significant potential in this arena, but accessing the data relies on computational resources beyond the skillset and capacity of the average researcher. In this article, we provide a processed version of the Overture places (POI) dataset for the UK, in a fully queryable format, and provide accompanying code through which to explore the data, and generate other national subsets. In the article, we describe the construction and characteristics of this new open data product, before evaluating its quality in relation to ISO standards, through direct comparison with Geolytix supermarket data. This dataset can support new and important research projects in a variety of different thematic areas, and foster a network of researchers to further evaluate its advantages and limitations, through validation against other well-established datasets from domains external to retail."
   },
   {
-    "objectID": "posts/CARTO2022.html#section",
-    "href": "posts/CARTO2022.html#section",
-    "title": "CARTO Spatial Data Science Conference",
+    "objectID": "papers/p7.html#full-paper",
+    "href": "papers/p7.html#full-paper",
+    "title": "Overture Point of Interest data for the United Kingdom: A comprehensive, queryable open data product, validated against Geolytix supermarket data",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Environment and Planning B."
+  },
+  {
+    "objectID": "papers/p5 .html",
+    "href": "papers/p5 .html",
+    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
     "section": "",
-    "text": "More Information\nThe workshop materials and presentation can be found on the GitHub repository created for the workshop.\nFor details on the rest of the Spatial Data Science Conference, check out the full list of talks and speakers."
+    "text": "The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector."
   },
   {
-    "objectID": "posts/Eurovision.html",
-    "href": "posts/Eurovision.html",
-    "title": "New Eurovision Policy Brief",
+    "objectID": "papers/p5 .html#abstract",
+    "href": "papers/p5 .html#abstract",
+    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
     "section": "",
-    "text": "Together with colleagues from the Department of Music, we have put together a policy brief about the economic impact of Eurovision in Liverpool. The policy brief uses high resolution consumer transaction data from Mastercard to explore spatio-temporal trends in spending during Eurovision, when it was hosted in the City of Liverpool in 2023."
+    "text": "The COVID-19 pandemic has changed the ways in which we shop, with significant impacts on retail and consumption spaces. Yet, empirical evidence of these impacts, specifically at the national level, or focusing on latter periods of the pandemic remain notably absent. Using a large spatio-temporal mobility dataset, which exhibits significant temporal instability, we explore the recovery of retail centres from summer 2021 to 2022, considering in particular how these responses are determined by the functional and structural characteristics of retail centres and their regional geography. Our findings provide important empirical evidence of the multidimensionality of retail centre recovery, highlighting in particular the importance of composition, e-resilience and catchment deprivation in determining such trajectories, and identifying key retail centre functions and regions that appear to be recovering faster than others. In addition, we present a use case for mobility data that exhibits temporal stability, highlighting the benefits of viewing mobility data as a series of snapshots rather than a complete time series. It is our view that such data, when controlling for temporal stability, can provide a useful way to monitor the economic performance of retail centres over time, providing evidence that can inform policy decisions, and support interventions to both acute and longer-term issues in the retail sector."
   },
   {
-    "objectID": "posts/Eurovision.html#eurovisions-economic-impact-in-liverpool-insights-for-future-large-scale-events",
-    "href": "posts/Eurovision.html#eurovisions-economic-impact-in-liverpool-insights-for-future-large-scale-events",
-    "title": "New Eurovision Policy Brief",
-    "section": "Eurovision’s Economic Impact in Liverpool: Insights for Future Large-Scale Events",
-    "text": "Eurovision’s Economic Impact in Liverpool: Insights for Future Large-Scale Events\nA year on from Liverpool hosting Eurovision, and just 2 weeks before Taylor Swift’s huge Anfield gigs, our new policy brief uses spending data from Mastercard to highlight new insights into the economic impact of mega events. it demonstrates the spatial and sectoral economic impacts of Eurovision 2023, building on work completed by Liverpool City Council, Liverpool City Region and the Heseltine Institute for Public Policy. Results demonstrated that Eurovision 2023 generated significant uplifts in spending in bars and restaurants, and created a hyper-localised ‘boom’ in spending in the area surrounding the Eurovision Village. These insights can help to inform decision-making about the location of mega events and their impact on local economies, and the design of fringe events which can support local businesses. Furthermore, the methodology employed here demonstrates the value of data partnerships with private companies and could be used to assess the economic impact of future mega events such as the UK leg of Taylor Swift’s Eras tour."
+    "objectID": "papers/p5 .html#full-paper",
+    "href": "papers/p5 .html#full-paper",
+    "title": "Using unstable data from mobile phone applications to examine recent trajectories of retail centre recovery",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Urban Informatics."
   },
   {
-    "objectID": "posts/Eurovision.html#heseltine-policy-brief",
-    "href": "posts/Eurovision.html#heseltine-policy-brief",
-    "title": "New Eurovision Policy Brief",
-    "section": "Heseltine Policy Brief",
-    "text": "Heseltine Policy Brief\nOur policy brief is part of the ‘Policy in an Age of Uncertainty’ series of Heseltine Institute Policy Briefs, and is available to read using this link."
+    "objectID": "papers/p3.html",
+    "href": "papers/p3.html",
+    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
+    "section": "",
+    "text": "Retail is an important function at the core of urban areas, occupying a key role in determining their economic prosperity, desirability, and vibrancy. Efforts to understand the geographies of retail centers, the cores of retailing in urban areas, have a long academic tradition, often studied through either rich local case studies, or when geographically more expansive, are constrained by limited detail. New data in United States detailing the location and uses of retail creates a significant opportunity to develop a more complete and comprehensive overview of the national retail system, at a high spatial resolution. This research is rooted in a pragmatic effort to provide the first and most comprehensive model of U.S. retail center geographies, through development of an integrated, conceptual, and empirically grounded framework, using data from SafeGraph, to examine where they are located, what characteristics they have, and who uses them. The resulting geographies are of great interest, creating significant potential in the monitoring of the national retail system as it continues to evolve in response to wider structural challenges. Furthermore, by integrating these three geographies (where, what, and who), we establish a conceptual framework that yields substantive insights about the relationships between each of them, and argues that understandings of U.S. retail center geographies are more comprehensive and useful when considering the who, what, and where together."
+  },
+  {
+    "objectID": "papers/p3.html#abstract",
+    "href": "papers/p3.html#abstract",
+    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
+    "section": "",
+    "text": "Retail is an important function at the core of urban areas, occupying a key role in determining their economic prosperity, desirability, and vibrancy. Efforts to understand the geographies of retail centers, the cores of retailing in urban areas, have a long academic tradition, often studied through either rich local case studies, or when geographically more expansive, are constrained by limited detail. New data in United States detailing the location and uses of retail creates a significant opportunity to develop a more complete and comprehensive overview of the national retail system, at a high spatial resolution. This research is rooted in a pragmatic effort to provide the first and most comprehensive model of U.S. retail center geographies, through development of an integrated, conceptual, and empirically grounded framework, using data from SafeGraph, to examine where they are located, what characteristics they have, and who uses them. The resulting geographies are of great interest, creating significant potential in the monitoring of the national retail system as it continues to evolve in response to wider structural challenges. Furthermore, by integrating these three geographies (where, what, and who), we establish a conceptual framework that yields substantive insights about the relationships between each of them, and argues that understandings of U.S. retail center geographies are more comprehensive and useful when considering the who, what, and where together."
+  },
+  {
+    "objectID": "papers/p3.html#full-paper",
+    "href": "papers/p3.html#full-paper",
+    "title": "Integrating the Who, What and Where of U.S. Retail Center Geographies",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Annals of the American Association of Geographers"
+  },
+  {
+    "objectID": "papers/p1.html",
+    "href": "papers/p1.html",
+    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
+    "section": "",
+    "text": "Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with ‘H3’, and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre ‘health’, demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail."
+  },
+  {
+    "objectID": "papers/p1.html#abstract",
+    "href": "papers/p1.html#abstract",
+    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
+    "section": "",
+    "text": "Retail centres are important tools for understanding the distribution and evolution of the retail sector at varying geographical scales. This paper presents a framework through which formal definitions and typologies of retail centres, such as those in the UK, can be extended to the US. Using Chicago as a case study and data from SafeGraph, we present a retail centre delineation method that combines Hierarchical-DBSCAN with ‘H3’, and demonstrate the usefulness of a non-hierarchical approach to retail classification. In addition, we show that the dynamicity and comprehensibility of retail centres make them an effective tool through which to better understand the impacts of COVID-19 on retail centre ‘health’, demonstrating significant scope for a comprehensive delineation of the scale, extent and characteristics of American retail centre agglomerations, providing a tool through which to monitor the evolution of American retail."
+  },
+  {
+    "objectID": "papers/p1.html#full-paper",
+    "href": "papers/p1.html#full-paper",
+    "title": "A Framework for Delineating the Scale, Extent and Characteristics of American Retail Centre Agglomerations",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Environment and Planning B: Urban Analytics and City Science"
+  },
+  {
+    "objectID": "index.html#who-am-i",
+    "href": "index.html#who-am-i",
+    "title": "Dr. Patrick Ballantyne",
+    "section": "Who Am I?",
+    "text": "Who Am I?\nPatrick is a Geographic Information Scientist who seeks to generate new and important insights about cities and regions, with a particular emphasis on processes and dynamics related to:\nRetailing, Retail Spaces & Consumer Behaviour\nTransport Geography, Infrastructure Planning & 15-Minute Cities\nSpatial Inequality, Place-Based Policy and Digital Planning\nHis research harnesses cutting-edge methodologies, various forms of spatial and non-spatial data, and partnerships with public and private sector organisations to answer interesting and impactful research questions. He is particularly passionate about developing accessible research outputs and tools, which when underpinned by sophisticated data and models can be used to support effective decision-making in policy settings."
+  },
+  {
+    "objectID": "about.html#education-and-affiliations",
+    "href": "about.html#education-and-affiliations",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Education and Affiliations",
+    "text": "Education and Affiliations\n\n\n\n\n\n\n\n\nDate\nRole\nInstitution\n\n\n\n\nJune 2022 - present\nPostdoctoral Researcher in Geographic Data Science\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2018 - Dec 2022\nPhD Student in Data Analytics and Society\nGeographic Data Science Lab, University of Liverpool\n\n\nSept 2015 - Jul 2018\nBSc in Physical Geography\nDept of Geography & Planning, University of Liverpool"
+  },
+  {
+    "objectID": "about.html#hobbies-and-interests",
+    "href": "about.html#hobbies-and-interests",
+    "title": "Patrick Ballantyne - About Me",
+    "section": "Hobbies and Interests",
+    "text": "Hobbies and Interests\n\nRunning\nI am a big fan of running, and can often be found panting and sweating my way around Sefton Park or along the Promenade at the weekends.\nDuring lockdown, I completed the ‘Couch to 5k’ challenge and got completely hooked on running. Last summer I took part in my first half marathon race in Chester, and one day hope to complete a full marathon.\n\n\n\n\n\n\n\n\nMusic\nMusic is a big part of my life. I grew up learning the fiddle and banjo, competing at international competitions or ‘fleadhs’ and touring the UK and Ireland in 2016 to commemorate 100 years since the Easter Rising.\nNow, I can usually be found over in Ireland during the summer holidays playing in sessions with my friends or going to music festivals across Ireland and the UK. I also play regularly in and around pubs in Liverpool, and volunteer as secretary or ‘runai’ for Comhaltas in Britain, helping to promote irish traditional music, song and dance throughout the country.\n\n\n\n\n\n\n\n\nFoodie\nI love to eat out and go out for drinks with my friends, with a particular obsession over tacos, ramen, craft beer, coffee and donuts.\nSome of my favourite places in Liverpool include Koffi, The Pen Factory, The Grapes, Free State Kitchen and Mother Espresso."
+  },
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "blog",
+    "section": "",
+    "text": "Innovate UK Trip\n\n\nBusan, South Korea\n\n\n\ngeographic data science\n\n\ndata\n\n\npolicy\n\n\ninnovation\n\n\n\n\n\n\nSep 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nInternational Geographical Congress 2024\n\n\nDublic College University, Dublin, Ireland\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\neducation\n\n\n\n\n\n\nSep 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nGrant Success! New Innovate UK Digital Twin Project\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\ntransport\n\n\n\n\n\n\nJun 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R for Policy\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\npolicy\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nMay 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew Eurovision Policy Brief\n\n\nHeseltine Institute for Public Policy & Practice, Liverpool, UK\n\n\n\npolicy\n\n\ndata\n\n\nretail\n\n\ngeographic data science\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAmerican Association of Geographers Conference\n\n\nHonolulu, Hawaii\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nApr 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nApplications of GIS MSc Talk\n\n\nUniversity of Sheffield, Sheffield, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nNov 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n30DayMapChallenge\n\n\nUniversity of Liverpool, Liverpool, UK\n\n\n\ndata\n\n\ngeographic data\n\n\nretail\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCDRC Data & Geodemographics Event\n\n\nSaid Business School, Oxford, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n\n\n\n\nOct 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGDSL Away Day\n\n\nLiverpool Bluecoat, Liverpool, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nOct 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGIScience Bi-Annual Conference\n\n\nUniversity of Leeds, Leeds, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nRepurposing City Centres Symposium\n\n\nUniversity of Westminster, London\n\n\n\ngeographic data science\n\n\ndata\n\n\nretail\n\n\n\n\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nKorea Research Visit\n\n\nSeoul, South Korea\n\n\n\ngeographic data science\n\n\ndata\n\n\ntransport\n\n\n\n\n\n\nJun 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nA Month in the Life of a Consultant\n\n\nLiverpool City Region, Liverpool, UK\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\npolicy\n\n\n\n\n\n\nMay 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGISRUK Annual Conference\n\n\nUniversity of Glasgow, Glasgow, UK\n\n\n\ngeographic data science\n\n\ndata\n\n\neducation\n\n\n\n\n\n\nApr 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nI got a PhD!!\n\n\nBlackburne House, Liverpool, UK\n\n\n\ngeographic data science\n\n\nretail\n\n\neducation\n\n\n\n\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Exchange with Korean Collaborators\n\n\nLiverpool Science Park, Liverpool, UK\n\n\n\ngeographic data science\n\n\nCOVID-19\n\n\ndata\n\n\n\n\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCARTO Spatial Data Science Conference\n\n\nGoogle HQ, Chelsea, NY\n\n\n\ngeographic data science\n\n\ngeodemographics\n\n\nretail\n\n\n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nSmart City Expo 2024\n\n\nFira Barcelona, Barcelona, Spain\n\n\n\ngeographic data science\n\n\ninnovation\n\n\npolicy\n\n\noutreach\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\n\nJapan Research Visit\n\n\nRitsumeikan University, Kyoto, Japan\n\n\n\ngeographic data science\n\n\nurban analytics\n\n\neducation\n\n\n\n\n\n\nSep 15, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers/p2.html",
+    "href": "papers/p2.html",
+    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
+    "section": "",
+    "text": "Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends."
+  },
+  {
+    "objectID": "papers/p2.html#abstract",
+    "href": "papers/p2.html#abstract",
+    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
+    "section": "",
+    "text": "Despite evidence that the COVID-19 pandemic has precipitated significant regional (economic) inequalities, there is a substantial lack of regional insight into the impacts of COVID-19 on the retail sector. In this study, using data from SafeGraph, we adopt a regional approach to explore how visits to retail places changed during the early weeks of the COVID-19 pandemic in the Chicago Metropolitan area. In particular, we highlight that retail visits exhibited interesting spatio-temporal and structural trends."
+  },
+  {
+    "objectID": "papers/p2.html#full-paper",
+    "href": "papers/p2.html#full-paper",
+    "title": "A Regional Exploration of Retail Visits During the COVID-19 Pandemic",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at Regional Studies, Regional Science"
+  },
+  {
+    "objectID": "papers/p4.html",
+    "href": "papers/p4.html",
+    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
+    "section": "",
+    "text": "Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors."
+  },
+  {
+    "objectID": "papers/p4.html#abstract",
+    "href": "papers/p4.html#abstract",
+    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
+    "section": "",
+    "text": "Early Career Researchers (ECRs) encounter distinctive opportunities (and challenges) within the neoliberal academy. In this commentary, we reflect on issues common to ECR experiences in quantitative human geography. Our discussion is inspired by and develops conversations from a panel at the Royal Geographical Society Institute of British Geographers (RGS-IBG) postgraduate forum, with panelists from across the subfield. Whilst many aspects of the ECR experience transcend sub-disciplinary boundaries, the quantitative subfield presents unique dynamics for ECRs to navigate. ECRs in quantitative geography are steeped in ‘data science’, which changes relations between academia and industry, with the growth of our field increasing the size and the scope of what ECRs might be expected to know and do. Bringing together reflections from the panel, we highlight the variation in pathways experienced by ECRs, reflecting on opportunities, uncertainties and mentorship, in the hope of offering insights and advice for prospective and current ECRs and their mentors."
+  },
+  {
+    "objectID": "papers/p4.html#full-paper",
+    "href": "papers/p4.html#full-paper",
+    "title": "‘There is no formula for life and career’: A commentary on perspectives and experiences of early career quantitative human geographers",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal"
+  },
+  {
+    "objectID": "papers/p6.html",
+    "href": "papers/p6.html",
+    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
+    "section": "",
+    "text": "This paper provides an analysis of working from home patterns in England using data from the 2021 Census to understand (1) how patterns of working from home (WFH) in England have shifted since the COVID-19 pandemic and (2) whether human mobility indicators, specifically Google Community Mobility Reports, provide a reliable proxy for WFH patterns recorded by the 2021 Census, providing a formal evaluation of the reliability of such datasets, whose applications have grown exponentially over the COVID-19 pandemic. We find that WFH patterns recorded by the 2021 Census were unique compared with previous UK censuses, reflecting an unprecedented increase likely caused by persistent changes to employment during the COVID-19 pandemic, with a clear social gradient emerging across the country. We also find that Google mobility in ‘Residential’ and ‘Workplace’ settings provides a reliable measurement of the distribution of WFH populations across Local Authorities, with varying uncertainties for mobility indicators collected in different settings. These findings provide insights into the utility of such datasets to support population research in intercensal periods, where shifts may be occurring, but can be difficult to quantify empirically."
+  },
+  {
+    "objectID": "papers/p6.html#abstract",
+    "href": "papers/p6.html#abstract",
+    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
+    "section": "",
+    "text": "This paper provides an analysis of working from home patterns in England using data from the 2021 Census to understand (1) how patterns of working from home (WFH) in England have shifted since the COVID-19 pandemic and (2) whether human mobility indicators, specifically Google Community Mobility Reports, provide a reliable proxy for WFH patterns recorded by the 2021 Census, providing a formal evaluation of the reliability of such datasets, whose applications have grown exponentially over the COVID-19 pandemic. We find that WFH patterns recorded by the 2021 Census were unique compared with previous UK censuses, reflecting an unprecedented increase likely caused by persistent changes to employment during the COVID-19 pandemic, with a clear social gradient emerging across the country. We also find that Google mobility in ‘Residential’ and ‘Workplace’ settings provides a reliable measurement of the distribution of WFH populations across Local Authorities, with varying uncertainties for mobility indicators collected in different settings. These findings provide insights into the utility of such datasets to support population research in intercensal periods, where shifts may be occurring, but can be difficult to quantify empirically."
+  },
+  {
+    "objectID": "papers/p6.html#full-paper",
+    "href": "papers/p6.html#full-paper",
+    "title": "Harnessing mobility data to capture changing work from home behaviours between censuses",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper is published and available open-access at The Geographical Journal."
+  },
+  {
+    "objectID": "papers/p8.html",
+    "href": "papers/p8.html",
+    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
+    "section": "",
+    "text": "Spatial inequality is a common urban phenomena in cities around the world, where stark contrasts in a variety of different social and economic outcomes paint a vivid picture of compound inequalities. Tackling these influences from a policy perspective remains challenging, as political economies often span multiple actors and municipal bodies, lacking effective policy instruments to challenge multiple forms of inequality at once. This paper provides a new data-driven perspective, which seeks to improve how policy is developed when trying to mitigate the impacts of compound inequality. Utilising a place-based approach, we present an evidence base which has been co-produced with policymakers, comprising composite spatial indicators and a city dashboard for Liverpool City Region. The assembled evidence base highlights clear patterns of compound inequality across the region, identifying places in greatest need of support. In the paper we discuss how this evidence base is now being used to distribute investment from the City Region Sustainable Transport Settlements, generating positive outcomes for people and places across the region. Finally, we conclude by reflecting on the benefits of building collaborative relationships between academics and policymakers, and the utility of our approach, which uses urban indicators and city dashboards, which we argue can secure a more equitable future for cities globally."
+  },
+  {
+    "objectID": "papers/p8.html#abstract",
+    "href": "papers/p8.html#abstract",
+    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
+    "section": "",
+    "text": "Spatial inequality is a common urban phenomena in cities around the world, where stark contrasts in a variety of different social and economic outcomes paint a vivid picture of compound inequalities. Tackling these influences from a policy perspective remains challenging, as political economies often span multiple actors and municipal bodies, lacking effective policy instruments to challenge multiple forms of inequality at once. This paper provides a new data-driven perspective, which seeks to improve how policy is developed when trying to mitigate the impacts of compound inequality. Utilising a place-based approach, we present an evidence base which has been co-produced with policymakers, comprising composite spatial indicators and a city dashboard for Liverpool City Region. The assembled evidence base highlights clear patterns of compound inequality across the region, identifying places in greatest need of support. In the paper we discuss how this evidence base is now being used to distribute investment from the City Region Sustainable Transport Settlements, generating positive outcomes for people and places across the region. Finally, we conclude by reflecting on the benefits of building collaborative relationships between academics and policymakers, and the utility of our approach, which uses urban indicators and city dashboards, which we argue can secure a more equitable future for cities globally."
+  },
+  {
+    "objectID": "papers/p8.html#full-paper",
+    "href": "papers/p8.html#full-paper",
+    "title": "Using composite indicators and city dashboards to promote place-based policy interventions.",
+    "section": "Full Paper",
+    "text": "Full Paper\nThe full paper has been accepted for publication at Cities."
+  },
+  {
+    "objectID": "posts/30DayMapChallenge.html",
+    "href": "posts/30DayMapChallenge.html",
+    "title": "30DayMapChallenge",
+    "section": "",
+    "text": "My entry to this year’s 30DayMapChallenge - Newcastle really is the home of Greggs (or is it?)\n\nNovember sees the return of the #30DayMapChallenge for 2023. This year’s categories include the usual geo topics like points, polygons, hexagons and OpenStreetMap, but there are some new fun ones like ‘North is not always up’, ‘retro’ and ‘my favourite…’. At the GDSL we are taking part in the map challenge, with a PhD student or member of staff taking on the challenge each day."
+  },
+  {
+    "objectID": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
+    "href": "posts/30DayMapChallenge.html#newcastle-really-is-the-home-of-greggs.",
+    "title": "30DayMapChallenge",
+    "section": "Newcastle really is the home of Greggs.",
+    "text": "Newcastle really is the home of Greggs.\nThis year, I took on the first map of the month - ‘points’. I’ve been doing lots of work with new POI data from Overture, specifically around how reliable the data is for retail applications, and the utility of Overture data for small-area accessibility measurement. I have a pre-print out on the topic too, which you can read here.\nThe map takes POI data from Overture, filters to Greggs stores and maps the distribution of these in Newcastle City Centre. I have also integrated CDRC retail centre boundaries and some other spatial data to improve the design of the map. You can see the code used to produce this map here."
+  },
+  {
+    "objectID": "posts/Away Day - GDSL.html",
+    "href": "posts/Away Day - GDSL.html",
+    "title": "GDSL Away Day",
+    "section": "",
+    "text": "GDSL Away Day\nAnnual Geographic Data Science Lab Away Day held at the Bluecoat in Liverpool. A great opportunity for new students and staff to get to know eachother. We held a series of lightning talks to get to know eachother (and some fun facts), followed by beers in Kazimier Garden into the evening.\n\nThe 4th October saw the Geographic Data Science Lab, staff and students, head ‘down the hill’ to the Bluecoat in Liverpool City Centre for an ‘Away Day’. Organised by our excellent lab leads Francisco and Elisabetta, we each presented a few slides about ourselves, our research and a fun fact (unless you were a subject to the postdoc-powerpoint curse haha). We enjoyed tea, coffee and cake throughout the afternoon, and even got time for a lab photo in the glorious sunshine! Over the summer, a number of new colleagues and PhD students have started with us, so this was an excellent opportunity for them to get to know everyone, and learn abit more about what make the GDSL a great place to work!\nIn true GDSL tradition, we finished the day with a few beers in Kazimier Garden, where we were treated to excellent craft beers, fried chicken and live music. Long live the GDSL!!\n\n\n\nPhotos"
+  },
+  {
+    "objectID": "posts/CDRC Research Showcase.html",
+    "href": "posts/CDRC Research Showcase.html",
+    "title": "CDRC Data & Geodemographics Event",
+    "section": "",
+    "text": "CDRC Data & Geodemographics Event\nCDRC Annual Partner Engagement event, held at the fantastic Said Business School, University of Oxford. The conference showcased cutting edge research and partnerships being developed in the CDRC, including the latest iteration of the Output Area Classification, research on the 24-hour city and a keynote from Crispin Ollington about the utility of Geodemographics for marketing.\n\nOn the 13th October I attended the annual CDRC partner engagement event, held at the Said Business School, University of Oxford. Alongside Hamish Gibbs (UCL), I presented our latest research on the use of Smart Data to examine changing work from home behaviours over the last couple of censuses. The research, which is imminently awaiting release at The Geographical Journal, harmonises census data and google mobility data for Local Authority Districts, and asks whether new forms of data can replace the census, through examining changing work from home behaviours, and social and spatial inequalities in working from home. The slides for my talk are available here.\nThe conference is a great opportunity to experience a more ‘commercial’ side of academia, catching up with CDRC partners like Geolytix, Homes for England and Pets at Home, and enjoying a series of talks on Data and Geodemographics. A particular highlight for me was the real appetite for the latest Output Area Classification (OAC) and the innovative ways in which Geodemographics have been used to support better marketing for theatre shows like The Book of Mormon.\nThanks to the CDRC for another fantastic event - especially Paul, Alex, James, Rebecca and Jonathan.\n\n\n\nPhotos"
+  },
+  {
+    "objectID": "posts/Expo 2024.html",
+    "href": "posts/Expo 2024.html",
+    "title": "Smart City Expo 2024",
+    "section": "",
+    "text": "We have just returned from the annual Smart City Expo in Barcelona, which was one of the most eye-opening and rewarding experiences thus far in my career. Bringing together thousands of people from all over the world, the expo provides a platform to showcase cutting edge research & developments in technology and smart cities from around the world. Thanks to Liverpool City Region Combined Authority and Connected Places Catapult for having me along."
+  },
+  {
+    "objectID": "posts/Expo 2024.html#smart-city-expo-1",
+    "href": "posts/Expo 2024.html#smart-city-expo-1",
+    "title": "Smart City Expo 2024",
+    "section": "Smart City Expo",
+    "text": "Smart City Expo\nInformation about the Smart City Expo can be found at the Expo website. Information about the UK pavilion and the activities held can be found here."
   },
   {
     "objectID": "posts/GISRUK2023.html",

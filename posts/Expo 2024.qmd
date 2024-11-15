@@ -1,0 +1,43 @@
+---
+title: "Smart City Expo 2024"
+date: "2024-11-02-05"
+author: [Patrick Ballantyne]
+categories: [geographic data science, innovation, policy, outreach]
+subtitle: "Fira Barcelona, Barcelona, Spain"
+image: "expo/expo.jpg"
+editor: visual
+---
+
+### Smart City Expo
+
+*We have just returned from the annual Smart City Expo in Barcelona, which was one of the most eye-opening and rewarding experiences thus far in my career. Bringing together thousands of people from all over the world, the expo provides a platform to showcase cutting edge research & developments in technology and smart cities from around the world. Thanks to Liverpool City Region Combined Authority and Connected Places Catapult for having me along*.
+
+![](expo/expo.jpg)
+
+------------------------------------------------------------------------
+
+### Liverpool City Region: Innovating for Growth
+
+Prof. Alex Singleton and I joined other representatives from around Liverpool City Region as part of Liverpool City Region Combined Authorities' delegation and stand at the Smart City Expo. Connected Places Catapult hosted our delegation on the UK pavilion, where we were joined by lots of great people from cities and companies across the UK. Our team comprised Lorna Rodgers, Danielle Carrington and Ian Inglis from LCRCA, Alex Singleton, Konstantin Vikhorev and myself from UoL, Kyle Hatchard from the Science and Technology Facilities Council (STFC) and Jon Wetherall from CGA simulation (see below).
+
+![](expo/group.jpg) ![](expo/stand.jpg)
+
+![](expo/pavillion.jpg)
+
+One of the main activities we engaged with was a panel session, held on the Wednesday to a packed pavilion audience. The panel discussed how Liverpool City Region is using Digital Twins & AI to boost commercial opportunity and solve real-world opportunities. I chaired the panel, and together we discussed important things such as why Liverpool City Region is **THE** place to invest at present, what makes the ecosystem of Liverpool City Region well-placed for commercial success and how institutions such as the Virtual Engineering Centre and companies like CGA simulation are using Digital Twins and AI for a variety of applications.
+
+![](expo/panel.jpg)
+
+For me, the expo provided an invaluable opportunity to network and discuss ideas with representatives from different sectors and from all around the world. I particularly enjoyed learning about how other combined authorities and local governments are solving real-world problems like bus franchising and mobility innovations, and have made lots of great contacts as a result of this trip.
+
+I also found plenty of time to catch-up with friends, and enjoy lots of tapas, wine and culture-vulturing.
+
+![](expo/barca.jpg)
+
+![](expo/wine.jpg)
+
+------------------------------------------------------------------------
+
+## Smart City Expo
+
+Information about the Smart City Expo can be found at the [Expo website](https://www.smartcityexpo.com/). Information about the UK pavilion and the activities held can be found [here](https://cp.catapult.org.uk/event/https-www-smartcityexpo-com/).
