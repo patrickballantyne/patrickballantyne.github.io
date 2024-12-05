@@ -1,0 +1,38 @@
+---
+title: "Grant Success! Partnership & Innovation Funding"
+date: "2024-09-26"
+author: [Patrick Ballantyne]
+categories: [geographic data science, urban analytics, policy, transport]
+subtitle: "Liverpool City Region, Liverpool, UK"
+image: "re.png"
+editor: visual
+---
+
+### Grant Success - Establishing a new cross-sector, collaborative agenda for data-driven transport planning. 
+
+*I am excited to announce that I have received financial investment from the University of Liverpool Partnership and Innovation Fund to establish a new long-term agenda for data-driven transport planning in cities and regions. This is a nine-month project, which is in collaboration with colleagues at the University of Liverpool and Liverpool City Region Combined Authority*.
+
+![](pif.jpeg)
+
+------------------------------------------------------------------------
+
+## Project Overview
+
+This nine-month project aims to revolutionise transport planning by showcasing the transformative power of data-driven insights and strategic partnerships between academic and public-sector organisations. Collaborating with Liverpool City Region Combined Authority (LCRCA), the project will develop innovative tools, such as a narrative dashboard to guide targeted investments for safer pedestrian infrastructure. This initiative directly supports the region's ambitious 'Vision Zero' goal to reduce traffic collisions, improving walkability and safety for residents. Beyond the immediate technological advancements, this project will lay the foundation for deeper, long-term collaboration between researchers, policymakers, and industry experts, fostering new partnerships and creating a framework to pursue larger funding opportunities for future transport innovations.
+
+What makes this project particularly exciting is its potential for far-reaching impact. By addressing key UKRI challenges such as "creating opportunities, improving outcomes" and "accelerating towards a net zero carbon future," the project not only aims to improve pedestrian safety, but also contributes to a more sustainable, effective transport system in Liverpool. The formation of a new strategic working group and the strengthening of existing partnerships between University of Liverpool and Liverpool City Region Combined Authority, will catalyse a new agenda to secure large-scale funding, which can drive a pipeline of data-driven transport investments, innovations and measurable impact over the next decade.
+
+## Project Background
+
+Over the last two years, researchers at the University of Liverpool (Patrick Ballantyne, Alex Singleton) have been co-developing an empirical evidence base with policymakers at LCRCA. This evidence base, comprising a suite of urban indicators and city dashboards, is now being used to allocate investment from the City Region Sustainable Transport Settlements. The tools and evidence developed have been used to provide policymakers with ready-to-use insights for policy efforts in the region and have been used to identify priority neighbourhoods for investment as well as evaluate new planning scheme proposals. You can read the two published articles on the topic [here](https://www.sciencedirect.com/science/article/pii/S0264275124005432) and [here](https://www.sciencedirect.com/science/article/pii/S019897152400108X). 
+
+At the same time, researchers at the University of Liverpool (Patrick Ballantyne , Heeseo Rain Kwon) have recently embarked on a collaborative research & development project funded by Innovate UK. This project, which brings together public, private and academic sector collaborators from the UK and South Korea, will focus on designing a “Digital Twin” of Liverpool City Region’s bus network. The “Digital Twin” leverages Big Data and Artificial Intelligence to design a new franchised bus network which prioritises efficiency, reliability and equity. You can read more about the project [here](https://www.linkedin.com/pulse/university-liverpool-researchers-participate-hmzuc/?trackingId=s27c3XRqhevBG766pNCl2A%3D%3D).
+
+These collaborations with Liverpool City Region Combined Authority highlight the real benefits of collaboration between policymakers and academics. Policymakers can present key strategic and political targets for cities and regions (e.g. Net Zero), and academic researchers can collaborate with them to design robust empirical analyses that contribute evidence and insights vital to delivery of these targets.
+
+## More information 
+
+This project has been funded by the University of Liverpool’s Partnership and Innovation Fund.
+
+Project team: [Patrick Ballantyne (PI)](https://patrickballantyne.github.io/), [Carmen Cabrera-Arnau (Co-I)](https://cabrera-arnau.com/), [Alex Singleton (Co-I)](https://www.alex-singleton.com/), [Giada Garofani (Research Assistant)](https://www.linkedin.com/in/giada-garofani-045509179/).
+

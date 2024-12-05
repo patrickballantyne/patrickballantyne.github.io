@@ -1,0 +1,39 @@
+---
+title: "GIS Day Talk, HERE Technologies"
+date: "2024-11-20"
+author: [Patrick Ballantyne]
+categories: [geographic data science, data, education, outreach]
+subtitle: "HERE Technologies, Amsterdam, Netherlands"
+image: "here.jpeg"
+editor: visual
+---
+
+### Towards Data-Driven Equitable Transport Infrastructure Planning
+
+*Recently, I was invited to give a talk at HERE technologies as part of the 3-Day GIS Day seminar series. In the talk I provided a high-level overview of some of the research I'm involved with around how we can use data and analytics, in partnership with policymakers, to improve transport infrastructure in cities*.
+
+![](here.jpeg)
+
+------------------------------------------------------------------------
+
+## Content
+
+For this talk I wanted to reflect on some of the work I (along with some colleagues) have been doing to support Liverpool City Region Combined Authority in their efforts to prioritise data-driven, equitable infrastructure planning. I discussed how we have consolidated a variety of spatial data about Liverpool City Region to design a bespoke set of urban indicators that help to prioritise investment into neighbourhoods where it is needed most, based on [this paper](https://www.sciencedirect.com/science/article/pii/S0264275124005432). I also introduced a new analytical framework for viewing transport accessibility as two-dimensional, particularly highlighting places where high levels of demand for sustainable transport are not met with good quality transport infrastructure, based on [this paper](https://www.sciencedirect.com/science/article/pii/S019897152400108X). 
+
+![](GIS-Day-24-PB.jpg)
+
+I also introduced some working research projects. I introduced a new spatial optimisation model which integrates infrastructure data, urban amenities, population data and road traffic collisions data to identify a set of optimal locations for new transport infrastructure. The model, which is based on network analysis tools and an urban indicator scoring approach, is able to capture the multidimensionality of factors associated with infrastructure location.
+
+![](optimisation.png)
+
+The other project I provided an overview of was the Innovate UK-funded bus Digital Twin project that is coming to the end of its first phase in January. In particular, I provided some technical details of the model, notably how it translates complex data about the bus network and city into an estimated GTFS feed given a variety of scenarios. 
+
+![](dt.png)
+
+Finally, I wanted to reflect on what the key lessons are that I've learned from two years of working with an external partner such as Liverpool City Region Combined Authority, which you can see summarised below.
+
+![](takeaway.png)
+
+## Slides
+
+Slides from my talk are available to view using [this link](GIS-Day-24-PB.pdf).
