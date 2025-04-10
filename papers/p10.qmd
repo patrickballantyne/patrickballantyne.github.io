@@ -1,0 +1,22 @@
+---
+title: "Leveraging Advanced Technologies for (Smart) Transportation Planning: A Systematic Review."
+date: "2025-03-05"
+author: [Heejoo Son, Jinhyeok Jang, Jihan Park, Akos Balog, Patrick Ballantyne, Heeseo Rain Kwon, Alex Singleton, Jinuk Hwang]
+categories: [transport, digital twins, smart cities, geography, paper]
+subtitle: "Sustainability"
+image: "p10-fig2.png"
+image-height: "2"
+editor: visual
+---
+
+## Abstract
+
+Transportation systems worldwide are facing numerous challenges, including congestion, environmental impacts, and safety concerns. This study used a systematic literature review to investigate how advanced technologies (e.g., IoT, AI, digital twins, and optimization methods) support smart transportation planning. Specifically, this study examines the interrelationships between transportation challenges, proposed solutions, and enabling technologies, providing insights into how these innovations support smart mobility initiatives. A systematic literature review, following PRISMA guidelines, identified 26 peer-reviewed articles published between 2013 and 2024, including studies that examined smart transportation technologies. To quantitatively assess relationships among key concepts, a Sentence BERT-based natural language processing approach was employed to compute alignment scores between transportation challenges, technological solutions, and implementation strategies. The findings highlight the fact that real-time data collection, predictive analytics, and digital twin simulations significantly enhance traffic flow, safety, and operational efficiency while mitigating environmental impacts. The analysis further reveals strong correlations between traffic congestion and public transit optimization, reinforcing the effectiveness of integrated, data-driven strategies. Additionally, IoT-based sensor networks and AI-driven decision-support systems are shown to play a critical role in sustainable urban mobility by enabling proactive congestion management, multimodal transportation planning, and emission reduction strategies. From a policy perspective, this study underscores the need for investment in urban-scale data infrastructures, the integration of digital twin modeling into long-term planning frameworks, and the alignment of optimization tools with public transit improvements to foster equitable and efficient mobility. These findings offer actionable recommendations for policymakers, engineers, and planners, guiding data-driven resource allocation and legislative strategies that support sustainable, adaptive, and technologically advanced transportation ecosystems.
+
+![](p10-fig1.png)
+
+![](p10-fig2.png)
+
+## Full Paper
+
+The full paper has been accepted for publication at Sustainability, DOI: https://doi.org/10.3390/su17052245. 
